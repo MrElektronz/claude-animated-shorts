@@ -27,7 +27,7 @@ def chunks(words, max_words=7, max_chars=44):
 
     def flush():
         if cur:
-            out.append((" ".join(w["word"] for w in cur), cur[0]["start"], cur[-1]["end"]))
+            out.append((" ".join(w["word"] for w in cur if w["word"]), cur[0]["start"], cur[-1]["end"]))
         cur.clear()
 
     for w in words:

@@ -93,7 +93,7 @@ export function chunkWords(words: Word[], maxWords = 7, maxChars = 44) {
   const out: { text: string; a: number; b: number }[] = [];
   let cur: Word[] = [];
   const flush = () => {
-    if (cur.length) out.push({ text: cur.map((w) => w.show ?? w.word).join(" "), a: cur[0].start, b: cur[cur.length - 1].end });
+    if (cur.length) out.push({ text: cur.map((w) => w.show ?? w.word).filter((t) => t !== "").join(" "), a: cur[0].start, b: cur[cur.length - 1].end });
     cur = [];
   };
   for (const w of words) {

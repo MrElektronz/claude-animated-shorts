@@ -12,6 +12,7 @@ Wissensquellen (vor jedem Video lesen):
 - `references/SCRIPT_FORMULA.md` – Bauplan, Satz-Werkzeuge, Checkliste.
 - `references/STYLE_BIBLE.md` – gemessene Farben, Typo, Licht, Kamera, Ton, Thumbnails.
 - `references/KANAL_LONG.md` – Zielgruppe, Säulen, Ideen-Speicher.
+- `references/VOICE_LOCAL.md` – lokale Stimme (Qwen3-TTS): Setup, Profil, Befehle, Nähte.
 - `references/demo_look_v1.jpg`, `references/demo_thumb_v1.jpg` – unser aktueller Look-Stand.
 
 Referenzmaterial (privat, außerhalb des Repos): `B:/Projects/Youtube/docu-ref-raw/` (6 Videos 720p, 12 Transkripte,
@@ -20,8 +21,9 @@ Kontaktbögen alle 5 s, Vollbilder, Thumbnails, measure.json).
 - Nie ihre Skripte, Leitmotive, Figuren oder ihren Missionssatz übernehmen. Kanalname nie nennen.
 
 ## Nutzer-Regeln
-- Deutsch, duzen. Eine ruhige Stimme: **ElevenLabs-Klon der Nutzerstimme** (Voice-ID in `voice/VOICE.md` des Videos;
-  Fallback „Daniel“ `onwK4e9ZLuTAKqWW03F9`), Tempo **1.0**.
+- Deutsch, duzen. Stimme: **lokaler Qwen3-TTS-Klon der Nutzerstimme** (Profil `kanal_dynamisch2`), lebendig erklärend.
+  Kein ElevenLabs für Longform (Nutzer will unabhängig sein und die Stimme besitzen).
+- Alles Große auf B: (Modelle, venv, TEMP). C: ist fast voll.
 - **Untertitel eingebrannt** (`Captions` aus words.json) und zusätzlich `untertitel.srt` für YouTube.
 - **Keine Fremd-Clips.** Echte Aussagen nur als `QuoteCard` (wörtlich, Quelle + Datum, „übersetzt“ falls übersetzt).
 - Jede Zahl im Bild trägt ihre Quelle. Firmenangaben, Schätzungen, Tierversuche als solche benennen.
@@ -43,14 +45,12 @@ Studio `B:/Projects/Youtube/shorts-studio`.
    Skizze des Leitmotivs mit seinen Zuständen (Anfang, Problem, Wendung, Ende).
 4. **Skript → `SCRIPT.md`** aus `templates/script/SCRIPT_TEMPLATE.md`. 1.150-1.400 Wörter. Checkliste abhaken.
    **Freigabe durch den Nutzer abwarten.**
-5. **Stimme** (`voice/`): `elevenlabs_tts.py` und `tighten.py` aus `videos/01-erfurt-1184/voice/` kopieren.
-   - `script_tts.txt` **pro Kapitel** eine Datei (ElevenLabs-Limit ~10.000 Zeichen pro Anfrage; kürzere Takes klingen
-     gleichmäßiger). Zahlen ausgeschrieben. `TTS_SPEED=1.0`.
-   - `tighten.py` mit Doku-Pausen: `KEEP_WORD=0.16`, `KEEP_SENTENCE=0.45`; zwischen Kapiteln 0,9 s Stille einfügen.
-   - Takes zu `voice.wav` (48 kHz) verbinden, Zeiten zu einem `words.json` (`[{word,start,end}]`) verschieben.
-   - Wortzeiten stichprobenartig hören und korrigieren; alles im Bild hängt an words.json.
-   - Ausgeschriebene Zahlen/Namen bekommen ein `show`-Feld mit der Schreibweise für Untertitel und .srt
-     (`{"word":"zweitausendsiebenundzwanzig","show":"2027",…}`). `at()` sucht weiter im gesprochenen `word`.
+5. **Stimme** (`voice/`): **lokal mit Qwen3-TTS**, Klon der Nutzerstimme, Profil `kanal_dynamisch2`.
+   Alles Nötige in `references/VOICE_LOCAL.md` (Setup auf B:, Textformat, Befehle, Naht-Korrekturen, Leistung).
+   - Kapiteltexte nach `voice/text/kXX_<name>.txt`, Zahlen als `[[2027|zweitausendsiebenundzwanzig]]`.
+   - `templates/voice/qwen_say.py` → Takes pro Kapitel; `templates/voice/align_words.py` → `words.json` + `voice.wav`.
+   - Abschnitte mit Score < 0,85 oder hörbaren Fehlern mit `--only <kapitel>:<i> --seed <n>` neu erzeugen.
+   - Probehören an den Nutzer schicken, bevor Bild und Ton darauf gebaut werden.
 6. **Bildplan → `SHOTPLAN.md` und `story.ts`.** Pro Satz: Set, Kamera-Key, Elemente mit Wort-Anker (`at(words,"Wort",n)`).
    - Eine Welt pro Video: Leitmotiv-Set in der Mitte, Kapitel-Sets daneben (x-Versatz ~2.000 px), Kamera fährt dazwischen.
    - Kamera-Keys mit `camAt()`: Fahrten 30-60 f, jede Ruhe kriecht (eingebaut). Harte Schnitte nur bei Ort-/Zeitsprung.
