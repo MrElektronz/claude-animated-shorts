@@ -42,7 +42,8 @@ Stand: 2026-11-15. Gilt für alle Videos dieses Kanals. Look und Pipeline kommen
 ## Ideen-Speicher
 | Säule | Idee | Status |
 |---|---|---|
-| Stadtgeschichte | Erfurt 1184: Fürstenversammlung bricht durch den Boden in die Latrine | Video 1, Skript v1 (`videos/01-erfurt-1184/`) |
+| Stadtgeschichte | Erfurt 1184: Fürstenversammlung bricht durch den Boden in die Latrine | Video 1, veröffentlicht (`videos/01-erfurt-1184/`) |
+| Stadtgeschichte | Berlin-Köpenick 1906: Schuster mit Trödler-Uniform besetzt das Rathaus | Video 2, Skript v1 (`videos/02-koepenick-1906/`) |
 | Stadtgeschichte | Weinsberg 1140: Frauen tragen ihre Männer aus der belagerten Burg ("Weibertreu") | Kandidat |
 | Stadtgeschichte | Köln: Der Baukran auf dem Domturm war ~400 Jahre lang Wahrzeichen der Stadt | Kandidat |
 | Stadtgeschichte | Ulm 1811: Der Schneider von Ulm will über die Donau fliegen | Idee |
