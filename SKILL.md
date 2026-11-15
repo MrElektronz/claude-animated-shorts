@@ -17,11 +17,11 @@ The style reference is a channel studied privately (`references/`: STYLE_BIBLE.m
 
 User rules that apply:
 - No captions or labels in the video.
-- English only.
+- German only.
 - Voice: one steady tone.
 - Jokes are researched real facts.
 - Standard mix: music +3 dB, SFX -6 dB, voice unchanged.
-- Final export 2K vertical: 1440x2560, `--scale 1.3333`.
+- Final export 2K vertical: 1440x2560, `--scale 1.3333333333333333` (exactly 4/3 in floating point: `1.3333` gives a 2559.94 px height and Remotion refuses to stitch).
 - Opus max verifies every check.
 - Save after every step.
 - "Just do it" once the script is approved.
@@ -73,7 +73,7 @@ User rules that apply:
    - Make side-by-sides against reference frames with `python scripts/sbs_sheet.py out.jpg --ours ... --ref ...`.
    - Send them to an Opus max verifier: 1-3 images, a ≤200-word verdict.
 10. **Final render.**
-    - `npx remotion render src/index.ts <Comp> out/<name>/video.mp4 --codec h264 --crf 16 --scale 1.3333`
+    - `npx remotion render src/index.ts <Comp> out/<name>/video.mp4 --codec h264 --crf 16 --scale 1.3333333333333333`
     - Mux with `-map 0:v:0 -map 1:a:0` (Remotion writes a silent audio track).
     - QA: `python scripts/short_qa.py final.mp4 out/<name>/qa shots.json` checks every frame for black, white, frozen and pop frames, plus loudness and sheets.
     - Fix anything it finds, then run a deep Opus audit.
@@ -148,6 +148,12 @@ lighting 5-6, ink 6, textures 5-6, characters 7, depth 6-7, composition 6-7 (fro
 - **Disk:** every Remotion bundle copies `public/` (~1.3 GB) into `the temp folder\remotion-webpack-bundle-*` and never deletes it. 60+ GB filled the system drive during the bridge passes and a render died with ENOSPC. Always render with `export TEMP='<big drive>/remotion-tmp' TMP='<big drive>/remotion-tmp'` (bridge-stills.mjs sets it itself) and ask the user before deleting old bundle folders in the shared the temp folder (auto mode blocks the sweep). <big drive>/remotion-tmp fills too (~500 folders / 110 GB after the 4 bridge rounds): when a project is finished and nothing is rendering, delete its `remotion-webpack-bundle-*` and `puppeteer_dev_chrome_profile-*` folders there.
 - In JS strings write `"<big drive>/remotion-tmp"`, never `"<big drive>\remotion-tmp"` (`\r` becomes a carriage return).
 - Remotion writes a silent audio track: mux with `-map 0:v:0 -map 1:a:0`.
+- **Blank stills (only the background colour):** `@react-three/postprocessing` ≥ 3.1 builds its EffectComposer in a
+  useEffect after mount, and Remotion renders a still with a single `advance()`, so nothing is drawn. Fix: the
+  `useComposerGate()` hook (`src/lib/composerGate.tsx` in the studio) on `<EffectComposer ref={gate}>` holds the frame
+  until the passes exist, then advances once more. Known-good versions (2026-11): remotion 4.0.539, three 0.186.1,
+  postprocessing 6.39.5, @react-three/postprocessing 3.1.3, @react-three/fiber 9.8.2. three 0.187 breaks the
+  postprocessing peer range.
 - Sub-agents can't write report files in this harness: ask them for a ≤150-word final message and save it yourself to `out/<name>/<n>/REPORT.md`.
 - Scratch `.ts` files inside `out/` break `tsc`: name them `.txt`.
 - 2K renders run ~4 fps (≈10 min for 67 s). Stills at 0.5 take 3-8 s each after a ~40 s bundle.
@@ -164,3 +170,5 @@ lighting 5-6, ink 6, textures 5-6, characters 7, depth 6-7, composition 6-7 (fro
 - Golden rim light done as an offset outer copy turns every hat into a picture frame: inner rim only, head/torso only.
 - Balcony/railing rails at chest height through characters: put the lens ~2.5 m up so rails cross legs, not torsos.
 - Flat holds read as freezes in QA (frozen span ≥12 f): every hold needs a creeping push-in.
+- **Long renders die with "Error creating WebGL context"** (frame ~540 at concurrency 1; shader errors at concurrency 4): one browser cannot hold a full short. Render in chunks with a fresh browser each (`scripts/render-chunks.sh` in the studio: 300-frame chunks for 0.5 drafts, 150 for the 2K final), then `ffmpeg -f concat` and mux the mix.
+- **Flicker = coplanar faces.** Never put two surfaces closer than a few cm (5-10 cm at 100 m+); wall blocks must not share a plane with the plaster/stone quad in front of them.

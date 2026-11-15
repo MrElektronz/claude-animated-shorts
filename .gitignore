@@ -1,0 +1,6 @@
+__pycache__/
+# regenerierbar: audio/<name>_audio.py erzeugt Mix + Stems neu
+videos/*/audio/*.wav
+# Zwischenstände der Stimme (voice.wav + words.json bleiben drin)
+videos/*/voice/*_tight*
+videos/*/voice/*probe*

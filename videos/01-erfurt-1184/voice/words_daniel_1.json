@@ -1,0 +1,1057 @@
+[
+ {
+  "word": "Im",
+  "start": 0.0,
+  "end": 0.151
+ },
+ {
+  "word": "Sommer",
+  "start": 0.209,
+  "end": 0.464
+ },
+ {
+  "word": "elfhundertvierundachtzig",
+  "start": 0.534,
+  "end": 1.788
+ },
+ {
+  "word": "ist",
+  "start": 2.136,
+  "end": 2.322
+ },
+ {
+  "word": "in",
+  "start": 2.368,
+  "end": 2.426
+ },
+ {
+  "word": "Erfurt",
+  "start": 2.485,
+  "end": 2.81
+ },
+ {
+  "word": "die",
+  "start": 2.844,
+  "end": 2.949
+ },
+ {
+  "word": "halbe",
+  "start": 3.007,
+  "end": 3.274
+ },
+ {
+  "word": "Elite",
+  "start": 3.332,
+  "end": 3.622
+ },
+ {
+  "word": "des",
+  "start": 3.669,
+  "end": 3.785
+ },
+ {
+  "word": "Reiches",
+  "start": 3.855,
+  "end": 4.272
+ },
+ {
+  "word": "ins",
+  "start": 4.528,
+  "end": 4.714
+ },
+ {
+  "word": "Klo",
+  "start": 4.783,
+  "end": 4.957
+ },
+ {
+  "word": "gefallen.",
+  "start": 5.016,
+  "end": 5.573
+ },
+ {
+  "word": "König",
+  "start": 5.979,
+  "end": 6.304
+ },
+ {
+  "word": "Heinrich",
+  "start": 6.327,
+  "end": 6.757
+ },
+ {
+  "word": "ist",
+  "start": 7.105,
+  "end": 7.291
+ },
+ {
+  "word": "auf",
+  "start": 7.349,
+  "end": 7.442
+ },
+ {
+  "word": "der",
+  "start": 7.5,
+  "end": 7.57
+ },
+ {
+  "word": "Durchreise",
+  "start": 7.616,
+  "end": 8.278
+ },
+ {
+  "word": "und",
+  "start": 8.626,
+  "end": 8.754
+ },
+ {
+  "word": "will",
+  "start": 8.8,
+  "end": 8.94
+ },
+ {
+  "word": "nur",
+  "start": 8.975,
+  "end": 9.102
+ },
+ {
+  "word": "schnell",
+  "start": 9.137,
+  "end": 9.404
+ },
+ {
+  "word": "einen",
+  "start": 9.474,
+  "end": 9.683
+ },
+ {
+  "word": "Streit",
+  "start": 9.718,
+  "end": 10.031
+ },
+ {
+  "word": "schlichten.",
+  "start": 10.066,
+  "end": 10.623
+ },
+ {
+  "word": "Der",
+  "start": 11.262,
+  "end": 11.401
+ },
+ {
+  "word": "Erzbischof",
+  "start": 11.459,
+  "end": 12.005
+ },
+ {
+  "word": "von",
+  "start": 12.063,
+  "end": 12.225
+ },
+ {
+  "word": "Mainz",
+  "start": 12.283,
+  "end": 12.585
+ },
+ {
+  "word": "und",
+  "start": 12.992,
+  "end": 13.131
+ },
+ {
+  "word": "der",
+  "start": 13.166,
+  "end": 13.247
+ },
+ {
+  "word": "Landgraf",
+  "start": 13.293,
+  "end": 13.781
+ },
+ {
+  "word": "von",
+  "start": 13.839,
+  "end": 14.001
+ },
+ {
+  "word": "Thüringen",
+  "start": 14.059,
+  "end": 14.559
+ },
+ {
+  "word": "können",
+  "start": 14.907,
+  "end": 15.197
+ },
+ {
+  "word": "sich",
+  "start": 15.244,
+  "end": 15.395
+ },
+ {
+  "word": "nicht",
+  "start": 15.453,
+  "end": 15.662
+ },
+ {
+  "word": "ausstehen.",
+  "start": 15.731,
+  "end": 16.323
+ },
+ {
+  "word": "Treffpunkt:",
+  "start": 16.672,
+  "end": 17.392
+ },
+ {
+  "word": "der",
+  "start": 17.682,
+  "end": 17.81
+ },
+ {
+  "word": "Saal",
+  "start": 17.868,
+  "end": 18.181
+ },
+ {
+  "word": "der",
+  "start": 18.529,
+  "end": 18.657
+ },
+ {
+  "word": "Dompropstei",
+  "start": 18.703,
+  "end": 19.435
+ },
+ {
+  "word": "am",
+  "start": 19.841,
+  "end": 20.004
+ },
+ {
+  "word": "Dom.",
+  "start": 20.062,
+  "end": 20.526
+ },
+ {
+  "word": "Zweiter",
+  "start": 21.072,
+  "end": 21.443
+ },
+ {
+  "word": "Stock.",
+  "start": 21.478,
+  "end": 21.919
+ },
+ {
+  "word": "Und",
+  "start": 22.384,
+  "end": 22.5
+ },
+ {
+  "word": "wer",
+  "start": 22.535,
+  "end": 22.639
+ },
+ {
+  "word": "in",
+  "start": 22.686,
+  "end": 22.744
+ },
+ {
+  "word": "Thüringen",
+  "start": 22.802,
+  "end": 23.197
+ },
+ {
+  "word": "irgendwas",
+  "start": 23.278,
+  "end": 23.696
+ },
+ {
+  "word": "zu",
+  "start": 23.765,
+  "end": 23.858
+ },
+ {
+  "word": "sagen",
+  "start": 23.916,
+  "end": 24.23
+ },
+ {
+  "word": "hat,",
+  "start": 24.276,
+  "end": 24.636
+ },
+ {
+  "word": "will",
+  "start": 24.775,
+  "end": 24.938
+ },
+ {
+  "word": "dabei",
+  "start": 24.984,
+  "end": 25.263
+ },
+ {
+  "word": "sein.",
+  "start": 25.321,
+  "end": 25.716
+ },
+ {
+  "word": "Grafen,",
+  "start": 26.006,
+  "end": 26.633
+ },
+ {
+  "word": "Burggrafen,",
+  "start": 26.819,
+  "end": 27.666
+ },
+ {
+  "word": "Ritter,",
+  "start": 27.887,
+  "end": 28.375
+ },
+ {
+  "word": "jeder",
+  "start": 28.595,
+  "end": 28.851
+ },
+ {
+  "word": "mit",
+  "start": 28.885,
+  "end": 29.013
+ },
+ {
+  "word": "Gefolge.",
+  "start": 29.06,
+  "end": 29.675
+ },
+ {
+  "word": "Wer",
+  "start": 30.023,
+  "end": 30.163
+ },
+ {
+  "word": "etwas",
+  "start": 30.209,
+  "end": 30.488
+ },
+ {
+  "word": "auf",
+  "start": 30.546,
+  "end": 30.673
+ },
+ {
+  "word": "sich",
+  "start": 30.731,
+  "end": 30.859
+ },
+ {
+  "word": "hält,",
+  "start": 30.906,
+  "end": 31.358
+ },
+ {
+  "word": "steht",
+  "start": 31.544,
+  "end": 31.788
+ },
+ {
+  "word": "möglichst",
+  "start": 31.846,
+  "end": 32.276
+ },
+ {
+  "word": "nah",
+  "start": 32.345,
+  "end": 32.636
+ },
+ {
+  "word": "am",
+  "start": 32.856,
+  "end": 33.007
+ },
+ {
+  "word": "König.",
+  "start": 33.088,
+  "end": 33.692
+ },
+ {
+  "word": "Der",
+  "start": 33.982,
+  "end": 34.11
+ },
+ {
+  "word": "alte",
+  "start": 34.145,
+  "end": 34.354
+ },
+ {
+  "word": "Holzboden",
+  "start": 34.412,
+  "end": 34.923
+ },
+ {
+  "word": "knarzt,",
+  "start": 34.981,
+  "end": 35.596
+ },
+ {
+  "word": "aber",
+  "start": 35.782,
+  "end": 36.002
+ },
+ {
+  "word": "niemand",
+  "start": 36.037,
+  "end": 36.42
+ },
+ {
+  "word": "will",
+  "start": 36.641,
+  "end": 36.804
+ },
+ {
+  "word": "der",
+  "start": 36.85,
+  "end": 36.931
+ },
+ {
+  "word": "Erste",
+  "start": 36.989,
+  "end": 37.256
+ },
+ {
+  "word": "sein,",
+  "start": 37.314,
+  "end": 37.721
+ },
+ {
+  "word": "der",
+  "start": 37.837,
+  "end": 37.976
+ },
+ {
+  "word": "rausgeht.",
+  "start": 38.023,
+  "end": 38.742
+ },
+ {
+  "word": "Dann",
+  "start": 38.998,
+  "end": 39.276
+ },
+ {
+  "word": "bricht",
+  "start": 39.567,
+  "end": 39.845
+ },
+ {
+  "word": "der",
+  "start": 39.869,
+  "end": 39.961
+ },
+ {
+  "word": "Boden.",
+  "start": 40.008,
+  "end": 40.472
+ },
+ {
+  "word": "Der",
+  "start": 40.763,
+  "end": 40.902
+ },
+ {
+  "word": "Boden",
+  "start": 40.948,
+  "end": 41.215
+ },
+ {
+  "word": "darunter",
+  "start": 41.25,
+  "end": 41.703
+ },
+ {
+  "word": "hält",
+  "start": 42.051,
+  "end": 42.26
+ },
+ {
+  "word": "den",
+  "start": 42.283,
+  "end": 42.388
+ },
+ {
+  "word": "Aufprall",
+  "start": 42.446,
+  "end": 42.817
+ },
+ {
+  "word": "auch",
+  "start": 42.876,
+  "end": 43.038
+ },
+ {
+  "word": "nicht",
+  "start": 43.085,
+  "end": 43.259
+ },
+ {
+  "word": "aus,",
+  "start": 43.317,
+  "end": 43.781
+ },
+ {
+  "word": "also",
+  "start": 43.944,
+  "end": 44.164
+ },
+ {
+  "word": "geht",
+  "start": 44.211,
+  "end": 44.362
+ },
+ {
+  "word": "es",
+  "start": 44.408,
+  "end": 44.478
+ },
+ {
+  "word": "zwei",
+  "start": 44.547,
+  "end": 44.756
+ },
+ {
+  "word": "Stockwerke",
+  "start": 44.814,
+  "end": 45.325
+ },
+ {
+  "word": "runter.",
+  "start": 45.372,
+  "end": 45.847
+ },
+ {
+  "word": "Direkt",
+  "start": 46.138,
+  "end": 46.532
+ },
+ {
+  "word": "in",
+  "start": 46.881,
+  "end": 46.997
+ },
+ {
+  "word": "die",
+  "start": 47.032,
+  "end": 47.113
+ },
+ {
+  "word": "Latrinengrube.",
+  "start": 47.159,
+  "end": 48.146
+ },
+ {
+  "word": "Zum",
+  "start": 48.553,
+  "end": 48.704
+ },
+ {
+  "word": "Glück",
+  "start": 48.762,
+  "end": 48.959
+ },
+ {
+  "word": "saß",
+  "start": 49.017,
+  "end": 49.203
+ },
+ {
+  "word": "der",
+  "start": 49.261,
+  "end": 49.354
+ },
+ {
+  "word": "König",
+  "start": 49.4,
+  "end": 49.725
+ },
+ {
+  "word": "in",
+  "start": 49.783,
+  "end": 49.841
+ },
+ {
+  "word": "einer",
+  "start": 49.888,
+  "end": 50.062
+ },
+ {
+  "word": "Fensternische",
+  "start": 50.12,
+  "end": 50.759
+ },
+ {
+  "word": "aus",
+  "start": 50.817,
+  "end": 50.933
+ },
+ {
+  "word": "Stein.",
+  "start": 50.991,
+  "end": 51.536
+ },
+ {
+  "word": "Zum",
+  "start": 52.001,
+  "end": 52.163
+ },
+ {
+  "word": "Pech",
+  "start": 52.221,
+  "end": 52.488
+ },
+ {
+  "word": "saßen",
+  "start": 52.837,
+  "end": 53.22
+ },
+ {
+  "word": "alle",
+  "start": 53.278,
+  "end": 53.464
+ },
+ {
+  "word": "anderen",
+  "start": 53.522,
+  "end": 53.94
+ },
+ {
+  "word": "auf",
+  "start": 54.16,
+  "end": 54.323
+ },
+ {
+  "word": "Holz.",
+  "start": 54.381,
+  "end": 54.926
+ },
+ {
+  "word": "Er",
+  "start": 55.275,
+  "end": 55.495
+ },
+ {
+  "word": "und",
+  "start": 55.553,
+  "end": 55.646
+ },
+ {
+  "word": "der",
+  "start": 55.681,
+  "end": 55.762
+ },
+ {
+  "word": "Erzbischof",
+  "start": 55.82,
+  "end": 56.378
+ },
+ {
+  "word": "werden",
+  "start": 56.726,
+  "end": 56.981
+ },
+ {
+  "word": "mit",
+  "start": 57.005,
+  "end": 57.121
+ },
+ {
+  "word": "Leitern",
+  "start": 57.179,
+  "end": 57.481
+ },
+ {
+  "word": "gerettet.",
+  "start": 57.527,
+  "end": 58.119
+ },
+ {
+  "word": "Rund",
+  "start": 58.468,
+  "end": 58.653
+ },
+ {
+  "word": "sechzig",
+  "start": 58.7,
+  "end": 59.036
+ },
+ {
+  "word": "andere",
+  "start": 59.083,
+  "end": 59.373
+ },
+ {
+  "word": "nicht.",
+  "start": 59.42,
+  "end": 59.838
+ },
+ {
+  "word": "Alte",
+  "start": 60.302,
+  "end": 60.534
+ },
+ {
+  "word": "Holzbalken",
+  "start": 60.581,
+  "end": 61.184
+ },
+ {
+  "word": "halten",
+  "start": 61.347,
+  "end": 61.66
+ },
+ {
+  "word": "lange.",
+  "start": 61.718,
+  "end": 62.148
+ },
+ {
+  "word": "Sehr",
+  "start": 62.554,
+  "end": 62.961
+ },
+ {
+  "word": "lange.",
+  "start": 63.1,
+  "end": 63.564
+ },
+ {
+  "word": "Das",
+  "start": 64.029,
+  "end": 64.18
+ },
+ {
+  "word": "ist",
+  "start": 64.238,
+  "end": 64.342
+ },
+ {
+  "word": "wie",
+  "start": 64.389,
+  "end": 64.493
+ },
+ {
+  "word": "mit",
+  "start": 64.528,
+  "end": 64.644
+ },
+ {
+  "word": "der",
+  "start": 64.679,
+  "end": 64.76
+ },
+ {
+  "word": "Bierbank",
+  "start": 64.818,
+  "end": 65.178
+ },
+ {
+  "word": "beim",
+  "start": 65.225,
+  "end": 65.364
+ },
+ {
+  "word": "Schützenfest:",
+  "start": 65.422,
+  "end": 66.281
+ },
+ {
+  "word": "Die",
+  "start": 66.571,
+  "end": 66.699
+ },
+ {
+  "word": "hält",
+  "start": 66.745,
+  "end": 66.931
+ },
+ {
+  "word": "zwanzig",
+  "start": 66.954,
+  "end": 67.349
+ },
+ {
+  "word": "Jahre,",
+  "start": 67.372,
+  "end": 67.906
+ },
+ {
+  "word": "bis",
+  "start": 68.197,
+  "end": 68.336
+ },
+ {
+  "word": "sich",
+  "start": 68.359,
+  "end": 68.487
+ },
+ {
+  "word": "der",
+  "start": 68.533,
+  "end": 68.615
+ },
+ {
+  "word": "fünfte",
+  "start": 68.661,
+  "end": 68.986
+ },
+ {
+  "word": "Onkel",
+  "start": 69.044,
+  "end": 69.265
+ },
+ {
+  "word": "dazusetzt.",
+  "start": 69.311,
+  "end": 70.136
+ },
+ {
+  "word": "Und",
+  "start": 70.681,
+  "end": 70.821
+ },
+ {
+  "word": "ein",
+  "start": 70.879,
+  "end": 70.971
+ },
+ {
+  "word": "Boden,",
+  "start": 71.03,
+  "end": 71.529
+ },
+ {
+  "word": "der",
+  "start": 71.715,
+  "end": 71.831
+ },
+ {
+  "word": "von",
+  "start": 71.877,
+  "end": 72.005
+ },
+ {
+  "word": "oben",
+  "start": 72.063,
+  "end": 72.26
+ },
+ {
+  "word": "herunterkracht,",
+  "start": 72.295,
+  "end": 73.212
+ },
+ {
+  "word": "ist",
+  "start": 73.398,
+  "end": 73.572
+ },
+ {
+  "word": "für",
+  "start": 73.607,
+  "end": 73.723
+ },
+ {
+  "word": "den",
+  "start": 73.746,
+  "end": 73.851
+ },
+ {
+  "word": "Boden",
+  "start": 73.909,
+  "end": 74.176
+ },
+ {
+  "word": "darunter",
+  "start": 74.211,
+  "end": 74.605
+ },
+ {
+  "word": "einfach",
+  "start": 74.663,
+  "end": 74.989
+ },
+ {
+  "word": "nur",
+  "start": 75.047,
+  "end": 75.174
+ },
+ {
+  "word": "noch",
+  "start": 75.209,
+  "end": 75.36
+ },
+ {
+  "word": "mehr",
+  "start": 75.418,
+  "end": 75.604
+ },
+ {
+  "word": "Onkel.",
+  "start": 75.662,
+  "end": 76.103
+ },
+ {
+  "word": "Heinrich",
+  "start": 76.742,
+  "end": 77.137
+ },
+ {
+  "word": "verlässt",
+  "start": 77.206,
+  "end": 77.555
+ },
+ {
+  "word": "Erfurt",
+  "start": 77.636,
+  "end": 77.949
+ },
+ {
+  "word": "sofort.",
+  "start": 77.984,
+  "end": 78.634
+ },
+ {
+  "word": "Aber",
+  "start": 79.18,
+  "end": 79.401
+ },
+ {
+  "word": "ein",
+  "start": 79.447,
+  "end": 79.54
+ },
+ {
+  "word": "Mönch",
+  "start": 79.598,
+  "end": 79.877
+ },
+ {
+  "word": "schreibt",
+  "start": 80.097,
+  "end": 80.434
+ },
+ {
+  "word": "die",
+  "start": 80.457,
+  "end": 80.539
+ },
+ {
+  "word": "Namen",
+  "start": 80.597,
+  "end": 80.898
+ },
+ {
+  "word": "der",
+  "start": 80.945,
+  "end": 81.038
+ },
+ {
+  "word": "Toten",
+  "start": 81.084,
+  "end": 81.398
+ },
+ {
+  "word": "auf.",
+  "start": 81.467,
+  "end": 81.85
+ },
+ {
+  "word": "Deshalb",
+  "start": 82.257,
+  "end": 82.605
+ },
+ {
+  "word": "wissen",
+  "start": 82.628,
+  "end": 82.849
+ },
+ {
+  "word": "wir",
+  "start": 82.884,
+  "end": 83.011
+ },
+ {
+  "word": "über",
+  "start": 83.069,
+  "end": 83.267
+ },
+ {
+  "word": "achthundert",
+  "start": 83.325,
+  "end": 83.743
+ },
+ {
+  "word": "Jahre",
+  "start": 83.801,
+  "end": 84.021
+ },
+ {
+  "word": "später",
+  "start": 84.056,
+  "end": 84.474
+ },
+ {
+  "word": "ganz",
+  "start": 84.765,
+  "end": 85.02
+ },
+ {
+  "word": "genau,",
+  "start": 85.078,
+  "end": 85.658
+ },
+ {
+  "word": "wer",
+  "start": 85.914,
+  "end": 86.204
+ },
+ {
+  "word": "an",
+  "start": 86.274,
+  "end": 86.39
+ },
+ {
+  "word": "diesem",
+  "start": 86.448,
+  "end": 86.727
+ },
+ {
+  "word": "Tag",
+  "start": 86.785,
+  "end": 87.075
+ },
+ {
+  "word": "ins",
+  "start": 87.296,
+  "end": 87.504
+ },
+ {
+  "word": "Klo",
+  "start": 87.563,
+  "end": 87.725
+ },
+ {
+  "word": "gefallen",
+  "start": 87.783,
+  "end": 88.155
+ },
+ {
+  "word": "ist.",
+  "start": 88.213,
+  "end": 88.747
+ }
+]
