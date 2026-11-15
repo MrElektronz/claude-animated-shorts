@@ -29,5 +29,11 @@ Claude then follows `SKILL.md`: topic and facts, then script, then voice, then t
 - Set `REMOTION_TMP` to a folder on a big drive. Every Remotion bundle copies `public/` (~1.3 GB) into the temp folder.
 - Story, characters and voice should always be your own. Use the references for the look, not the content.
 
+## Second skill: `docu-2d-long/`
+German 7-12 min long-form documentary explainers (16:9) in a 2D "night-navy stage" look, built as SVG/React in Remotion
+(no three.js). See `docu-2d-long/SKILL.md`: script formula from 12 measured transcripts, measured style bible,
+reusable components (`templates/remotion/lib/docu/`), a demo composition, SRT/chapter tool and reference-analysis tools.
+Install by copying `docu-2d-long/` to `~/.claude/skills/docu-2d-long/`.
+
 ## License
 The code and docs are MIT (see `LICENSE`). The reference frames are included for style study only.
