@@ -82,6 +82,16 @@ ihre Skripte, ihre Leitmotive (Tacho, Preisticket, Dominoreihe), ihre gelbe Rege
 - SFX zurückhaltend: weiche Whooshes bei Kamerafahrten, Ticks beim Hochzählen, Papiergeräusch bei Zitatkarten,
   tiefer Impuls beim Aufleuchten des Leitmotivs.
 
+## Kontrast-Regel (Nutzer-Feedback 2026-11-16, gilt für Thumbnails UND Videos)
+- Blau auf Blau wirkt flach. Pro Schlüsselbild **eine heiße Gold/Orange-Lichtquelle** (`Beam`, `HorizonGlow` in
+  `lib/docu/Scenery.tsx`, Farben `GOLD_HOT #ffcf6e` / `ORANGE_HOT #ff9a3c`), deutlich heller und größer als bisher.
+- Hintergründe nicht leer: Sternenhimmel mit Verlauf zum hellen Horizont (`NightSky`), 2-3 Bergketten mit Gold-Kante
+  zur Lichtquelle (`Mountains`), Stadt mit warmen Fenstern (`Town`), Hügel mit Lichtkante für die Du-Figur (`Hill`).
+- Du-Figur vor warmem Licht freistellen (orangener Lichthof als **Radialverlauf**, nie flache Ellipse).
+- Navy bleibt 70-85 % der Fläche; der Akzent darf jetzt 8-15 % haben.
+- SVG-Glow auf waagerechten Linien: Filter mit `filterUnits="userSpaceOnUse"` (Bounding-Box-Höhe 0 → sonst kein Blur).
+- Beispiele: `references/demo_thumb_l01_v2.jpg`, Kanal-Branding in `branding/` (Vorlage `templates/remotion/videos/brand/`).
+
 ## Thumbnails (6 gemessen)
 - Gemalte Nachtszene (Sterne, Stadtlichter, Hügel), Navy → Blau.
 - **2-4 Wörter**, fette schmale Versalien, creme mit Glühen, oben links über ~55 % der Breite.
