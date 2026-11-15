@@ -20,7 +20,8 @@ Kontaktbögen alle 5 s, Vollbilder, Thumbnails, measure.json).
 - Nie ihre Skripte, Leitmotive, Figuren oder ihren Missionssatz übernehmen. Kanalname nie nennen.
 
 ## Nutzer-Regeln
-- Deutsch, duzen. Eine ruhige Stimme: ElevenLabs „Daniel“ (`onwK4e9ZLuTAKqWW03F9`), Tempo **1.0**.
+- Deutsch, duzen. Eine ruhige Stimme: **ElevenLabs-Klon der Nutzerstimme** (Voice-ID in `voice/VOICE.md` des Videos;
+  Fallback „Daniel“ `onwK4e9ZLuTAKqWW03F9`), Tempo **1.0**.
 - **Untertitel eingebrannt** (`Captions` aus words.json) und zusätzlich `untertitel.srt` für YouTube.
 - **Keine Fremd-Clips.** Echte Aussagen nur als `QuoteCard` (wörtlich, Quelle + Datum, „übersetzt“ falls übersetzt).
 - Jede Zahl im Bild trägt ihre Quelle. Firmenangaben, Schätzungen, Tierversuche als solche benennen.
