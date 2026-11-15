@@ -15,7 +15,7 @@ export const Thumb: React.FC<{ lines: string[]; children?: React.ReactNode; size
     <Vignette strength={0.5} />
     <div style={{ position: "absolute", left: 80, top: 70, width: 1150 }}>
       {lines.map((l, i) => (
-        <div key={i} style={{ fontFamily: FONT.poster, fontSize: size, lineHeight: 0.98, color: C.paper, textTransform: "uppercase", letterSpacing: "-0.005em", textShadow: "0 0 40px rgba(243,233,198,0.45), 0 6px 18px rgba(0,0,0,0.5)" }}>
+        <div key={i} style={{ fontFamily: FONT.poster, fontSize: size, lineHeight: 1.12, color: C.paper, textTransform: "uppercase", letterSpacing: "-0.005em", textShadow: "0 0 40px rgba(243,233,198,0.45), 0 6px 18px rgba(0,0,0,0.5)" }}>
           {l}
         </div>
       ))}

@@ -14,7 +14,7 @@ export const L01Thumb: React.FC = () => (
       </defs>
       <rect x={0} y={930} width={1920} height={150} fill="#0b1a48" />
       <circle cx={1450} cy={420} r={520} fill="url(#l01tg)" />
-      <Gauge id="th" x={1450} y={930} f={20} h={800} w={150} level={92} mark={{ v: 45, text: "", o: 1 }} />
+      <Gauge id="th" x={1450} y={930} f={20} h={800} w={150} level={92} />
       <rect x={1250} y={540} width={360} height={10} fill={C.gold} />
       <circle cx={1700} cy={545} r={150} fill="url(#l01gg)" />
       <text x={1640} y={565} fontFamily={FONT.serif} fontSize={86} fill={C.gold}>2022</text>
