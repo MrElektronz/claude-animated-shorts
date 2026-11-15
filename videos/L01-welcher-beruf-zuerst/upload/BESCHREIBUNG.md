@@ -33,3 +33,8 @@ Sprecher: echte Stimme. Animationen am Computer erstellt, Musik selbst komponier
 
 ## Angepinnter Kommentar
 In welchem Bereich hat dich die KI-Entwicklung der letzten vier Jahre am meisten überrascht? Bei mir war es die Softwareentwicklung.
+
+## Tags (454 Zeichen)
+KI, künstliche Intelligenz, KI Jobs, KI Arbeitsmarkt, Jobs der Zukunft, Berufe der Zukunft, KI ersetzt Jobs, welche Berufe ersetzt KI, Automatisierung, IAB, Substituierbarkeitspotenzial, Job-Futuromat, ifo Institut, Berufseinstieg, Berufseinsteiger, Arbeitsmarkt Deutschland, Zukunft der Arbeit, ChatGPT, KI Deutschland, Digitalisierung, Synchronsprecher KI, Softwareentwickler KI, Doku, Erklärvideo
+
+Hashtags am Ende der Beschreibung: #KünstlicheIntelligenz #Arbeitsmarkt #Zukunft
