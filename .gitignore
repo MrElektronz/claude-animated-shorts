@@ -6,3 +6,8 @@ videos/*/voice/*_tight*
 videos/*/voice/*probe*
 # regenerierbar: part-NN/audio/<name>_audio.py erzeugt Mix + Stems neu
 series/*/part-*/audio/*.wav
+
+# Stems regenerierbar (make_audio.py)
+videos/*/audio/stems/
+# Eigene Sprachaufnahmen des Nutzers: privat, nicht ins öffentliche Repo
+videos/L01-welcher-beruf-zuerst/voice/wie_schnell_ki_unsere_jobs_einholt.wav

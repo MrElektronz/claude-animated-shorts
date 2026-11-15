@@ -51,7 +51,16 @@ Studio `B:/Projects/Youtube/shorts-studio`.
    - `templates/voice/qwen_say.py` → Takes pro Kapitel; `templates/voice/align_words.py` → `words.json` + `voice.wav`.
    - Abschnitte mit Score < 0,85 oder hörbaren Fehlern mit `--only <kapitel>:<i> --seed <n>` neu erzeugen.
    - Probehören an den Nutzer schicken, bevor Bild und Ton darauf gebaut werden.
-6. **Bildplan → `SHOTPLAN.md` und `story.ts`.** Pro Satz: Set, Kamera-Key, Elemente mit Wort-Anker (`at(words,"Wort",n)`).
+   - **Eigene Aufnahme des Nutzers** (Vorrang vor TTS, wenn er eine liefert; L01 so gemacht): wav nach `voice/`, dann
+     `templates/voice/asr_recording.py <wav> voice/heard.json` (Whisper, Wortzeiten) und
+     `templates/voice/heard_to_words.py voice/heard.json voice/fixes.json voice/words.json`. `fixes.json` korrigiert nur
+     Hörfehler von Whisper (Namen, Fachwörter), nie den Wortlaut: Untertitel zeigen, was wirklich gesagt wurde.
+     Abweichungen vom Skript sind normal – Bild-Anker deshalb immer aus words.json, nie aus SCRIPT.md.
+6. **Bildplan → `story.ts`.** Anker sind **gesprochene Phrasen**: `A("Platz 10 Komponistinnen", after)` sucht die
+   Wortfolge in words.json (ab Frame `after`) und wirft beim Import, wenn sie fehlt → Bild und Wort können nicht
+   auseinanderlaufen. Vorlage: `templates/remotion/videos/l01/` (story.ts mit `A()`, Szenen-Sets nebeneinander,
+   Kamera aus Moves, Leitmotiv Pegel + Treppe, Icons, Ranking-Set). Vor dem Rendern alle Phrasen gegen words.json prüfen.
+   Pro Satz: Set, Kamera-Key, Elemente mit Phrasen-Anker (alt: `at(words,"Wort",n)`).
    - Eine Welt pro Video: Leitmotiv-Set in der Mitte, Kapitel-Sets daneben (x-Versatz ~2.000 px), Kamera fährt dazwischen.
    - Kamera-Keys mit `camAt()`: Fahrten 30-60 f, jede Ruhe kriecht (eingebaut). Harte Schnitte nur bei Ort-/Zeitsprung.
    - Lichtwechsel auf Erzählschritte legen (Lampe aus → Leitmotiv leuchtet; Gegenstimme → Szene dimmt).
@@ -71,7 +80,9 @@ Studio `B:/Projects/Youtube/shorts-studio`.
    Opus-max-Prüfer: 1-3 Bögen, Noten /10 für Farbe, Licht, Typo, Figuren, Infografik, Komposition + nummerierte
    Fix-Liste. Look-Match-Schleife wie in `../SKILL.md` (Abschnitt „Look-match loop“), Besitzer pro Datei:
    cam = story.ts, world = Stage/Room/Lamp/Leitmotiv, char = Figure, type = Text/theme.
-9. **Ton** (`audio/`): Event-Tabelle aus words.json/story.ts → SFX (Whoosh bei Fahrten, Tick beim Hochzählen, Papier bei
+9. **Ton** (`audio/`): Vorlage `templates/audio/make_audio.py` (eigene Ambient-Musik in Moll, Abschnitte = Szenen per
+   Phrase, Whoosh/Boom/Papier, Ducking ~10 dB unter der Stimme, Zwei-Pass-loudnorm auf -14 LUFS / -1,5 dBTP, Stems).
+   Allgemein: Event-Tabelle aus words.json/story.ts → SFX (Whoosh bei Fahrten, Tick beim Hochzählen, Papier bei
    Zitatkarten, tiefer Impuls beim Aufleuchten) + Musikbett. Musik: ruhige, pulsierende Ambient-/Klavierflächen,
    durchgehend, unter der Stimme geduckt (Zielabstand ~8 dB), Höhepunkte in Kapitelpausen. Eigene Synthese mit
    `../templates/audio/` (dsp.py, instruments) oder lizenzfreie Musik mit dokumentierter Lizenz in `audio/LIZENZ.md`.
@@ -99,6 +110,11 @@ Studio `B:/Projects/Youtube/shorts-studio`.
 - Remotion schreibt eine stumme Tonspur: beim Muxen `-map 0:v:0 -map 1:a:0` (render-chunks.sh macht das).
 - Untertitel-Chunks und `untertitel.srt` nutzen dieselbe Regel (≤ 7 Wörter / ≤ 44 Zeichen, Umbruch nach Satzzeichen).
 - Text in der Kamera-Welt wird mitskaliert. Lesbare Mindestgröße bei Zoom 1: Labels 22 px, Quellen 15 px.
+- 10-Minuten-Kamera: `camAt(..., creep=0)` und stattdessen sanftes Sinus-Atmen – ein linearer Creep zoomt über
+  18.000 Frames sonst auf das Fünffache.
+- `npx remotion still` bündelt jedes Mal neu: für viele Prüfbilder `scripts/bridge-stills.mjs` (COMP=<Id>) nutzen,
+  Kontaktbögen mit PIL bauen (ffmpeg drawtext stürzt hier ohne fontconfig ab).
+- Während render-chunks.sh läuft, keine Quelldateien im Studio ändern: jeder Chunk bündelt neu.
 - Der Referenzkanal nutzt gelbe Regenjacke + Tacho: unsere Figur ist orange mit Schal, unser Leitmotiv ist pro Video neu.
 
 ## Neue Referenz analysieren (wenn der Nutzer ein weiteres Vorbild nennt)

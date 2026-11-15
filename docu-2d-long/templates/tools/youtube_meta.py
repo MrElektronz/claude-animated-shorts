@@ -2,8 +2,9 @@
 
 Usage: python youtube_meta.py voice/words.json CHAPTERS.json out_dir
 
-CHAPTERS.json: [{"word": "Warum", "n": 1, "title": "Warum altern wir?"}, ...]
-  - the chapter starts at the n-th occurrence of `word` (same rule as `at()` in anim.ts)
+CHAPTERS.json: [{"word": "Warum", "n": 1, "title": "Warum altern wir?"}, {"phrase": "Platz 10 Komponistinnen", "title": "..."}]
+  - the chapter starts at the n-th occurrence of `word` (same rule as `at()` in anim.ts),
+    or at the first occurrence of a multi-word `phrase` (same rule as `A()` in a video's story.ts)
   - the first chapter is forced to 0:00 (YouTube requires it), each chapter must be >= 10 s
 
 Writes:
@@ -60,10 +61,16 @@ def main():
 
     lines, last = [], -999.0
     for k, c in enumerate(chapters):
-        hits = [w["start"] for w in words if norm(w["word"]) == norm(c["word"])]
-        n = c.get("n", 1)
+        if "phrase" in c:
+            p = [norm(x) for x in c["phrase"].split() if norm(x)]
+            nw = [norm(w["word"]) for w in words]
+            hits = [words[i]["start"] for i in range(len(nw)) if nw[i:i + len(p)] == p]
+            n = 1
+        else:
+            hits = [w["start"] for w in words if norm(w["word"]) == norm(c["word"])]
+            n = c.get("n", 1)
         if len(hits) < n:
-            sys.exit(f'chapter word "{c["word"]}" #{n} not found')
+            sys.exit(f'chapter anchor {c.get("phrase") or c.get("word")} #{n} not found')
         t = 0.0 if k == 0 else hits[n - 1]
         if t - last < 10:
             sys.exit(f'chapter "{c["title"]}" is < 10 s after the previous one')

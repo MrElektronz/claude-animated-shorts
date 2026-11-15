@@ -61,7 +61,7 @@ Warnungen „SoX could not be found“ und „flash-attn is not installed“ sin
 Erste Tests hatten hörbare Übergänge zwischen den Abschnitten. Ursachen und Gegenmittel (alle in `qwen_say.py`):
 | Problem (gemessen) | Gegenmittel |
 |---|---|
-| Pausen = digitale Stille, Stimme hat -54 dB Grundrauschen → „Loch“ | Pausen mit Raumklang auf Höhe des Stimm-Grundrauschens, 20 ms Überblendung |
+| Pausen = digitale Stille, Stimme hat -54 dB Grundrauschen → „Loch“ | Weiche Ein-/Ausblendung der Abschnitte, Pausen bleiben Stille (das Musikbett liegt darunter). Ein künstlicher Raumklang wurde **wieder entfernt**: nach +9 dB Mastering-Gain war er als Rauschen hörbar (Nutzer-Feedback v3). |
 | Qwen schneidet das letzte Phonem ab (v. a. Fragen, letzte 50 ms bei -23 dB) | jedem Abschnitt „ …“ anhängen; Ende lauter als -45 dB → automatisch neuer Seed (max. 3) |
 | Tempo je Abschnitt 2,6-3,3 Wörter/s (±24 %) | auf den Median ziehen, tonhöhenneutral (ffmpeg atempo), max ±10 % |
 | Lautheit ±1,5 dB | jeden Abschnitt auf den Median-Sprachpegel |

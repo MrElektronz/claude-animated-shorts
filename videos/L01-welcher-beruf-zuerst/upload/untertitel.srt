@@ -1,0 +1,1419 @@
+1
+00:00:00,000 --> 00:00:01,890
+Vor vier Jahren haben Arbeitsmarktforscher
+
+2
+00:00:01,940 --> 00:00:03,550
+der Bundesagentur für Arbeit genau
+
+3
+00:00:03,600 --> 00:00:05,790
+aufgeschrieben, was künstliche Intelligenz
+
+4
+00:00:05,840 --> 00:00:07,730
+niemals alleine schaffen würde.
+
+5
+00:00:07,780 --> 00:00:09,830
+Systematisch argumentieren, Zusammenhänge
+
+6
+00:00:09,880 --> 00:00:11,690
+erkennen, Bedeutung schaffen.
+
+7
+00:00:11,740 --> 00:00:13,030
+Heute, vier Jahre später,
+
+8
+00:00:13,080 --> 00:00:14,990
+schreibt eine Maschine genau diesen Satz und
+
+9
+00:00:15,040 --> 00:00:16,820
+spricht ihn gleich selbst ein.
+
+10
+00:00:17,060 --> 00:00:18,890
+Damals, Ende 2022,
+
+11
+00:00:18,940 --> 00:00:21,110
+stand die KI-Revolution noch ganz am Anfang.
+
+12
+00:00:21,160 --> 00:00:22,670
+Die Forscher haben damals ein Messgerät
+
+13
+00:00:22,720 --> 00:00:23,790
+gebaut, um zu schauen,
+
+14
+00:00:23,840 --> 00:00:25,730
+welche Berufe unter Wasser geraten könnten.
+
+15
+00:00:25,780 --> 00:00:27,910
+Doch die Realität hat ihre Messlatte in
+
+16
+00:00:27,960 --> 00:00:29,510
+Rekordzeit überholt.
+
+17
+00:00:29,560 --> 00:00:31,370
+Und genau diesen Monat kam der erste
+
+18
+00:00:31,420 --> 00:00:33,210
+Beweis, dass das Wasser nicht mehr nur
+
+19
+00:00:33,260 --> 00:00:34,830
+theoretisch steigt, sondern echte Stellen
+
+20
+00:00:34,880 --> 00:00:35,670
+wegspült.
+
+21
+00:00:35,720 --> 00:00:37,470
+Rund 13 Millionen Menschen in Deutschland
+
+22
+00:00:37,520 --> 00:00:39,510
+arbeiteten schon damals in Berufen,
+
+23
+00:00:39,560 --> 00:00:41,150
+in denen mehr als 70 Prozent der
+
+24
+00:00:41,200 --> 00:00:43,730
+Aufgaben technisch automatisierbar waren.
+
+25
+00:00:43,780 --> 00:00:44,850
+Mehr als jeder Dritte.
+
+26
+00:00:44,900 --> 00:00:47,110
+Wir machen heute einen Realitätscheck.
+
+27
+00:00:47,160 --> 00:00:48,050
+Wir schauen uns an,
+
+28
+00:00:48,100 --> 00:00:49,830
+wo das Institut für Arbeitsmarkt- und
+
+29
+00:00:49,880 --> 00:00:51,790
+Berufsforschung, kurz IAB,
+
+30
+00:00:51,840 --> 00:00:54,630
+die Wasserlinie 2022 gezogen hat.
+
+31
+00:00:54,680 --> 00:00:56,590
+Von Platz 10 bis Platz 1.
+
+32
+00:00:56,640 --> 00:00:58,550
+Und bei jedem einzelnen Beruf schauen wir
+
+33
+00:00:58,600 --> 00:01:00,690
+hin, was dachten die Forscher damals,
+
+34
+00:01:00,740 --> 00:01:02,850
+wo die Grenze liegt und wie radikal
+
+35
+00:01:02,900 --> 00:01:04,730
+hat die KI-Entwicklung der letzten vier
+
+36
+00:01:04,780 --> 00:01:06,510
+Jahre diese Grenze verschoben?
+
+37
+00:01:06,560 --> 00:01:08,670
+Dafür brauchen wir zuerst ein Messgerät.
+
+38
+00:01:08,720 --> 00:01:10,010
+Stell dir einen Pegel vor,
+
+39
+00:01:10,060 --> 00:01:11,450
+wie am Rhein.
+
+40
+00:01:11,500 --> 00:01:12,670
+Nur misst er kein Wasser,
+
+41
+00:01:12,720 --> 00:01:13,850
+er misst Arbeit.
+
+42
+00:01:13,900 --> 00:01:16,350
+0% heißt, keine Maschine kann irgendetwas
+
+43
+00:01:16,400 --> 00:01:16,690
+davon.
+
+44
+00:01:16,740 --> 00:01:18,670
+100% heißt alles.
+
+45
+00:01:18,720 --> 00:01:20,890
+Für seine große Studie hat das IAB
+
+46
+00:01:20,940 --> 00:01:24,190
+rund 4600 Berufe zerlegt.
+
+47
+00:01:24,240 --> 00:01:26,070
+Drei Codiererinnen haben unabhängig
+
+48
+00:01:26,120 --> 00:01:29,070
+voneinander über 9.000 Tätigkeiten geprüft.
+
+49
+00:01:29,120 --> 00:01:30,110
+Und bei jeder gefragt,
+
+50
+00:01:30,160 --> 00:01:31,710
+gibt es nach dem Stand der Technik
+
+51
+00:01:31,760 --> 00:01:34,690
+von 2022 eine Maschine oder ein Programm,
+
+52
+00:01:34,740 --> 00:01:36,830
+das diese Aufgabe komplett alleine erledigen
+
+53
+00:01:36,880 --> 00:01:37,310
+könnte?
+
+54
+00:01:37,360 --> 00:01:38,530
+Das Ergebnis heißt
+
+55
+00:01:38,580 --> 00:01:40,390
+Substituierbarkeitspotenzial.
+
+56
+00:01:40,440 --> 00:01:42,230
+Ein langes Wort für eine einfache Frage.
+
+57
+00:01:42,280 --> 00:01:44,250
+Wie hoch steht das Wasser?
+
+58
+00:01:44,300 --> 00:01:45,410
+Das Spannende ist,
+
+59
+00:01:45,460 --> 00:01:47,450
+die letzten offiziellen Pegelstände stammen
+
+60
+00:01:47,500 --> 00:01:50,010
+exakt aus diesem Jahr 2022.
+
+61
+00:01:50,060 --> 00:01:51,970
+Dem Jahr, in dem ChatGPT gerade erst
+
+62
+00:01:52,020 --> 00:01:53,870
+das Licht der Welt erblickt hatte.
+
+63
+00:01:53,920 --> 00:01:55,930
+Die Zahlen sind also wie eine Zeitkapsel.
+
+64
+00:01:55,980 --> 00:01:57,350
+Sie zeigen uns die Ruhe vor dem
+
+65
+00:01:57,400 --> 00:01:59,040
+eigentlichen Sturm.
+
+66
+00:01:59,140 --> 00:02:02,170
+Schon zwischen 2019 und 2022,
+
+67
+00:02:02,220 --> 00:02:04,450
+also noch vor dem großen KI-Boom,
+
+68
+00:02:04,500 --> 00:02:05,570
+sahen die Forscher etwas,
+
+69
+00:02:05,620 --> 00:02:07,450
+das es noch nie gegeben hatte.
+
+70
+00:02:07,500 --> 00:02:09,690
+Bei Helferjobs, also Jobs ohne Ausbildung,
+
+71
+00:02:09,740 --> 00:02:12,590
+blieb der Pegel bei 57% stehen,
+
+72
+00:02:12,640 --> 00:02:14,360
+etwa gleich wie vorher.
+
+73
+00:02:14,600 --> 00:02:17,790
+Bei Fachkräften mit Ausbildung 62%,
+
+74
+00:02:17,840 --> 00:02:19,810
+plus 3,5%.
+
+75
+00:02:19,860 --> 00:02:22,170
+Bei Spezialisten, Meistern und Technikern
+
+76
+00:02:22,220 --> 00:02:26,070
+knapp 50%, plus 5% und bei Experten
+
+77
+00:02:26,120 --> 00:02:28,210
+mit Studium 36,
+
+78
+00:02:28,260 --> 00:02:31,010
+aber plus fast 10 Prozentpunkte.
+
+79
+00:02:31,060 --> 00:02:32,930
+Das Wasser steigt oben am schnellsten.
+
+80
+00:02:32,980 --> 00:02:34,910
+Jahrzehntelang kamen die Maschinen zuerst in
+
+81
+00:02:34,960 --> 00:02:35,850
+die Fabrik.
+
+82
+00:02:35,900 --> 00:02:38,160
+Diesmal kommen sie an den Schreibtisch.
+
+83
+00:02:38,500 --> 00:02:39,750
+Und das war erst der Anfang.
+
+84
+00:02:39,800 --> 00:02:41,090
+Schauen wir auf die 10 Berufe,
+
+85
+00:02:41,140 --> 00:02:42,830
+bei denen die Forscher schon damals Alarm
+
+86
+00:02:42,880 --> 00:02:45,350
+schlugen und was seitdem passiert ist.
+
+87
+00:02:45,400 --> 00:02:49,230
+Platz 10 Komponistinnen und Komponisten 2019
+
+88
+00:02:49,280 --> 00:02:53,450
+0% Keine Maschine konnte Musik erfinden 2022
+
+89
+00:02:53,500 --> 00:02:57,990
+25% Erste KI-Tools konnten damals Melodien
+
+90
+00:02:58,040 --> 00:03:00,290
+vorschlagen, aber für echte Kompositionen
+
+91
+00:03:00,340 --> 00:03:01,830
+braucht es einen Menschen.
+
+92
+00:03:01,880 --> 00:03:03,110
+Heute, vier Jahre später,
+
+93
+00:03:03,160 --> 00:03:05,190
+generieren KI-Modelle in Sekunden komplette
+
+94
+00:03:05,240 --> 00:03:07,890
+Orchester-Soundtracks, inklusive Gesang in
+
+95
+00:03:07,940 --> 00:03:09,090
+Studioqualität.
+
+96
+00:03:09,140 --> 00:03:11,290
+Aus Knöcheltiefe wurde innerhalb weniger
+
+97
+00:03:11,340 --> 00:03:13,030
+Jahre eine Sturmflut.
+
+98
+00:03:13,080 --> 00:03:13,930
+Platz 9.
+
+99
+00:03:13,980 --> 00:03:15,950
+Journalisten und Schriftsteller.
+
+100
+00:03:16,000 --> 00:03:18,030
+Von 20 auf 40 Prozent.
+
+101
+00:03:18,080 --> 00:03:19,450
+Verdoppelt in drei Jahren.
+
+102
+00:03:19,500 --> 00:03:21,990
+Damals hielten die IAB-Forscher fest,
+
+103
+00:03:22,040 --> 00:03:23,970
+Informationen sammeln und Texte formulieren
+
+104
+00:03:24,020 --> 00:03:25,470
+kann ein Sprachmodell.
+
+105
+00:03:25,520 --> 00:03:26,730
+Was es aber nicht könne,
+
+106
+00:03:26,780 --> 00:03:28,950
+systematisch argumentieren, Zusammenhänge
+
+107
+00:03:29,000 --> 00:03:31,150
+erkennen, Bedeutung schaffen.
+
+108
+00:03:31,200 --> 00:03:32,710
+Aus heutiger Sicht klingt das fast schon
+
+109
+00:03:32,760 --> 00:03:33,870
+nostalgisch.
+
+110
+00:03:33,920 --> 00:03:35,330
+Moderne Reasoning-Modelle analysieren
+
+111
+00:03:35,380 --> 00:03:38,130
+hunderte Seiten Quellen in Sekunden,
+
+112
+00:03:38,180 --> 00:03:39,930
+bauen schlüssige Argumentationsketten auf
+
+113
+00:03:39,980 --> 00:03:41,670
+und schreiben ganze Reportagen.
+
+114
+00:03:41,720 --> 00:03:43,650
+Die damalige rote Linie für Maschinen wurde
+
+115
+00:03:43,700 --> 00:03:45,070
+komplett überrannt.
+
+116
+00:03:45,120 --> 00:03:45,810
+Platz 8.
+
+117
+00:03:45,860 --> 00:03:47,650
+Sprecherinnen und Sprecher in Radio und
+
+118
+00:03:47,700 --> 00:03:48,570
+Fernsehen.
+
+119
+00:03:48,620 --> 00:03:51,120
+Von 14 auf 43%.
+
+120
+00:03:51,320 --> 00:03:54,790
+2022 klang Computerstimmen noch oft hölzern.
+
+121
+00:03:54,840 --> 00:03:56,710
+Emotionen, Pausen, Bedeutung,
+
+122
+00:03:56,760 --> 00:03:58,210
+das schien sicher.
+
+123
+00:03:58,260 --> 00:03:59,710
+Und hier eine ehrliche Sache.
+
+124
+00:03:59,760 --> 00:04:01,050
+Die Stimme, die du gerade hörst,
+
+125
+00:04:01,100 --> 00:04:02,810
+könnte genauso gut ein KI-Klon sein.
+
+126
+00:04:02,860 --> 00:04:04,570
+Ich spreche sie gerade zwar selber ein,
+
+127
+00:04:04,620 --> 00:04:06,910
+aber Services wie Elevenlabs hätten keine
+
+128
+00:04:06,960 --> 00:04:08,890
+Probleme damit, dies in noch besserer
+
+129
+00:04:08,940 --> 00:04:10,290
+Qualität umzusetzen.
+
+130
+00:04:10,340 --> 00:04:11,050
+Platz 7.
+
+131
+00:04:11,100 --> 00:04:13,210
+Stuntfrauen und Stuntmen.
+
+132
+00:04:13,260 --> 00:04:15,490
+Von 0 auf 50%.
+
+133
+00:04:15,540 --> 00:04:17,250
+Der Bericht ordnete sie damals schon den
+
+134
+00:04:17,300 --> 00:04:19,590
+ersten Bild- und Videogeneratoren zu.
+
+135
+00:04:19,640 --> 00:04:21,730
+Was damals noch nach wackeligen KI-Clips
+
+136
+00:04:21,780 --> 00:04:24,330
+aussah, ist heute fotorealistisches Kino.
+
+137
+00:04:24,380 --> 00:04:25,910
+Der Sprung vom Dach lässt sich komplett
+
+138
+00:04:25,960 --> 00:04:27,090
+im Rechner erzeugen.
+
+139
+00:04:27,140 --> 00:04:28,670
+Der Mensch muss nicht mehr fallen.
+
+140
+00:04:28,720 --> 00:04:30,960
+Er wird nur seltener gebucht.
+
+141
+00:04:31,200 --> 00:04:31,930
+Kurz zwischendurch.
+
+142
+00:04:31,980 --> 00:04:32,830
+Dieser Kanal will,
+
+143
+00:04:32,880 --> 00:04:34,910
+dass die KI-Zukunft bei allen ankommt.
+
+144
+00:04:34,960 --> 00:04:36,910
+Nicht nur bei ein paar Konzernen.
+
+145
+00:04:36,960 --> 00:04:38,230
+Wenn du das auch willst,
+
+146
+00:04:38,280 --> 00:04:39,250
+abonniere.
+
+147
+00:04:39,300 --> 00:04:40,250
+Und jetzt schauen wir,
+
+148
+00:04:40,300 --> 00:04:41,730
+wo das Wasser schon damals bis zum
+
+149
+00:04:41,780 --> 00:04:42,530
+Hals stand.
+
+150
+00:04:42,580 --> 00:04:45,170
+Platz 6 Assistenz im Hotelmanagement.
+
+151
+00:04:45,220 --> 00:04:48,450
+Von 50 auf 67 Prozent.
+
+152
+00:04:48,500 --> 00:04:50,790
+Anrufe annehmen, Fragen beantworten,
+
+153
+00:04:50,840 --> 00:04:51,990
+Reservierungen verwalten.
+
+154
+00:04:52,040 --> 00:04:54,870
+2022 waren das noch einzelne Chatbots.
+
+155
+00:04:54,920 --> 00:04:57,250
+Heutzutage übernehmen autonome Sprachagenten
+
+156
+00:04:57,300 --> 00:04:59,830
+komplette Telefonzentralen in Echtzeit,
+
+157
+00:04:59,880 --> 00:05:02,070
+inklusive Rückfragen und Umbuchungen.
+
+158
+00:05:02,120 --> 00:05:04,410
+Platz 5, Betriebswirtin im Handel,
+
+159
+00:05:04,460 --> 00:05:05,530
+mit Studium.
+
+160
+00:05:05,580 --> 00:05:08,330
+Von 53 auf 68.
+
+161
+00:05:08,380 --> 00:05:10,510
+Werbetexte, passende Bilder,
+
+162
+00:05:10,560 --> 00:05:12,490
+Preise, die sich selbst anpassen,
+
+163
+00:05:12,540 --> 00:05:14,590
+was damals noch mühsam über einzelne Tools
+
+164
+00:05:14,640 --> 00:05:16,670
+zusammengestückelt wurde, läuft heute in
+
+165
+00:05:16,720 --> 00:05:19,380
+vollautomatischen Kampagnen-Pipelines.
+
+166
+00:05:19,460 --> 00:05:22,210
+Platz 4, Betriebswirte in der Industrie.
+
+167
+00:05:22,260 --> 00:05:25,380
+Von 46 auf 69%.
+
+168
+00:05:25,740 --> 00:05:27,090
+Plus 23 Punkte,
+
+169
+00:05:27,140 --> 00:05:28,830
+schon damals, für einen Beruf,
+
+170
+00:05:28,880 --> 00:05:30,230
+für den man studiert hat.
+
+171
+00:05:30,280 --> 00:05:31,870
+Termine koordinieren, Dokumente
+
+172
+00:05:31,920 --> 00:05:33,430
+vervollständigen, Protokolle und
+
+173
+00:05:33,480 --> 00:05:35,070
+Zusammenfassungen schreiben.
+
+174
+00:05:35,120 --> 00:05:36,870
+Heute sitzen genau diese KI-Agenten direkt
+
+175
+00:05:36,920 --> 00:05:38,150
+in jedem Videocall,
+
+176
+00:05:38,200 --> 00:05:40,050
+fassen alles zusammen und verschicken die
+
+177
+00:05:40,100 --> 00:05:41,790
+Aufgabenliste, bevor das Meeting überhaupt
+
+178
+00:05:41,840 --> 00:05:42,990
+vorbei ist.
+
+179
+00:05:43,040 --> 00:05:45,090
+Am Rande, weil es oft gefragt wird,
+
+180
+00:05:45,140 --> 00:05:46,890
+bei Softwareentwicklern ist der Pegel schon
+
+181
+00:05:46,940 --> 00:05:49,150
+damals um rund 30 Punkte gestiegen.
+
+182
+00:05:49,200 --> 00:05:51,470
+2022 schrieb die KI noch einzelne
+
+183
+00:05:51,520 --> 00:05:52,250
+Codeschnipsel.
+
+184
+00:05:52,300 --> 00:05:53,470
+Heute bauen KI-Agenten ganze
+
+185
+00:05:53,520 --> 00:05:55,230
+Softwarearchitekturen eigenständig.
+
+186
+00:05:55,280 --> 00:05:57,430
+Platz 3 Gestalterinnen für Bekleidung und
+
+187
+00:05:57,480 --> 00:05:57,990
+Mode.
+
+188
+00:05:58,040 --> 00:06:00,710
+Von 50 auf 88 Prozent.
+
+189
+00:06:00,760 --> 00:06:02,410
+Schon die allerersten Bildgeneratoren
+
+190
+00:06:02,460 --> 00:06:04,250
+reichten aus, um fast 90 Prozent der
+
+191
+00:06:04,300 --> 00:06:06,030
+Entwurfsarbeit abzubilden.
+
+192
+00:06:06,080 --> 00:06:07,690
+Heute generieren Modelle nicht nur Bilder,
+
+193
+00:06:07,740 --> 00:06:09,050
+sondern gleich die fertigen Schnittmuster
+
+194
+00:06:09,100 --> 00:06:10,350
+für die Produktion.
+
+195
+00:06:10,400 --> 00:06:11,850
+Hier steht das Wasser längst über dem
+
+196
+00:06:11,900 --> 00:06:12,610
+Hals.
+
+197
+00:06:12,660 --> 00:06:13,890
+Platz 2 der Beruf,
+
+198
+00:06:13,940 --> 00:06:16,270
+bei dem schon 2022 alle Lampen auf
+
+199
+00:06:16,320 --> 00:06:17,430
+Rot sprangen.
+
+200
+00:06:17,480 --> 00:06:19,770
+Synchronsprecherinnen und Synchronsprecher.
+
+201
+00:06:19,820 --> 00:06:21,970
+Das IAB stellte damals trocken fest,
+
+202
+00:06:22,020 --> 00:06:23,870
+alle typischen Tätigkeiten dieses Berufs
+
+203
+00:06:23,920 --> 00:06:25,230
+könnten theoretisch von einer Maschine
+
+204
+00:06:25,280 --> 00:06:26,090
+übernommen werden.
+
+205
+00:06:26,140 --> 00:06:26,830
+100%.
+
+206
+00:06:26,880 --> 00:06:29,190
+Das Wasser stand schon vor vier Jahren
+
+207
+00:06:29,240 --> 00:06:31,030
+über der obersten Stufe.
+
+208
+00:06:31,080 --> 00:06:32,630
+Und wenn wir heute ins Kino gehen
+
+209
+00:06:32,680 --> 00:06:33,830
+oder Serien streamen,
+
+210
+00:06:33,880 --> 00:06:35,410
+es gibt diesen Beruf immer noch.
+
+211
+00:06:35,460 --> 00:06:36,730
+Mit echten Menschen,
+
+212
+00:06:36,780 --> 00:06:37,750
+behalte das im Kopf.
+
+213
+00:06:37,800 --> 00:06:38,470
+Warum?
+
+214
+00:06:38,520 --> 00:06:40,350
+Weil technisch möglich nicht heißt,
+
+215
+00:06:40,400 --> 00:06:42,110
+dass es auch gemacht wird.
+
+216
+00:06:42,160 --> 00:06:44,210
+Deine Spülmaschine könnte die gute Pfanne
+
+217
+00:06:44,260 --> 00:06:46,490
+spülen, trotzdem spülst du sie von Hand.
+
+218
+00:06:46,540 --> 00:06:47,630
+Weil es schneller geht,
+
+219
+00:06:47,680 --> 00:06:49,590
+weil sie sonst leidet oder weil du
+
+220
+00:06:49,640 --> 00:06:50,770
+es einfach willst.
+
+221
+00:06:50,820 --> 00:06:52,110
+Und Platz 1?
+
+222
+00:06:52,160 --> 00:06:54,990
+Wenn selbst bei 100% Automatisierbarkeit ein
+
+223
+00:06:55,040 --> 00:06:56,670
+Beruf nicht einfach verschwindet,
+
+224
+00:06:56,720 --> 00:06:58,930
+wo schlägt die rasante KI-Entwicklung der
+
+225
+00:06:58,980 --> 00:07:01,450
+letzten vier Jahre dann wirklich ein?
+
+226
+00:07:01,500 --> 00:07:04,070
+Platz 1 ist kein Beruf.
+
+227
+00:07:04,120 --> 00:07:07,130
+Vor wenigen Tagen hat das ifo-Institut in
+
+228
+00:07:07,180 --> 00:07:09,270
+München einen neuen Frühindikator
+
+229
+00:07:09,320 --> 00:07:10,210
+vorgestellt.
+
+230
+00:07:10,260 --> 00:07:12,970
+140 Berufe, Daten der Bundesagentur für
+
+231
+00:07:13,020 --> 00:07:13,450
+Arbeit.
+
+232
+00:07:13,500 --> 00:07:14,870
+Die Forscher fragen nicht mehr,
+
+233
+00:07:14,920 --> 00:07:16,490
+was könnte die Maschine,
+
+234
+00:07:16,540 --> 00:07:18,510
+sondern wer wird heute tatsächlich noch
+
+235
+00:07:18,560 --> 00:07:19,330
+eingestellt?
+
+236
+00:07:19,380 --> 00:07:20,030
+In den Berufen,
+
+237
+00:07:20,080 --> 00:07:21,770
+in denen KI besonders viele Aufgaben
+
+238
+00:07:21,820 --> 00:07:25,150
+übernimmt, arbeiten rund 279.000 junge
+
+239
+00:07:25,200 --> 00:07:25,690
+Menschen.
+
+240
+00:07:25,740 --> 00:07:28,250
+Zwischen 20 und 24 in Vollzeit.
+
+241
+00:07:28,300 --> 00:07:30,890
+Jetzt sind es 239.000,
+
+242
+00:07:30,940 --> 00:07:32,270
+minus 14 Prozent.
+
+243
+00:07:32,320 --> 00:07:34,290
+Platz 1 ist der erste Job.
+
+244
+00:07:34,340 --> 00:07:36,170
+Der Berufseinstieg ist das Frühwarnsystem
+
+245
+00:07:36,220 --> 00:07:38,510
+des Arbeitsmarkts, sagt Oliver Falck vom
+
+246
+00:07:38,560 --> 00:07:39,430
+ifo.
+
+247
+00:07:39,480 --> 00:07:41,210
+Das erklärt das ganze Rätsel.
+
+248
+00:07:41,260 --> 00:07:43,090
+Niemand wird massenhaft entlassen,
+
+249
+00:07:43,140 --> 00:07:44,730
+weil KI heute Protokolle schreibt,
+
+250
+00:07:44,780 --> 00:07:46,410
+Code generiert oder Recherchen übernimmt.
+
+251
+00:07:46,460 --> 00:07:47,950
+Aber die Einstiegsstelle,
+
+252
+00:07:48,000 --> 00:07:49,950
+auf der früher jemand genau diese Aufgaben
+
+253
+00:07:50,000 --> 00:07:51,510
+gelernt hat, die wird nicht mehr neu
+
+254
+00:07:51,560 --> 00:07:52,130
+besetzt.
+
+255
+00:07:52,180 --> 00:07:53,530
+Die Treppe bleibt stehen,
+
+256
+00:07:53,580 --> 00:07:55,650
+nur die unterste Stufe ist unter Wasser.
+
+257
+00:07:55,700 --> 00:07:56,830
+Fair ist aber auch:
+
+258
+00:07:56,880 --> 00:07:58,010
+Das ist ein Zusammenhang,
+
+259
+00:07:58,060 --> 00:07:59,370
+kein Beweis.
+
+260
+00:07:59,420 --> 00:08:01,550
+Konjunktur, Demografie und Ausbildung
+
+261
+00:08:01,600 --> 00:08:02,550
+spielen mit.
+
+262
+00:08:02,600 --> 00:08:05,190
+Eine IAB-Auswertung vom Oktober sieht ein
+
+263
+00:08:05,240 --> 00:08:07,690
+ähnliches Muster bei den unter 30-Jährigen.
+
+264
+00:08:07,740 --> 00:08:09,390
+Statistisch belastbar ist es dort aber
+
+265
+00:08:09,440 --> 00:08:09,890
+nicht.
+
+266
+00:08:09,940 --> 00:08:11,610
+Und es gibt die andere Seite.
+
+267
+00:08:11,660 --> 00:08:13,790
+Das Institut der deutschen Wirtschaft hat
+
+268
+00:08:13,840 --> 00:08:14,670
+nachgezählt.
+
+269
+00:08:14,720 --> 00:08:15,850
+In Berufen, die nah an der KI
+
+270
+00:08:15,900 --> 00:08:19,210
+sind, arbeiten Ende 2025 fast eine Million
+
+271
+00:08:19,260 --> 00:08:21,650
+Menschen mehr als sechs Jahre zuvor.
+
+272
+00:08:21,700 --> 00:08:23,380
+Plus 8%.
+
+273
+00:08:23,540 --> 00:08:25,270
+KI-nahe Beschäftigte weisen keine
+
+274
+00:08:25,320 --> 00:08:27,290
+auffälligen Arbeitsplatzrisiken auf,
+
+275
+00:08:27,340 --> 00:08:29,550
+schreibt die Ökonomin Stefanie Seele.
+
+276
+00:08:29,600 --> 00:08:31,350
+Eine Entwarnung lässt sich daraus allerdings
+
+277
+00:08:31,400 --> 00:08:32,490
+nicht ableiten.
+
+278
+00:08:32,540 --> 00:08:33,970
+Beides stimmt gleichzeitig.
+
+279
+00:08:34,020 --> 00:08:35,450
+Die KI hat sich in vier Jahren
+
+280
+00:08:35,500 --> 00:08:36,910
+schneller entwickelt, als es sich die
+
+281
+00:08:36,960 --> 00:08:39,030
+meisten Forscher je hätten ausmalen können.
+
+282
+00:08:39,080 --> 00:08:40,050
+Das Wasser steigt.
+
+283
+00:08:40,100 --> 00:08:41,790
+Aber die Menschen bauen Stufen.
+
+284
+00:08:41,840 --> 00:08:44,070
+Ein Beispiel aus dem IAB-Bericht.
+
+285
+00:08:44,120 --> 00:08:45,890
+Bei Friedhofsarbeitern ist der Pegel
+
+286
+00:08:45,940 --> 00:08:46,650
+gesunken.
+
+287
+00:08:46,700 --> 00:08:49,370
+Von 60 auf 44 Prozent,
+
+288
+00:08:49,420 --> 00:08:51,350
+weil Heckenschneiden und Winterdienst zum
+
+289
+00:08:51,400 --> 00:08:52,690
+Beruf dazugekommen sind.
+
+290
+00:08:52,740 --> 00:08:56,730
+Zwischen 2019 und 2022 sind über 280
+
+291
+00:08:56,780 --> 00:08:57,970
+neue Berufe entstanden.
+
+292
+00:08:58,020 --> 00:09:00,810
+KI-Managerin, Ethical Hacker,
+
+293
+00:09:00,860 --> 00:09:01,930
+Solarmonteur.
+
+294
+00:09:01,980 --> 00:09:03,430
+Und das IAB schreibt selbst,
+
+295
+00:09:03,480 --> 00:09:05,410
+welche Tätigkeiten wirklich automatisiert
+
+296
+00:09:05,460 --> 00:09:06,890
+werden, entscheidet nicht die Technik
+
+297
+00:09:06,940 --> 00:09:07,710
+allein.
+
+298
+00:09:07,760 --> 00:09:09,790
+Es ist ein Ergebnis von Aushandlung.
+
+299
+00:09:09,840 --> 00:09:11,090
+Was nimmst du also mit,
+
+300
+00:09:11,140 --> 00:09:12,850
+wenn die Technik schneller rennt als jede
+
+301
+00:09:12,900 --> 00:09:13,510
+Statistik?
+
+302
+00:09:13,560 --> 00:09:14,150
+Eins.
+
+303
+00:09:14,200 --> 00:09:15,910
+Schau nach, wo dein Pegel steht.
+
+304
+00:09:15,960 --> 00:09:18,210
+Das IAB hat dafür ein kostenloses Werkzeug
+
+305
+00:09:18,260 --> 00:09:18,930
+entwickelt.
+
+306
+00:09:18,980 --> 00:09:20,870
+Den Job-Futuromat.
+
+307
+00:09:20,920 --> 00:09:22,930
+Der Link ist unten in der Beschreibung.
+
+308
+00:09:22,980 --> 00:09:24,190
+Aber lies die Zahl richtig.
+
+309
+00:09:24,240 --> 00:09:25,830
+Der Wert dort ist der Stand von
+
+310
+00:09:25,880 --> 00:09:27,330
+2022.
+
+311
+00:09:27,380 --> 00:09:29,210
+In fast jedem Bürojob steht das Wasser
+
+312
+00:09:29,260 --> 00:09:30,550
+heute deutlich höher.
+
+313
+00:09:30,600 --> 00:09:31,270
+2.
+
+314
+00:09:31,320 --> 00:09:32,890
+Schau nicht nur auf deinen Beruf.
+
+315
+00:09:32,940 --> 00:09:34,250
+Schau auf deine Aufgaben.
+
+316
+00:09:34,300 --> 00:09:35,670
+Alles, was reine Routine,
+
+317
+00:09:35,720 --> 00:09:38,110
+Zusammenfassung oder erster Entwurf ist,
+
+318
+00:09:38,160 --> 00:09:39,950
+liegt heute unter der Wasserlinie.
+
+319
+00:09:40,000 --> 00:09:41,530
+Deine Stufe auf der Treppe ist alles
+
+320
+00:09:41,580 --> 00:09:41,970
+danach.
+
+321
+00:09:42,020 --> 00:09:44,550
+Urteilsvermögen, Verantwortung, echte
+
+322
+00:09:44,600 --> 00:09:46,110
+menschliche Beziehung.
+
+323
+00:09:46,160 --> 00:09:46,670
+3.
+
+324
+00:09:46,720 --> 00:09:48,210
+Wenn du Leute einstellst,
+
+325
+00:09:48,260 --> 00:09:49,690
+stell die Jungen trotzdem ein.
+
+326
+00:09:49,740 --> 00:09:51,070
+Die ifo-Forscher warnen,
+
+327
+00:09:51,120 --> 00:09:52,690
+dass sonst in ein paar Jahren erfahrene
+
+328
+00:09:52,740 --> 00:09:53,930
+Fachkräfte fehlen.
+
+329
+00:09:53,980 --> 00:09:55,870
+Wer heute die unterste Stufe wegnimmt,
+
+330
+00:09:55,920 --> 00:09:57,730
+hat morgen niemanden oben.
+
+331
+00:09:57,780 --> 00:09:59,090
+Denk noch einmal an den Satz der
+
+332
+00:09:59,140 --> 00:10:01,920
+Forscher aus dem Jahr 2022.
+
+333
+00:10:02,280 --> 00:10:04,250
+Systematisch argumentieren, Zusammenhänge
+
+334
+00:10:04,300 --> 00:10:06,110
+erkennen, Bedeutung schaffen.
+
+335
+00:10:06,160 --> 00:10:07,950
+Damals dachten sie,
+
+336
+00:10:08,000 --> 00:10:09,310
+das sei unser sicherer Hafen.
+
+337
+00:10:09,360 --> 00:10:10,170
+Heute wissen wir,
+
+338
+00:10:10,220 --> 00:10:12,030
+die Maschine kann argumentieren,
+
+339
+00:10:12,080 --> 00:10:13,730
+sie kann Zusammenhänge erkennen.
+
+340
+00:10:13,780 --> 00:10:15,490
+Aber Bedeutung schaffen,
+
+341
+00:10:15,540 --> 00:10:17,590
+entscheiden, was als Mensch wichtig ist und
+
+342
+00:10:17,640 --> 00:10:18,990
+wofür wir gerade stehen,
+
+343
+00:10:19,040 --> 00:10:20,450
+das bleibt unsere Aufgabe.
+
+344
+00:10:20,500 --> 00:10:21,670
+Schreib mir in die Kommentare,
+
+345
+00:10:21,720 --> 00:10:22,850
+in welchem Bereich hat dich die
+
+346
+00:10:22,900 --> 00:10:24,550
+KI-Entwicklung der letzten vier Jahre am
+
+347
+00:10:24,600 --> 00:10:25,530
+meisten überrascht.
+
+348
+00:10:25,580 --> 00:10:27,330
+Bei mir war es die Softwareentwicklung.
+
+349
+00:10:27,380 --> 00:10:28,410
+Und wenn du willst,
+
+350
+00:10:28,460 --> 00:10:30,130
+dass die KI-Zukunft bei allen ankommt,
+
+351
+00:10:30,180 --> 00:10:30,630
+abonniere.
+
+352
+00:10:30,680 --> 00:10:32,690
+Dafür gibt es diesen Kanal.
+
+353
+00:10:32,740 --> 00:10:34,330
+Welcher Beruf fällt zuerst?
+
+354
+00:10:34,380 --> 00:10:35,490
+Keiner.
+
+355
+00:10:35,540 --> 00:10:38,100
+Zuerst fällt die erste Stufe.

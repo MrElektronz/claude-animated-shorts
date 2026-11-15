@@ -16,7 +16,7 @@ The model is loaded once for all chapters. Existing chunk files are reused; re-m
 Seam handling (measured on the first tests: digital-silence gaps, a clipped tail, ±24 % tempo, ±1.5 dB):
   - chunks = whole paragraphs up to MAX_CHARS, so seams fall where a pause belongs anyway
   - soft trim: keep 40 ms before the first and 180 ms after the last loud frame, 15/60 ms fades
-  - pauses are filled with room tone at the voice's own noise floor, never digital silence
+  - pauses are plain silence (the music bed covers them; a synthetic room tone became audible hiss)
   - every chunk is levelled to the take's median speech loudness
   - tempo is pulled toward the take's median words/s (pitch-preserving, at most ±10 %)
 """
@@ -70,17 +70,6 @@ def speech_db(x, sr):
     return float(np.mean(s)) if len(s) else -30.0
 
 
-def noise_floor_db(x, sr):
-    r, _ = frames_db(x, sr, 20)
-    return float(np.percentile(r, 5))
-
-
-def room_tone(n, level_db, rng):
-    # pink-ish noise at the voice's own floor, so pauses sound like the same room
-    w = rng.standard_normal(n + 64).astype(np.float32)
-    b = np.convolve(w, np.ones(8) / 8, mode="same")[:n]
-    b /= np.sqrt(np.mean(b ** 2)) + 1e-9
-    return b * (10 ** (level_db / 20))
 
 
 def resample(x, sr, to):
@@ -108,7 +97,6 @@ def plan_for(path: Path):
 
 
 def build_take(out: Path, plan, seed):
-    rng = np.random.default_rng(seed)
     raw = []
     for i in range(len(plan)):
         x, sr = sf.read(out / f"c_{i:03d}.wav", dtype="float32")
@@ -125,25 +113,21 @@ def build_take(out: Path, plan, seed):
         fixed.append(x)
     target = float(np.median([speech_db(x, SR) for x in fixed]))
     fixed = [x * 10 ** ((target - speech_db(x, SR)) / 20) for x in fixed]
-    floor = float(np.median([noise_floor_db(x, SR) for x in fixed])) - 2.0
-
-    xf = int(0.02 * SR)  # 20 ms crossfade at every join (room tone <-> speech)
-    y = room_tone(int(LEAD * SR), floor, rng)
-    meta = []
-
-    def join(y, p):
-        n = min(xf, len(y), len(p))
-        r = np.linspace(0, 1, n, dtype=np.float32)
-        start = len(y) - n  # where p begins in the result
-        return np.concatenate([y[:-n], y[-n:] * (1 - r) + p[:n] * r, p[n:]]), start
-
+    # Pauses are plain silence: chunks already fade in/out (soft_trim), and the music bed of the mix runs under every
+    # pause. A synthetic room tone was tried and REMOVED: at -55 dB it became audible hiss after the +9 dB loudness
+    # gain of the final -14 LUFS master.
+    y = [np.zeros(int(LEAD * SR), np.float32)]
+    meta, pos = [], int(LEAD * SR)
     for i, ((pi, c), x) in enumerate(zip(plan, fixed)):
-        y, s = join(y, x + room_tone(len(x), floor, rng) * 0.7)
-        meta.append({"i": i, "para": pi, "text": c, "spoken": spoken(c), "start": round(s / SR, 3),
-                     "end": round((s + len(x)) / SR, 3), "rate_raw": round(float(rates[i]), 2),
+        y.append(x)
+        meta.append({"i": i, "para": pi, "text": c, "spoken": spoken(c), "start": round(pos / SR, 3),
+                     "end": round((pos + len(x)) / SR, 3), "rate_raw": round(float(rates[i]), 2),
                      "rate": round(words[i] / (len(x) / SR), 2)})
+        pos += len(x)
         gap = TAIL if i + 1 == len(plan) else (PAUSE_PARA if plan[i + 1][0] != pi else PAUSE_SENT)
-        y, _ = join(y, room_tone(int(gap * SR), floor, rng))
+        y.append(np.zeros(int(gap * SR), np.float32))
+        pos += int(gap * SR)
+    y = np.concatenate(y)
     peak = float(np.max(np.abs(y))) or 1.0
     y = y * min(1.0, 0.89 / peak)
     sf.write(out / "take.wav", y, SR, subtype="PCM_16")
