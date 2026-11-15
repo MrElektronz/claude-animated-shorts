@@ -4,3 +4,5 @@ videos/*/audio/*.wav
 # Zwischenstände der Stimme (voice.wav + words.json bleiben drin)
 videos/*/voice/*_tight*
 videos/*/voice/*probe*
+# regenerierbar: part-NN/audio/<name>_audio.py erzeugt Mix + Stems neu
+series/*/part-*/audio/*.wav
