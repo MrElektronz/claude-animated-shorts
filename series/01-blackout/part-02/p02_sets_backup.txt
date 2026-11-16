@@ -1,0 +1,139 @@
+    // ================= Teil 2: new props =================
+    const P = {
+      tileW: lam("bathTile", () => ({ map: rep(ctex("bathTileT", 256, 256, (g) => {
+        g.fillStyle = "#dfe6e8"; g.fillRect(0, 0, 256, 256); g.strokeStyle = "#b4c0c6"; g.lineWidth = 4;
+        for (let i = 0; i <= 256; i += 64) { g.beginPath(); g.moveTo(i, 0); g.lineTo(i, 256); g.moveTo(0, i); g.lineTo(256, i); g.stroke(); }
+      }), 4, 3) })),
+      bathFloor: lam("bathFloor", () => ({ color: "#7a8690" })),
+      enamel: lam("enamel", () => ({ color: "#f2f3f0" })),
+      puddle: lam("puddle", () => ({ color: "#7fb0d0" })),
+      mirror: lam("mirrorB", () => ({ color: "#93a8b8" })),
+      chrome: lam("chromeB", () => ({ color: "#b8bec6" })),
+      wax: lam("waxB", () => ({ color: "#efe6c8" })),
+      pot: lam("potB", () => ({ color: "#9aa2ac" })),
+      can: lam("canB", () => ({ color: "#3f8a5a" })),
+      canopy: lam("canopyB", () => ({ color: "#c8ccd4" })),
+      red: lam("stationRed", () => ({ color: "#a83a3a" })),
+      pump: lam("pumpB", () => ({ color: "#d8dadf" })),
+      tramTop: lam("tramTop", () => ({ color: "#d9d4c4" })),
+      void: lam("voidB", () => ({ color: "#0c0e16" })),
+    };
+    const flameAt = (x: number, y: number, z: number) => {
+      const m = new THREE.Mesh(new THREE.SphereGeometry(0.022, 10, 8).scale(1, 1.9, 1), glow(3.0, 1.6, 0.5));
+      m.position.set(x, y, z); m.layers.set(NOINK); R.add(m); this.flames.push(m);
+    };
+    // ---- the bathroom (X_BA) ----
+    {
+      const ba = new Batch(), bx = X_BA;
+      ba.add(quadUp(bx - 1.3, bx + 1.9, -1.2, 2.8, 0, 3, 4), P.bathFloor);
+      ba.add(wallZ(bx - 1.3, bx + 1.9, 0, 2.5, -1.2, 1, 1, 1), P.tileW);
+      ba.add(wallX(-1.2, 2.8, 0, 2.5, bx - 1.3, 1, 1, 1), P.tileW);
+      ba.add(wallX(-1.2, 2.8, 0, 2.5, bx + 1.9, -1, 1, 1), P.tileW);
+      ba.add(quadDown(bx - 1.3, bx + 1.9, -1.2, 2.8, 2.5, 1, 1), M.white);
+      // the tub, hollow, with a thin puddle on its floor
+      const tx0 = bx - 1.28, tx1 = bx + 0.5, tz0 = -1.18, tz1 = -0.45, th = 0.58, tw = 0.07;
+      ba.add(box(tx0, 0, tz0, tx1, 0.12, tz1), P.enamel);
+      ba.add(box(tx0, 0, tz1 - tw, tx1, th, tz1), P.enamel); ba.add(box(tx0, 0, tz0, tx1, th, tz0 + tw), P.enamel);
+      ba.add(box(tx0, 0, tz0, tx0 + tw, th, tz1), P.enamel); ba.add(box(tx1 - tw, 0, tz0, tx1, th, tz1), P.enamel);
+      ba.add(new THREE.CircleGeometry(1, 24).rotateX(-Math.PI / 2).scale(0.55, 1, 0.2), P.puddle, at(bx - 0.45, 0.127, -0.82));
+      ba.add(box(bx - 0.45, 0.7, -1.2, bx - 0.35, 0.76, -1.05), P.chrome);
+      // basin on a pedestal, the tap, mirror, a shelf with a candle
+      ba.add(box(bx + 0.72, 0.78, -1.2, bx + 1.38, 0.9, -0.72), P.enamel);
+      ba.add(box(bx + 0.95, 0, -1.12, bx + 1.15, 0.78, -0.9), P.enamel);
+      ba.add(quadUp(bx + 0.8, bx + 1.3, -1.1, -0.8, 0.905), M.inside);
+      ba.add(cyl(0.022, 0.2, 10), P.chrome, at(bx + 1.05, 1.0, -1.1));
+      ba.add(box(bx + 1.03, 1.06, -1.1, bx + 1.07, 1.1, -0.95), P.chrome);
+      ba.add(box(bx + 0.72, 1.22, -1.2, bx + 1.38, 1.98, -1.17), M.white);
+      ba.add(wallZ(bx + 0.76, bx + 1.34, 1.26, 1.94, -1.165, 1), P.mirror);
+      ba.add(box(bx + 0.28, 1.1, -1.2, bx + 0.62, 1.13, -1.04), M.white);
+      ba.add(cyl(0.025, 0.12, 10), P.wax, at(bx + 0.45, 1.19, -1.12));
+      // toilet: bowl, cistern with its button
+      ba.add(box(bx + 1.22, 0, -0.22, bx + 1.7, 0.42, 0.22), P.enamel);
+      ba.add(box(bx + 1.2, 0.42, -0.24, bx + 1.7, 0.46, 0.24), M.white);
+      ba.add(box(bx + 1.66, 0.42, -0.27, bx + 1.9, 0.92, 0.27), P.enamel);
+      ba.add(cyl(0.035, 0.02, 12), P.chrome, at(bx + 1.78, 0.93, 0));
+      ba.build(R, true);
+      flameAt(bx + 0.45, 1.275, -1.12);
+      this.stream = new THREE.Mesh(new THREE.CylinderGeometry(0.011, 0.011, 0.155, 8), glow(0.75, 0.9, 1.15));
+      this.stream.position.set(TAP[0], 0.983, -0.965); this.stream.layers.set(NOINK); R.add(this.stream);
+    }
+    // ---- the kitchen counter: two pots, a watering can, a candle; the radiator under the window ----
+    {
+      const kp = new Batch(), [px, py] = POTS;
+      for (const [z, r0, h0] of [[-0.78, 0.13, 0.16], [-0.42, 0.11, 0.13]] as const) {
+        kp.add(cyl(r0, h0, 18), P.pot, at(px, py + h0 / 2, z));
+        kp.add(new THREE.CircleGeometry(r0 - 0.012, 18).rotateX(-Math.PI / 2), P.puddle, at(px, py + h0 + 0.002, z));
+        for (const s2 of [-1, 1]) kp.add(box(px - 0.02, py + h0 - 0.035, z + s2 * r0 - 0.03 * (s2 < 0 ? 1 : 0), px + 0.02, py + h0 - 0.015, z + s2 * r0 + 0.03 * (s2 > 0 ? 1 : 0)), M.rubber);
+      }
+      kp.add(cyl(0.085, 0.2, 14), P.can, at(px, py + 0.1, 0.05));
+      kp.add(new THREE.CylinderGeometry(0.014, 0.022, 0.26, 8).rotateX(-0.95), P.can, at(px, py + 0.14, 0.23));
+      kp.add(new THREE.TorusGeometry(0.07, 0.012, 6, 14, Math.PI).rotateY(Math.PI / 2).rotateX(Math.PI / 2), P.can, at(px, py + 0.12, -0.04));
+      kp.add(cyl(0.025, 0.1, 10), P.wax, at(px + 0.12, py + 0.05, -1.2));
+      const [wx0, wx1] = AP.win;
+      kp.add(box(wx0 + 0.4, AP_Y + 0.14, AP.back + 0.02, wx1 - 0.4, AP_Y + 0.7, AP.back + 0.12), M.white);
+      for (let x = wx0 + 0.46; x < wx1 - 0.45; x += 0.11) kp.add(box(x, AP_Y + 0.17, AP.back + 0.12, x + 0.05, AP_Y + 0.67, AP.back + 0.135), M.fridge);
+      kp.build(R, true);
+      flameAt(px + 0.12, py + 0.125, -1.2);
+    }
+    // ---- cars (shared builder): y0 = ground height, lamps on/off ----
+    const addCar = (b: Batch, cx: number, lz: number, dir: number, y0: number, col: THREE.Material, lamps: boolean) => {
+      b.add(box(cx - 2.1, y0 + 0.25, lz - 0.88, cx + 2.1, y0 + 0.95, lz + 0.88), col);
+      b.add(box(cx - 1.1, y0 + 0.95, lz - 0.78, cx + 1.0, y0 + 1.45, lz + 0.78), lam("carGlass", () => ({ color: "#1a1e2a" })));
+      for (const sx of [-1.45, 1.45]) for (const sz of [-0.82, 0.82]) b.add(cyl(0.32, 0.22, 12).rotateX(Math.PI / 2), M.rubber, at(cx + sx, y0 + 0.32, lz + sz * 1.02));
+      if (lamps) {
+        const xa = cx + dir * 2.2, xb = cx + dir * 8, y = y0 + 0.03;
+        b.add(dir > 0 ? quadUp(xa, xb, lz - 1.5, lz + 1.5, y) : quad(V(xa, y, lz - 1.5), V(xb, y, lz - 1.5), V(xb, y, lz + 1.5), V(xa, y, lz + 1.5)), this.pool0);
+      }
+      for (const sz of [-0.6, 0.6]) {
+        b.add(box(cx + dir * 2.1 - 0.04, y0 + 0.62, lz + sz - 0.14, cx + dir * 2.1 + 0.04, y0 + 0.78, lz + sz + 0.14), lamps ? headGlow : M.lens);
+        b.add(box(cx - dir * 2.1 - 0.04, y0 + 0.68, lz + sz - 0.12, cx - dir * 2.1 + 0.04, y0 + 0.8, lz + sz + 0.12), lamps ? tailGlow : M.lens);
+      }
+    };
+    // ---- the petrol station: canopy, three dead pumps, a queue in two lanes ----
+    {
+      c.add(box(ST_X - 12, 0.15, ST_Z - 3.7, ST_X + 44, 0.17, ST_Z + 3.9), M.asphalt);
+      c.add(box(ST_X - 9, 4.6, ST_Z - 3.2, ST_X + 9, 5.0, ST_Z + 3.2), P.canopy);
+      c.add(box(ST_X - 9.06, 4.56, ST_Z - 3.26, ST_X + 9.06, 4.72, ST_Z + 3.26), P.red);
+      for (const dx of [-7.5, 7.5]) c.add(cyl(0.16, 4.45, 12), P.canopy, at(ST_X + dx, 2.38, ST_Z));
+      for (const dx of [-6, 0, 6]) {
+        const x = ST_X + dx;
+        c.add(box(x - 0.9, 0.17, ST_Z - 0.35, x + 0.9, 0.3, ST_Z + 0.35), M.concrete);
+        c.add(box(x - 0.3, 0.3, ST_Z - 0.22, x + 0.3, 1.75, ST_Z + 0.22), P.pump);
+        for (const s2 of [-1, 1]) c.add(box(x - 0.22, 1.2, ST_Z + s2 * 0.22 - (s2 < 0 ? 0.02 : 0), x + 0.22, 1.6, ST_Z + s2 * 0.22 + (s2 > 0 ? 0.02 : 0)), M.lens);
+        c.add(box(x - 0.31, 0.75, ST_Z - 0.23, x + 0.31, 0.95, ST_Z + 0.23), P.red);
+      }
+      c.add(box(ST_X - 11.6, 0.15, ST_Z + 2.7, ST_X - 11.0, 6.2, ST_Z + 3.5), M.iron);
+      for (let k = 0; k < 3; k++) c.add(box(ST_X - 11.62, 3.2 + k * 0.9, ST_Z + 2.8, ST_X - 10.98, 3.9 + k * 0.9, ST_Z + 3.4), M.lens);
+      [-6, -0.2, 5.6, 11.4, 17.2, 23.0, 28.8].forEach((dx, k) => addCar(c, ST_X + dx, ST_NEAR, -1, 0.17, carCols[(k * 2 + 1) % carCols.length], k % 3 !== 0));
+      [-5, 1, 7, 13, 19].forEach((dx, k) => addCar(c, ST_X + dx, ST_FAR, -1, 0.17, carCols[(k * 3 + 2) % carCols.length], k % 2 === 1));
+      const pc = new Batch();
+      addCar(pc, 0, 0, -1, 0, carCols[5], false);
+      pc.build(this.pushCar, true); R.add(this.pushCar);
+    }
+    // ---- the tram: track bed, rails, wire, the dead car with its doors open ----
+    {
+      const [tx, , tz] = TRAM;
+      c.add(box(X_AP - 160, 0.0, tz - 1.6, X_AP + 160, 0.16, tz + 1.6), M.asphalt);
+      for (const s2 of [-0.72, 0.72]) c.add(box(X_AP - 160, 0.16, tz + s2 - 0.04, X_AP + 160, 0.19, tz + s2 + 0.04), M.iron);
+      c.add(box(X_AP - 160, 5.5, tz - 0.02, X_AP + 160, 5.54, tz + 0.02), M.iron);
+      for (let x = -150; x <= 150; x += 30) { c.add(cyl(0.09, 6, 8), M.iron, at(X_AP + x + 5, 3, tz + 1.9)); c.add(box(X_AP + x + 5 - 0.04, 5.6, tz - 0.1, X_AP + x + 5 + 0.04, 5.68, tz + 1.9), M.iron); }
+      c.add(box(tx - 9, 0.45, tz - 1.3, tx + 9, 1.35, tz + 1.3), P.red);
+      c.add(box(tx - 9, 1.35, tz - 1.3, tx + 9, 3.3, tz + 1.3), P.tramTop);
+      c.add(box(tx - 8.6, 3.3, tz - 1.1, tx + 8.6, 3.45, tz + 1.1), M.iron);
+      c.add(box(tx - 9, 0.2, tz - 1.2, tx + 9, 0.45, tz + 1.2), M.rubber);
+      for (const s2 of [-1, 1]) {
+        const zf = tz + s2 * 1.3;
+        for (let k = 0; k < 6; k++) {
+          const x0 = tx - 8.3 + k * 2.85;
+          c.add(box(x0, 1.6, Math.min(zf, zf + s2 * 0.02), x0 + 1.5, 2.7, Math.max(zf, zf + s2 * 0.02)), P.void);
+        }
+      }
+      for (const dx of [-5.6, 0.1, 5.8]) { // open doors on the houses' side: a dark doorway, the folded leaves, a step
+        c.add(box(tx + dx - 0.65, 0.55, tz + 1.28, tx + dx + 0.65, 2.75, tz + 1.33), P.void);
+        for (const s2 of [-1, 1]) c.add(box(tx + dx + s2 * 0.65 - 0.05, 0.55, tz + 1.3, tx + dx + s2 * 0.65 + 0.05, 2.75, tz + 1.62), P.tramTop);
+        c.add(box(tx + dx - 0.65, 0.4, tz + 1.3, tx + dx + 0.65, 0.5, tz + 1.55), M.iron);
+      }
+      for (const s2 of [-1, 1]) c.add(box(tx + s2 * 9 - 0.03, 1.6, tz - 1.0, tx + s2 * 9 + 0.03, 2.7, tz + 1.0), P.void);
+      c.add(box(tx - 0.05, 3.45, tz - 0.05, tx + 0.05, 5.5, tz + 0.05), M.iron);
+      c.add(box(tx - 1.2, 5.42, tz - 0.5, tx + 1.2, 5.48, tz + 0.5), M.iron);
+    }

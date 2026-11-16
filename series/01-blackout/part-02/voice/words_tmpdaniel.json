@@ -1,0 +1,1107 @@
+[
+ {
+  "word": "Wie",
+  "start": 0.0,
+  "end": 0.186
+ },
+ {
+  "word": "lange",
+  "start": 0.232,
+  "end": 0.441
+ },
+ {
+  "word": "kommst",
+  "start": 0.499,
+  "end": 0.755
+ },
+ {
+  "word": "du",
+  "start": 0.778,
+  "end": 0.836
+ },
+ {
+  "word": "mit",
+  "start": 0.882,
+  "end": 1.01
+ },
+ {
+  "word": "zwei",
+  "start": 1.033,
+  "end": 1.254
+ },
+ {
+  "word": "Töpfen",
+  "start": 1.312,
+  "end": 1.614
+ },
+ {
+  "word": "Wasser",
+  "start": 1.66,
+  "end": 1.962
+ },
+ {
+  "word": "aus?",
+  "start": 2.009,
+  "end": 2.519
+ },
+ {
+  "word": "Seit",
+  "start": 3.03,
+  "end": 3.251
+ },
+ {
+  "word": "gut",
+  "start": 3.309,
+  "end": 3.529
+ },
+ {
+  "word": "vier",
+  "start": 3.576,
+  "end": 3.796
+ },
+ {
+  "word": "Stunden",
+  "start": 3.855,
+  "end": 4.319
+ },
+ {
+  "word": "hat",
+  "start": 4.598,
+  "end": 4.772
+ },
+ {
+  "word": "ganz",
+  "start": 4.841,
+  "end": 5.097
+ },
+ {
+  "word": "Deutschland",
+  "start": 5.155,
+  "end": 5.584
+ },
+ {
+  "word": "keinen",
+  "start": 5.642,
+  "end": 5.886
+ },
+ {
+  "word": "Strom,",
+  "start": 5.933,
+  "end": 6.49
+ },
+ {
+  "word": "und",
+  "start": 6.699,
+  "end": 6.85
+ },
+ {
+  "word": "niemand",
+  "start": 6.931,
+  "end": 7.256
+ },
+ {
+  "word": "sagt",
+  "start": 7.303,
+  "end": 7.558
+ },
+ {
+  "word": "dir,",
+  "start": 7.581,
+  "end": 8.034
+ },
+ {
+  "word": "wie",
+  "start": 8.278,
+  "end": 8.406
+ },
+ {
+  "word": "lange",
+  "start": 8.464,
+  "end": 8.673
+ },
+ {
+  "word": "noch.",
+  "start": 8.719,
+  "end": 9.125
+ },
+ {
+  "word": "Zweiundzwanzig",
+  "start": 9.567,
+  "end": 10.344
+ },
+ {
+  "word": "Uhr",
+  "start": 10.391,
+  "end": 10.519
+ },
+ {
+  "word": "zehn.",
+  "start": 10.6,
+  "end": 11.122
+ },
+ {
+  "word": "Neunter",
+  "start": 11.564,
+  "end": 11.923
+ },
+ {
+  "word": "Stock.",
+  "start": 11.97,
+  "end": 12.423
+ },
+ {
+  "word": "Der",
+  "start": 12.864,
+  "end": 13.003
+ },
+ {
+  "word": "Wasserhahn",
+  "start": 13.05,
+  "end": 13.526
+ },
+ {
+  "word": "hustet.",
+  "start": 13.572,
+  "end": 14.245
+ },
+ {
+  "word": "Dann",
+  "start": 14.756,
+  "end": 14.965
+ },
+ {
+  "word": "kommt",
+  "start": 15.047,
+  "end": 15.29
+ },
+ {
+  "word": "nur",
+  "start": 15.348,
+  "end": 15.488
+ },
+ {
+  "word": "noch",
+  "start": 15.523,
+  "end": 15.685
+ },
+ {
+  "word": "Luft.",
+  "start": 15.731,
+  "end": 16.219
+ },
+ {
+  "word": "Frau",
+  "start": 16.602,
+  "end": 16.776
+ },
+ {
+  "word": "Brandt",
+  "start": 16.823,
+  "end": 17.16
+ },
+ {
+  "word": "hat",
+  "start": 17.403,
+  "end": 17.566
+ },
+ {
+  "word": "es",
+  "start": 17.624,
+  "end": 17.694
+ },
+ {
+  "word": "gewusst.",
+  "start": 17.74,
+  "end": 18.367
+ },
+ {
+  "word": "„Füllen",
+  "start": 18.878,
+  "end": 19.331
+ },
+ {
+  "word": "Sie",
+  "start": 19.365,
+  "end": 19.458
+ },
+ {
+  "word": "alles,",
+  "start": 19.505,
+  "end": 19.76
+ },
+ {
+  "word": "was",
+  "start": 19.783,
+  "end": 19.911
+ },
+ {
+  "word": "Sie",
+  "start": 19.934,
+  "end": 20.027
+ },
+ {
+  "word": "haben“,",
+  "start": 20.085,
+  "end": 20.596
+ },
+ {
+  "word": "hat",
+  "start": 20.631,
+  "end": 20.782
+ },
+ {
+  "word": "sie",
+  "start": 20.817,
+  "end": 20.898
+ },
+ {
+  "word": "gesagt.",
+  "start": 20.944,
+  "end": 21.536
+ },
+ {
+  "word": "„Die",
+  "start": 21.862,
+  "end": 22.094
+ },
+ {
+  "word": "Pumpen",
+  "start": 22.14,
+  "end": 22.419
+ },
+ {
+  "word": "brauchen",
+  "start": 22.442,
+  "end": 22.756
+ },
+ {
+  "word": "Strom.",
+  "start": 22.79,
+  "end": 23.429
+ },
+ {
+  "word": "Hier",
+  "start": 23.87,
+  "end": 24.044
+ },
+ {
+  "word": "oben",
+  "start": 24.102,
+  "end": 24.369
+ },
+ {
+  "word": "ist",
+  "start": 24.427,
+  "end": 24.578
+ },
+ {
+  "word": "das",
+  "start": 24.602,
+  "end": 24.718
+ },
+ {
+  "word": "Wasser",
+  "start": 24.764,
+  "end": 25.008
+ },
+ {
+  "word": "zuerst",
+  "start": 25.054,
+  "end": 25.414
+ },
+ {
+  "word": "weg.“",
+  "start": 25.461,
+  "end": 25.89
+ },
+ {
+  "word": "Du",
+  "start": 26.703,
+  "end": 26.819
+ },
+ {
+  "word": "hast",
+  "start": 26.877,
+  "end": 27.04
+ },
+ {
+  "word": "zu",
+  "start": 27.086,
+  "end": 27.167
+ },
+ {
+  "word": "lange",
+  "start": 27.237,
+  "end": 27.423
+ },
+ {
+  "word": "gewartet.",
+  "start": 27.469,
+  "end": 28.201
+ },
+ {
+  "word": "Jetzt",
+  "start": 28.711,
+  "end": 29.013
+ },
+ {
+  "word": "stehst",
+  "start": 29.129,
+  "end": 29.466
+ },
+ {
+  "word": "du",
+  "start": 29.489,
+  "end": 29.559
+ },
+ {
+  "word": "vor",
+  "start": 29.617,
+  "end": 29.733
+ },
+ {
+  "word": "der",
+  "start": 29.768,
+  "end": 29.849
+ },
+ {
+  "word": "Badewanne.",
+  "start": 29.896,
+  "end": 30.627
+ },
+ {
+  "word": "Der",
+  "start": 30.906,
+  "end": 31.045
+ },
+ {
+  "word": "Boden",
+  "start": 31.091,
+  "end": 31.347
+ },
+ {
+  "word": "ist",
+  "start": 31.393,
+  "end": 31.498
+ },
+ {
+  "word": "kaum",
+  "start": 31.556,
+  "end": 31.707
+ },
+ {
+  "word": "bedeckt.",
+  "start": 31.765,
+  "end": 32.345
+ },
+ {
+  "word": "Zwei",
+  "start": 32.67,
+  "end": 32.937
+ },
+ {
+  "word": "Töpfe.",
+  "start": 32.996,
+  "end": 33.611
+ },
+ {
+  "word": "Eine",
+  "start": 33.855,
+  "end": 34.052
+ },
+ {
+  "word": "Gießkanne.",
+  "start": 34.098,
+  "end": 34.876
+ },
+ {
+  "word": "Mehr",
+  "start": 35.318,
+  "end": 35.526
+ },
+ {
+  "word": "hast",
+  "start": 35.573,
+  "end": 35.735
+ },
+ {
+  "word": "du",
+  "start": 35.759,
+  "end": 35.817
+ },
+ {
+  "word": "nicht",
+  "start": 35.875,
+  "end": 36.061
+ },
+ {
+  "word": "geschafft.",
+  "start": 36.107,
+  "end": 36.746
+ },
+ {
+  "word": "Die",
+  "start": 37.071,
+  "end": 37.187
+ },
+ {
+  "word": "Spülung",
+  "start": 37.222,
+  "end": 37.605
+ },
+ {
+  "word": "drückst",
+  "start": 37.64,
+  "end": 37.895
+ },
+ {
+  "word": "du",
+  "start": 37.918,
+  "end": 37.965
+ },
+ {
+  "word": "noch",
+  "start": 38.023,
+  "end": 38.174
+ },
+ {
+  "word": "einmal.",
+  "start": 38.243,
+  "end": 38.905
+ },
+ {
+  "word": "Danach",
+  "start": 39.114,
+  "end": 39.567
+ },
+ {
+  "word": "bleibt",
+  "start": 39.845,
+  "end": 40.194
+ },
+ {
+  "word": "der",
+  "start": 40.229,
+  "end": 40.333
+ },
+ {
+  "word": "Kasten",
+  "start": 40.391,
+  "end": 40.855
+ },
+ {
+  "word": "leer.",
+  "start": 40.914,
+  "end": 41.343
+ },
+ {
+  "word": "Dein",
+  "start": 41.784,
+  "end": 41.982
+ },
+ {
+  "word": "Handy:",
+  "start": 42.051,
+  "end": 42.551
+ },
+ {
+  "word": "dreiundzwanzig",
+  "start": 42.76,
+  "end": 43.537
+ },
+ {
+  "word": "Prozent.",
+  "start": 43.572,
+  "end": 44.211
+ },
+ {
+  "word": "Kein",
+  "start": 44.594,
+  "end": 44.884
+ },
+ {
+  "word": "Netz.",
+  "start": 44.942,
+  "end": 45.453
+ },
+ {
+  "word": "Du",
+  "start": 45.662,
+  "end": 45.778
+ },
+ {
+  "word": "schaltest",
+  "start": 45.825,
+  "end": 46.173
+ },
+ {
+  "word": "es",
+  "start": 46.219,
+  "end": 46.301
+ },
+ {
+  "word": "aus.",
+  "start": 46.37,
+  "end": 46.869
+ },
+ {
+  "word": "Du",
+  "start": 47.195,
+  "end": 47.311
+ },
+ {
+  "word": "gehst",
+  "start": 47.369,
+  "end": 47.566
+ },
+ {
+  "word": "ans",
+  "start": 47.612,
+  "end": 47.74
+ },
+ {
+  "word": "Fenster.",
+  "start": 47.798,
+  "end": 48.483
+ },
+ {
+  "word": "Unten",
+  "start": 48.808,
+  "end": 49.18
+ },
+ {
+  "word": "an",
+  "start": 49.238,
+  "end": 49.307
+ },
+ {
+  "word": "der",
+  "start": 49.342,
+  "end": 49.435
+ },
+ {
+  "word": "Tankstelle",
+  "start": 49.481,
+  "end": 49.934
+ },
+ {
+  "word": "stehen",
+  "start": 49.969,
+  "end": 50.224
+ },
+ {
+  "word": "Autos",
+  "start": 50.294,
+  "end": 50.631
+ },
+ {
+  "word": "Schlange.",
+  "start": 50.666,
+  "end": 51.235
+ },
+ {
+  "word": "Aber",
+  "start": 51.745,
+  "end": 51.966
+ },
+ {
+  "word": "die",
+  "start": 51.989,
+  "end": 52.059
+ },
+ {
+  "word": "Zapfsäulen",
+  "start": 52.117,
+  "end": 52.697
+ },
+ {
+  "word": "sind",
+  "start": 52.732,
+  "end": 52.883
+ },
+ {
+  "word": "tot.",
+  "start": 52.93,
+  "end": 53.499
+ },
+ {
+  "word": "Auch",
+  "start": 53.824,
+  "end": 54.021
+ },
+ {
+  "word": "sie",
+  "start": 54.067,
+  "end": 54.218
+ },
+ {
+  "word": "brauchen",
+  "start": 54.265,
+  "end": 54.59
+ },
+ {
+  "word": "Strom.",
+  "start": 54.625,
+  "end": 55.24
+ },
+ {
+  "word": "Auf",
+  "start": 55.937,
+  "end": 56.076
+ },
+ {
+  "word": "den",
+  "start": 56.134,
+  "end": 56.25
+ },
+ {
+  "word": "Schienen",
+  "start": 56.297,
+  "end": 56.726
+ },
+ {
+  "word": "steht",
+  "start": 57.109,
+  "end": 57.353
+ },
+ {
+  "word": "eine",
+  "start": 57.411,
+  "end": 57.55
+ },
+ {
+  "word": "Straßenbahn.",
+  "start": 57.597,
+  "end": 58.56
+ },
+ {
+  "word": "Dunkel.",
+  "start": 58.886,
+  "end": 59.489
+ },
+ {
+  "word": "Die",
+  "start": 59.93,
+  "end": 60.058
+ },
+ {
+  "word": "Türen",
+  "start": 60.116,
+  "end": 60.464
+ },
+ {
+  "word": "offen.",
+  "start": 60.534,
+  "end": 61.022
+ },
+ {
+  "word": "Leer.",
+  "start": 61.463,
+  "end": 61.951
+ },
+ {
+  "word": "Ein",
+  "start": 62.763,
+  "end": 62.914
+ },
+ {
+  "word": "Mann",
+  "start": 62.972,
+  "end": 63.158
+ },
+ {
+  "word": "schiebt",
+  "start": 63.216,
+  "end": 63.495
+ },
+ {
+  "word": "sein",
+  "start": 63.541,
+  "end": 63.704
+ },
+ {
+  "word": "Auto.",
+  "start": 63.785,
+  "end": 64.354
+ },
+ {
+  "word": "Irgendwo",
+  "start": 64.865,
+  "end": 65.294
+ },
+ {
+  "word": "klirrt",
+  "start": 65.352,
+  "end": 65.631
+ },
+ {
+  "word": "Glas.",
+  "start": 65.677,
+  "end": 66.304
+ },
+ {
+  "word": "Es",
+  "start": 66.629,
+  "end": 66.768
+ },
+ {
+  "word": "wird",
+  "start": 66.826,
+  "end": 66.989
+ },
+ {
+  "word": "kalt.",
+  "start": 67.047,
+  "end": 67.604
+ },
+ {
+  "word": "Die",
+  "start": 68.208,
+  "end": 68.336
+ },
+ {
+  "word": "Heizung",
+  "start": 68.382,
+  "end": 68.731
+ },
+ {
+  "word": "ist",
+  "start": 68.777,
+  "end": 68.881
+ },
+ {
+  "word": "längst",
+  "start": 68.94,
+  "end": 69.172
+ },
+ {
+  "word": "aus.",
+  "start": 69.23,
+  "end": 69.694
+ },
+ {
+  "word": "Du",
+  "start": 70.089,
+  "end": 70.193
+ },
+ {
+  "word": "legst",
+  "start": 70.251,
+  "end": 70.437
+ },
+ {
+  "word": "dich",
+  "start": 70.46,
+  "end": 70.577
+ },
+ {
+  "word": "in",
+  "start": 70.623,
+  "end": 70.681
+ },
+ {
+  "word": "der",
+  "start": 70.727,
+  "end": 70.809
+ },
+ {
+  "word": "Jacke",
+  "start": 70.855,
+  "end": 71.053
+ },
+ {
+  "word": "aufs",
+  "start": 71.087,
+  "end": 71.238
+ },
+ {
+  "word": "Sofa.",
+  "start": 71.262,
+  "end": 71.865
+ },
+ {
+  "word": "Du",
+  "start": 72.248,
+  "end": 72.376
+ },
+ {
+  "word": "schläfst",
+  "start": 72.411,
+  "end": 72.782
+ },
+ {
+  "word": "nicht.",
+  "start": 72.829,
+  "end": 73.305
+ },
+ {
+  "word": "Du",
+  "start": 73.642,
+  "end": 73.781
+ },
+ {
+  "word": "zählst.",
+  "start": 73.839,
+  "end": 74.443
+ },
+ {
+  "word": "Zwei",
+  "start": 74.826,
+  "end": 75.104
+ },
+ {
+  "word": "Töpfe.",
+  "start": 75.162,
+  "end": 75.697
+ },
+ {
+  "word": "Eine",
+  "start": 76.033,
+  "end": 76.219
+ },
+ {
+  "word": "Gießkanne.",
+  "start": 76.265,
+  "end": 77.02
+ },
+ {
+  "word": "Wie",
+  "start": 77.554,
+  "end": 77.67
+ },
+ {
+  "word": "lange",
+  "start": 77.693,
+  "end": 77.856
+ },
+ {
+  "word": "reicht",
+  "start": 77.902,
+  "end": 78.088
+ },
+ {
+  "word": "das?",
+  "start": 78.111,
+  "end": 78.495
+ },
+ {
+  "word": "Drei",
+  "start": 78.947,
+  "end": 79.203
+ },
+ {
+  "word": "Uhr",
+  "start": 79.272,
+  "end": 79.388
+ },
+ {
+  "word": "nachts.",
+  "start": 79.435,
+  "end": 80.004
+ },
+ {
+  "word": "Es",
+  "start": 80.294,
+  "end": 80.445
+ },
+ {
+  "word": "klopft.",
+  "start": 80.491,
+  "end": 81.118
+ },
+ {
+  "word": "Leise.",
+  "start": 81.455,
+  "end": 82.094
+ },
+ {
+  "word": "Dann",
+  "start": 82.43,
+  "end": 82.628
+ },
+ {
+  "word": "noch",
+  "start": 82.686,
+  "end": 82.837
+ },
+ {
+  "word": "einmal.",
+  "start": 82.895,
+  "end": 83.533
+ },
+ {
+  "word": "Durch",
+  "start": 83.812,
+  "end": 84.021
+ },
+ {
+  "word": "den",
+  "start": 84.056,
+  "end": 84.149
+ },
+ {
+  "word": "Türspion",
+  "start": 84.195,
+  "end": 84.833
+ },
+ {
+  "word": "siehst",
+  "start": 85.112,
+  "end": 85.39
+ },
+ {
+  "word": "du",
+  "start": 85.414,
+  "end": 85.483
+ },
+ {
+  "word": "nur",
+  "start": 85.553,
+  "end": 85.739
+ },
+ {
+  "word": "Dunkelheit.",
+  "start": 85.785,
+  "end": 86.505
+ },
+ {
+  "word": "Du",
+  "start": 86.946,
+  "end": 87.074
+ },
+ {
+  "word": "öffnest",
+  "start": 87.12,
+  "end": 87.422
+ },
+ {
+  "word": "einen",
+  "start": 87.48,
+  "end": 87.643
+ },
+ {
+  "word": "Spalt.",
+  "start": 87.701,
+  "end": 88.304
+ },
+ {
+  "word": "Vor",
+  "start": 88.815,
+  "end": 89.024
+ },
+ {
+  "word": "dir",
+  "start": 89.071,
+  "end": 89.198
+ },
+ {
+  "word": "steht",
+  "start": 89.233,
+  "end": 89.431
+ },
+ {
+  "word": "ein",
+  "start": 89.489,
+  "end": 89.57
+ },
+ {
+  "word": "Junge.",
+  "start": 89.628,
+  "end": 90.116
+ },
+ {
+  "word": "Vierzehn",
+  "start": 90.441,
+  "end": 90.894
+ },
+ {
+  "word": "vielleicht.",
+  "start": 90.952,
+  "end": 91.59
+ },
+ {
+  "word": "Roter",
+  "start": 92.101,
+  "end": 92.438
+ },
+ {
+  "word": "Kapuzenpullover.",
+  "start": 92.496,
+  "end": 93.633
+ },
+ {
+  "word": "„Ich",
+  "start": 94.075,
+  "end": 94.446
+ },
+ {
+  "word": "bin",
+  "start": 94.493,
+  "end": 94.632
+ },
+ {
+  "word": "Malik,",
+  "start": 94.702,
+  "end": 95.282
+ },
+ {
+  "word": "aus",
+  "start": 95.433,
+  "end": 95.596
+ },
+ {
+  "word": "dem",
+  "start": 95.642,
+  "end": 95.758
+ },
+ {
+  "word": "sechsten“,",
+  "start": 95.816,
+  "end": 96.431
+ },
+ {
+  "word": "sagt",
+  "start": 96.548,
+  "end": 96.815
+ },
+ {
+  "word": "er.",
+  "start": 96.861,
+  "end": 97.174
+ },
+ {
+  "word": "„Meine",
+  "start": 97.453,
+  "end": 97.836
+ },
+ {
+  "word": "Mutter",
+  "start": 97.871,
+  "end": 98.103
+ },
+ {
+  "word": "ist",
+  "start": 98.138,
+  "end": 98.243
+ },
+ {
+  "word": "nicht",
+  "start": 98.277,
+  "end": 98.44
+ },
+ {
+  "word": "nach",
+  "start": 98.475,
+  "end": 98.603
+ },
+ {
+  "word": "Hause",
+  "start": 98.626,
+  "end": 98.858
+ },
+ {
+  "word": "gekommen.“",
+  "start": 98.904,
+  "end": 100.263
+ }
+]
