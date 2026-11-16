@@ -1,0 +1,7022 @@
+[
+{
+"word": "Es",
+"start": 0.0,
+"end": 0.2
+},
+{
+"word": "fühlt",
+"start": 0.2,
+"end": 0.38
+},
+{
+"word": "sich",
+"start": 0.38,
+"end": 0.48
+},
+{
+"word": "gerade",
+"start": 0.48,
+"end": 0.66
+},
+{
+"word": "alles",
+"start": 0.66,
+"end": 0.9
+},
+{
+"word": "ein",
+"start": 0.9,
+"end": 1.04
+},
+{
+"word": "bisschen",
+"start": 1.04,
+"end": 1.24
+},
+{
+"word": "hoffnungslos",
+"start": 1.24,
+"end": 1.9
+},
+{
+"word": "an.",
+"start": 1.9,
+"end": 2.3
+},
+{
+"word": "Und",
+"start": 2.48,
+"end": 2.58
+},
+{
+"word": "wenn",
+"start": 2.58,
+"end": 2.72
+},
+{
+"word": "es",
+"start": 2.72,
+"end": 2.82
+},
+{
+"word": "dir",
+"start": 2.82,
+"end": 2.94
+},
+{
+"word": "auch",
+"start": 2.94,
+"end": 3.08
+},
+{
+"word": "so",
+"start": 3.08,
+"end": 3.2
+},
+{
+"word": "geht,",
+"start": 3.2,
+"end": 3.68
+},
+{
+"word": "dann",
+"start": 3.68,
+"end": 3.9
+},
+{
+"word": "bist",
+"start": 3.9,
+"end": 4.04
+},
+{
+"word": "du",
+"start": 4.04,
+"end": 4.14
+},
+{
+"word": "damit",
+"start": 4.14,
+"end": 4.32
+},
+{
+"word": "nicht",
+"start": 4.32,
+"end": 4.5
+},
+{
+"word": "allein.",
+"start": 4.5,
+"end": 5.0
+},
+{
+"word": "Ich",
+"start": 5.54,
+"end": 5.7
+},
+{
+"word": "habe",
+"start": 5.7,
+"end": 5.84
+},
+{
+"word": "schon",
+"start": 5.84,
+"end": 5.96
+},
+{
+"word": "als",
+"start": 5.96,
+"end": 6.16
+},
+{
+"word": "Teenager",
+"start": 6.16,
+"end": 6.54
+},
+{
+"word": "programmiert.",
+"start": 6.54,
+"end": 7.28
+},
+{
+"word": "Nicht,",
+"start": 7.38,
+"end": 7.54
+},
+{
+"word": "weil",
+"start": 7.54,
+"end": 7.6
+},
+{
+"word": "ich",
+"start": 7.6,
+"end": 7.72
+},
+{
+"word": "musste,",
+"start": 7.72,
+"end": 8.2
+},
+{
+"word": "sondern",
+"start": 8.2,
+"end": 8.38
+},
+{
+"word": "weil",
+"start": 8.38,
+"end": 8.58
+},
+{
+"word": "ich",
+"start": 8.58,
+"end": 8.7
+},
+{
+"word": "es",
+"start": 8.7,
+"end": 8.84
+},
+{
+"word": "geliebt",
+"start": 8.84,
+"end": 9.16
+},
+{
+"word": "habe.",
+"start": 9.16,
+"end": 9.6
+},
+{
+"word": "Nach",
+"start": 9.92,
+"end": 10.08
+},
+{
+"word": "dem",
+"start": 10.08,
+"end": 10.26
+},
+{
+"word": "Studium",
+"start": 10.26,
+"end": 10.62
+},
+{
+"word": "hatte",
+"start": 10.62,
+"end": 10.82
+},
+{
+"word": "ich",
+"start": 10.82,
+"end": 10.96
+},
+{
+"word": "Glück",
+"start": 10.96,
+"end": 11.14
+},
+{
+"word": "und",
+"start": 11.14,
+"end": 11.34
+},
+{
+"word": "habe",
+"start": 11.34,
+"end": 11.5
+},
+{
+"word": "genau",
+"start": 11.5,
+"end": 11.76
+},
+{
+"word": "in",
+"start": 11.76,
+"end": 11.94
+},
+{
+"word": "diesem",
+"start": 11.94,
+"end": 12.14
+},
+{
+"word": "Bereich",
+"start": 12.14,
+"end": 12.42
+},
+{
+"word": "einen",
+"start": 12.42,
+"end": 12.66
+},
+{
+"word": "Job",
+"start": 12.66,
+"end": 12.86
+},
+{
+"word": "gefunden.",
+"start": 12.86,
+"end": 13.48
+},
+{
+"word": "Software",
+"start": 13.74,
+"end": 14.14
+},
+{
+"word": "-Entwicklung,",
+"start": 14.14,
+"end": 14.8
+},
+{
+"word": "mein",
+"start": 14.8,
+"end": 14.94
+},
+{
+"word": "Traumjob.",
+"start": 14.94,
+"end": 15.58
+},
+{
+"word": "Heute",
+"start": 15.84,
+"end": 16.1
+},
+{
+"word": "macht",
+"start": 16.1,
+"end": 16.34
+},
+{
+"word": "er",
+"start": 16.34,
+"end": 16.42
+},
+{
+"word": "mir",
+"start": 16.42,
+"end": 16.5
+},
+{
+"word": "kaum",
+"start": 16.5,
+"end": 16.78
+},
+{
+"word": "noch",
+"start": 16.78,
+"end": 16.96
+},
+{
+"word": "Spaß.",
+"start": 16.96,
+"end": 17.52
+},
+{
+"word": "Und",
+"start": 18.12,
+"end": 18.32
+},
+{
+"word": "ich",
+"start": 18.32,
+"end": 18.44
+},
+{
+"word": "weiß",
+"start": 18.44,
+"end": 18.68
+},
+{
+"word": "ehrlich",
+"start": 18.68,
+"end": 19.02
+},
+{
+"word": "gesagt",
+"start": 19.02,
+"end": 19.38
+},
+{
+"word": "nicht,",
+"start": 19.38,
+"end": 19.76
+},
+{
+"word": "wie",
+"start": 19.76,
+"end": 19.86
+},
+{
+"word": "lange",
+"start": 19.86,
+"end": 20.04
+},
+{
+"word": "ich",
+"start": 20.04,
+"end": 20.18
+},
+{
+"word": "ihn",
+"start": 20.18,
+"end": 20.26
+},
+{
+"word": "noch",
+"start": 20.26,
+"end": 20.38
+},
+{
+"word": "machen",
+"start": 20.38,
+"end": 20.62
+},
+{
+"word": "kann.",
+"start": 20.62,
+"end": 21.04
+},
+{
+"word": "Und",
+"start": 21.72,
+"end": 21.9
+},
+{
+"word": "ich",
+"start": 21.9,
+"end": 22.0
+},
+{
+"word": "bin",
+"start": 22.0,
+"end": 22.12
+},
+{
+"word": "nicht",
+"start": 22.12,
+"end": 22.22
+},
+{
+"word": "der",
+"start": 22.22,
+"end": 22.36
+},
+{
+"word": "Einzige.",
+"start": 22.36,
+"end": 22.96
+},
+{
+"word": "Ende",
+"start": 23.14,
+"end": 23.28
+},
+{
+"word": "September",
+"start": 23.28,
+"end": 23.68
+},
+{
+"word": "hat",
+"start": 23.68,
+"end": 23.86
+},
+{
+"word": "das",
+"start": 23.86,
+"end": 24.0
+},
+{
+"word": "Jobportal",
+"start": 24.0,
+"end": 24.56
+},
+{
+"word": "Indeed",
+"start": 24.56,
+"end": 24.94
+},
+{
+"word": "nachgezählt.",
+"start": 24.94,
+"end": 25.96
+},
+{
+"word": "Für",
+"start": 25.96,
+"end": 26.28
+},
+{
+"word": "Berufseinsteiger",
+"start": 26.28,
+"end": 27.18
+},
+{
+"word": "in",
+"start": 27.18,
+"end": 27.32
+},
+{
+"word": "Deutschland",
+"start": 27.32,
+"end": 27.66
+},
+{
+"word": "gibt",
+"start": 27.66,
+"end": 28.04
+},
+{
+"word": "es",
+"start": 28.04,
+"end": 28.18
+},
+{
+"word": "fast",
+"start": 28.18,
+"end": 28.4
+},
+{
+"word": "halb",
+"start": 28.4,
+"end": 28.66
+},
+{
+"word": "so",
+"start": 28.66,
+"end": 28.78
+},
+{
+"word": "wenig",
+"start": 28.78,
+"end": 29.02
+},
+{
+"word": "Stellen",
+"start": 29.02,
+"end": 29.36
+},
+{
+"word": "wie",
+"start": 29.36,
+"end": 29.58
+},
+{
+"word": "vor",
+"start": 29.58,
+"end": 29.74
+},
+{
+"word": "sieben",
+"start": 29.74,
+"end": 29.98
+},
+{
+"word": "Jahren.",
+"start": 30.06,
+"end": 30.84
+},
+{
+"word": "Dabei",
+"start": 30.84,
+"end": 31.3
+},
+{
+"word": "ist",
+"start": 31.3,
+"end": 31.54
+},
+{
+"word": "KI",
+"start": 31.54,
+"end": 31.74
+},
+{
+"word": "eigentlich",
+"start": 31.74,
+"end": 32.02
+},
+{
+"word": "ein",
+"start": 32.02,
+"end": 32.24
+},
+{
+"word": "großartiges",
+"start": 32.24,
+"end": 32.84
+},
+{
+"word": "Werkzeug.",
+"start": 32.84,
+"end": 33.54
+},
+{
+"word": "Sie",
+"start": 33.54,
+"end": 33.72
+},
+{
+"word": "fasst",
+"start": 33.72,
+"end": 33.98
+},
+{
+"word": "zusammen,",
+"start": 33.98,
+"end": 34.56
+},
+{
+"word": "sie",
+"start": 34.56,
+"end": 34.68
+},
+{
+"word": "schreibt,",
+"start": 34.68,
+"end": 35.32
+},
+{
+"word": "sie",
+"start": 35.32,
+"end": 35.4
+},
+{
+"word": "programmiert,",
+"start": 35.56,
+"end": 36.16
+},
+{
+"word": "sie",
+"start": 36.16,
+"end": 36.28
+},
+{
+"word": "spart",
+"start": 36.28,
+"end": 36.56
+},
+{
+"word": "Arbeit.",
+"start": 36.56,
+"end": 37.1
+},
+{
+"word": "Jeden",
+"start": 37.1,
+"end": 37.38
+},
+{
+"word": "Tag.",
+"start": 37.38,
+"end": 37.86
+},
+{
+"word": "Millionenfach.",
+"start": 37.86,
+"end": 38.92
+},
+{
+"word": "Also",
+"start": 38.92,
+"end": 39.8
+},
+{
+"word": "müsste",
+"start": 39.8,
+"end": 40.14
+},
+{
+"word": "sich",
+"start": 40.14,
+"end": 40.34
+},
+{
+"word": "das",
+"start": 40.34,
+"end": 40.52
+},
+{
+"word": "doch",
+"start": 40.52,
+"end": 40.68
+},
+{
+"word": "eigentlich",
+"start": 40.68,
+"end": 41.04
+},
+{
+"word": "gut",
+"start": 41.28,
+"end": 41.36
+},
+{
+"word": "anfühlen.",
+"start": 41.36,
+"end": 42.08
+},
+{
+"word": "Heute",
+"start": 42.08,
+"end": 42.5
+},
+{
+"word": "gehen",
+"start": 42.5,
+"end": 42.7
+},
+{
+"word": "wir",
+"start": 42.7,
+"end": 42.82
+},
+{
+"word": "einer",
+"start": 42.82,
+"end": 42.96
+},
+{
+"word": "einzigen",
+"start": 42.96,
+"end": 43.3
+},
+{
+"word": "Frage",
+"start": 43.3,
+"end": 43.6
+},
+{
+"word": "nach.",
+"start": 43.6,
+"end": 44.08
+},
+{
+"word": "Wenn",
+"start": 44.28,
+"end": 44.44
+},
+{
+"word": "KI",
+"start": 44.44,
+"end": 44.72
+},
+{
+"word": "so",
+"start": 44.72,
+"end": 45.1
+},
+{
+"word": "viel",
+"start": 45.1,
+"end": 45.3
+},
+{
+"word": "Arbeit",
+"start": 45.3,
+"end": 45.6
+},
+{
+"word": "spart,",
+"start": 45.6,
+"end": 46.12
+},
+{
+"word": "wo",
+"start": 46.12,
+"end": 46.36
+},
+{
+"word": "landet",
+"start": 46.36,
+"end": 46.78
+},
+{
+"word": "dann",
+"start": 46.78,
+"end": 46.9
+},
+{
+"word": "die",
+"start": 46.9,
+"end": 47.02
+},
+{
+"word": "ganze",
+"start": 47.02,
+"end": 47.22
+},
+{
+"word": "Zeit?",
+"start": 47.22,
+"end": 47.76
+},
+{
+"word": "Bei",
+"start": 48.04,
+"end": 48.2
+},
+{
+"word": "dir?",
+"start": 48.2,
+"end": 48.68
+},
+{
+"word": "Bei",
+"start": 48.68,
+"end": 48.86
+},
+{
+"word": "deinem",
+"start": 48.86,
+"end": 49.12
+},
+{
+"word": "Chef?",
+"start": 49.12,
+"end": 49.8
+},
+{
+"word": "Oder",
+"start": 49.8,
+"end": 50.06
+},
+{
+"word": "bei",
+"start": 50.06,
+"end": 50.24
+},
+{
+"word": "niemandem?",
+"start": 50.24,
+"end": 50.9
+},
+{
+"word": "Um",
+"start": 51.88,
+"end": 52.06
+},
+{
+"word": "das",
+"start": 52.06,
+"end": 52.24
+},
+{
+"word": "zu",
+"start": 52.24,
+"end": 52.42
+},
+{
+"word": "messen,",
+"start": 52.42,
+"end": 52.78
+},
+{
+"word": "brauchen",
+"start": 52.78,
+"end": 52.94
+},
+{
+"word": "wir",
+"start": 52.94,
+"end": 53.08
+},
+{
+"word": "ein",
+"start": 53.08,
+"end": 53.26
+},
+{
+"word": "Bild.",
+"start": 53.26,
+"end": 53.78
+},
+{
+"word": "Stell",
+"start": 54.22,
+"end": 54.4
+},
+{
+"word": "dir",
+"start": 54.4,
+"end": 54.54
+},
+{
+"word": "deine",
+"start": 54.54,
+"end": 54.72
+},
+{
+"word": "Arbeitswoche",
+"start": 54.72,
+"end": 55.3
+},
+{
+"word": "als",
+"start": 55.3,
+"end": 55.46
+},
+{
+"word": "Haus",
+"start": 55.46,
+"end": 55.72
+},
+{
+"word": "vor.",
+"start": 55.72,
+"end": 56.24
+},
+{
+"word": "Jedes",
+"start": 56.5,
+"end": 56.76
+},
+{
+"word": "erleuchtete",
+"start": 56.76,
+"end": 57.18
+},
+{
+"word": "Fenster",
+"start": 57.18,
+"end": 57.56
+},
+{
+"word": "ist",
+"start": 57.56,
+"end": 57.78
+},
+{
+"word": "eine",
+"start": 57.78,
+"end": 58.02
+},
+{
+"word": "Stunde",
+"start": 58.02,
+"end": 58.3
+},
+{
+"word": "Arbeit.",
+"start": 58.3,
+"end": 58.96
+},
+{
+"word": "Wer",
+"start": 59.28,
+"end": 59.44
+},
+{
+"word": "in",
+"start": 59.44,
+"end": 59.56
+},
+{
+"word": "Deutschland",
+"start": 59.56,
+"end": 59.9
+},
+{
+"word": "Vollzeit",
+"start": 59.9,
+"end": 60.42
+},
+{
+"word": "arbeitet,",
+"start": 60.42,
+"end": 61.04
+},
+{
+"word": "hat",
+"start": 61.04,
+"end": 61.22
+},
+{
+"word": "im",
+"start": 61.22,
+"end": 61.34
+},
+{
+"word": "Schnitt",
+"start": 61.34,
+"end": 61.58
+},
+{
+"word": "40",
+"start": 61.58,
+"end": 62.02
+},
+{
+"word": "solcher",
+"start": 62.02,
+"end": 62.34
+},
+{
+"word": "Fenster.",
+"start": 62.34,
+"end": 62.98
+},
+{
+"word": "Genauer",
+"start": 63.36,
+"end": 63.64
+},
+{
+"word": "40",
+"start": 63.64,
+"end": 64.26
+},
+{
+"word": ",2.",
+"start": 64.26,
+"end": 65.08
+},
+{
+"word": "1930",
+"start": 65.58,
+"end": 66.0
+},
+{
+"word": "hat",
+"start": 66.0,
+"end": 66.7
+},
+{
+"word": "der",
+"start": 66.7,
+"end": 66.78
+},
+{
+"word": "Ökonom",
+"start": 66.78,
+"end": 67.14
+},
+{
+"word": "John",
+"start": 67.14,
+"end": 67.42
+},
+{
+"word": "Maynard",
+"start": 67.42,
+"end": 67.86
+},
+{
+"word": "Keyes",
+"start": 67.86,
+"end": 68.24
+},
+{
+"word": "eine",
+"start": 68.24,
+"end": 68.46
+},
+{
+"word": "kühne",
+"start": 68.46,
+"end": 68.76
+},
+{
+"word": "Rechnung",
+"start": 68.76,
+"end": 69.1
+},
+{
+"word": "aufgemacht.",
+"start": 69.1,
+"end": 69.78
+},
+{
+"word": "Die",
+"start": 69.78,
+"end": 70.08
+},
+{
+"word": "Maschinen",
+"start": 70.08,
+"end": 70.44
+},
+{
+"word": "werden",
+"start": 70.44,
+"end": 70.64
+},
+{
+"word": "so",
+"start": 70.64,
+"end": 70.88
+},
+{
+"word": "viel",
+"start": 70.88,
+"end": 71.1
+},
+{
+"word": "schaffen,",
+"start": 71.1,
+"end": 71.56
+},
+{
+"word": "schrieb",
+"start": 71.56,
+"end": 71.8
+},
+{
+"word": "er,",
+"start": 71.8,
+"end": 72.12
+},
+{
+"word": "dass",
+"start": 72.32,
+"end": 72.46
+},
+{
+"word": "in",
+"start": 72.46,
+"end": 72.6
+},
+{
+"word": "100",
+"start": 72.6,
+"end": 72.88
+},
+{
+"word": "Jahren",
+"start": 72.88,
+"end": 73.18
+},
+{
+"word": "eine",
+"start": 73.18,
+"end": 73.44
+},
+{
+"word": "15",
+"start": 73.44,
+"end": 73.82
+},
+{
+"word": "-Stunden",
+"start": 73.82,
+"end": 74.24
+},
+{
+"word": "-Woche",
+"start": 74.24,
+"end": 74.48
+},
+{
+"word": "reicht.",
+"start": 74.48,
+"end": 75.12
+},
+{
+"word": "100",
+"start": 75.12,
+"end": 75.64
+},
+{
+"word": "Jahre",
+"start": 75.64,
+"end": 76.0
+},
+{
+"word": "nach",
+"start": 76.0,
+"end": 76.22
+},
+{
+"word": "1930?",
+"start": 76.22,
+"end": 77.3
+},
+{
+"word": "Das",
+"start": 77.3,
+"end": 77.7
+},
+{
+"word": "ist",
+"start": 77.7,
+"end": 77.86
+},
+{
+"word": "2030.",
+"start": 77.86,
+"end": 78.9
+},
+{
+"word": "In",
+"start": 78.9,
+"end": 79.38
+},
+{
+"word": "vier",
+"start": 79.38,
+"end": 79.62
+},
+{
+"word": "Jahren.",
+"start": 79.62,
+"end": 80.16
+},
+{
+"word": "Bei",
+"start": 80.54,
+"end": 80.7
+},
+{
+"word": "Keynes",
+"start": 80.7,
+"end": 81.12
+},
+{
+"word": "brennen",
+"start": 81.12,
+"end": 81.44
+},
+{
+"word": "also",
+"start": 81.44,
+"end": 81.66
+},
+{
+"word": "15",
+"start": 81.66,
+"end": 82.06
+},
+{
+"word": "Fenster,",
+"start": 82.06,
+"end": 82.9
+},
+{
+"word": "bei",
+"start": 82.9,
+"end": 83.1
+},
+{
+"word": "uns",
+"start": 83.1,
+"end": 83.42
+},
+{
+"word": "noch",
+"start": 83.42,
+"end": 83.6
+},
+{
+"word": "immer",
+"start": 83.6,
+"end": 83.78
+},
+{
+"word": "40.",
+"start": 83.78,
+"end": 84.7
+},
+{
+"word": "Aber",
+"start": 84.7,
+"end": 85.02
+},
+{
+"word": "hat",
+"start": 85.02,
+"end": 85.24
+},
+{
+"word": "Keens",
+"start": 85.24,
+"end": 85.58
+},
+{
+"word": "sich",
+"start": 85.58,
+"end": 85.76
+},
+{
+"word": "einfach",
+"start": 85.76,
+"end": 86.12
+},
+{
+"word": "verrechnet?",
+"start": 86.12,
+"end": 86.86
+},
+{
+"word": "Seit",
+"start": 87.44,
+"end": 87.64
+},
+{
+"word": "1991",
+"start": 87.64,
+"end": 88.32
+},
+{
+"word": "schaffte",
+"start": 88.32,
+"end": 89.22
+},
+{
+"word": "eine",
+"start": 89.22,
+"end": 89.4
+},
+{
+"word": "Stunde",
+"start": 89.4,
+"end": 89.62
+},
+{
+"word": "Arbeit",
+"start": 89.62,
+"end": 90.06
+},
+{
+"word": "in",
+"start": 90.06,
+"end": 90.24
+},
+{
+"word": "Deutschland",
+"start": 90.24,
+"end": 90.54
+},
+{
+"word": "rund",
+"start": 90.54,
+"end": 90.78
+},
+{
+"word": "die",
+"start": 90.78,
+"end": 90.94
+},
+{
+"word": "Hälfte",
+"start": 90.94,
+"end": 91.26
+},
+{
+"word": "mehr",
+"start": 91.26,
+"end": 91.46
+},
+{
+"word": "als",
+"start": 91.46,
+"end": 91.66
+},
+{
+"word": "damals.",
+"start": 91.66,
+"end": 92.26
+},
+{
+"word": "Das",
+"start": 92.5,
+"end": 92.64
+},
+{
+"word": "Haus",
+"start": 92.64,
+"end": 92.96
+},
+{
+"word": "ist",
+"start": 92.96,
+"end": 93.16
+},
+{
+"word": "also",
+"start": 93.16,
+"end": 93.36
+},
+{
+"word": "gewachsen,",
+"start": 93.36,
+"end": 94.08
+},
+{
+"word": "jedes",
+"start": 94.08,
+"end": 94.42
+},
+{
+"word": "Fenster",
+"start": 94.42,
+"end": 94.86
+},
+{
+"word": "leistet",
+"start": 94.86,
+"end": 95.3
+},
+{
+"word": "mehr.",
+"start": 95.3,
+"end": 95.68
+},
+{
+"word": "Und",
+"start": 96.1,
+"end": 96.22
+},
+{
+"word": "trotzdem",
+"start": 96.22,
+"end": 96.62
+},
+{
+"word": "brennen",
+"start": 96.62,
+"end": 97.04
+},
+{
+"word": "in",
+"start": 97.04,
+"end": 97.18
+},
+{
+"word": "der",
+"start": 97.18,
+"end": 97.28
+},
+{
+"word": "Vollzeit",
+"start": 97.28,
+"end": 97.68
+},
+{
+"word": "fast",
+"start": 97.68,
+"end": 98.02
+},
+{
+"word": "genauso",
+"start": 98.02,
+"end": 98.36
+},
+{
+"word": "viele",
+"start": 98.36,
+"end": 98.64
+},
+{
+"word": "Fenster",
+"start": 98.64,
+"end": 99.0
+},
+{
+"word": "wie",
+"start": 99.0,
+"end": 99.14
+},
+{
+"word": "vor",
+"start": 99.14,
+"end": 99.28
+},
+{
+"word": "30",
+"start": 99.28,
+"end": 99.58
+},
+{
+"word": "Jahren.",
+"start": 99.58,
+"end": 100.08
+},
+{
+"word": "Ja,",
+"start": 100.54,
+"end": 100.76
+},
+{
+"word": "im",
+"start": 100.76,
+"end": 100.88
+},
+{
+"word": "Durchschnitt",
+"start": 100.88,
+"end": 101.3
+},
+{
+"word": "arbeiten",
+"start": 101.3,
+"end": 101.64
+},
+{
+"word": "wir",
+"start": 101.64,
+"end": 101.78
+},
+{
+"word": "pro",
+"start": 101.78,
+"end": 101.92
+},
+{
+"word": "Kopf",
+"start": 101.92,
+"end": 102.18
+},
+{
+"word": "etwa",
+"start": 102.18,
+"end": 102.44
+},
+{
+"word": "14",
+"start": 102.44,
+"end": 102.86
+},
+{
+"word": "%",
+"start": 102.86,
+"end": 103.14
+},
+{
+"word": "weniger.",
+"start": 103.14,
+"end": 103.8
+},
+{
+"word": "Aber",
+"start": 104.18,
+"end": 104.34
+},
+{
+"word": "das",
+"start": 104.34,
+"end": 104.5
+},
+{
+"word": "kommt",
+"start": 104.5,
+"end": 104.66
+},
+{
+"word": "fast",
+"start": 104.66,
+"end": 105.0
+},
+{
+"word": "nur",
+"start": 105.0,
+"end": 105.16
+},
+{
+"word": "von",
+"start": 105.16,
+"end": 105.34
+},
+{
+"word": "Teilzeit.",
+"start": 105.34,
+"end": 105.98
+},
+{
+"word": "Also",
+"start": 106.34,
+"end": 106.4
+},
+{
+"word": "nicht",
+"start": 106.4,
+"end": 106.72
+},
+{
+"word": "davon,",
+"start": 106.72,
+"end": 107.1
+},
+{
+"word": "dass",
+"start": 107.1,
+"end": 107.24
+},
+{
+"word": "die",
+"start": 107.24,
+"end": 107.36
+},
+{
+"word": "Woche",
+"start": 107.36,
+"end": 107.52
+},
+{
+"word": "für",
+"start": 107.52,
+"end": 107.68
+},
+{
+"word": "alle",
+"start": 107.68,
+"end": 107.82
+},
+{
+"word": "kürzer",
+"start": 107.82,
+"end": 108.18
+},
+{
+"word": "wurde,",
+"start": 108.18,
+"end": 108.66
+},
+{
+"word": "sondern",
+"start": 108.84,
+"end": 109.06
+},
+{
+"word": "davon,",
+"start": 109.06,
+"end": 109.56
+},
+{
+"word": "dass",
+"start": 109.56,
+"end": 109.7
+},
+{
+"word": "manche",
+"start": 109.7,
+"end": 110.08
+},
+{
+"word": "weniger",
+"start": 110.08,
+"end": 110.46
+},
+{
+"word": "Stunden",
+"start": 110.46,
+"end": 110.78
+},
+{
+"word": "haben.",
+"start": 110.78,
+"end": 111.34
+},
+{
+"word": "Oft",
+"start": 111.68,
+"end": 111.94
+},
+{
+"word": "mit",
+"start": 111.94,
+"end": 112.12
+},
+{
+"word": "weniger",
+"start": 112.12,
+"end": 112.44
+},
+{
+"word": "Geld.",
+"start": 112.44,
+"end": 112.94
+},
+{
+"word": "Die",
+"start": 113.24,
+"end": 113.3
+},
+{
+"word": "Zeit",
+"start": 113.3,
+"end": 113.6
+},
+{
+"word": "wurde",
+"start": 113.6,
+"end": 113.78
+},
+{
+"word": "gespart,",
+"start": 113.78,
+"end": 114.46
+},
+{
+"word": "sie",
+"start": 114.46,
+"end": 114.6
+},
+{
+"word": "kam",
+"start": 114.6,
+"end": 114.8
+},
+{
+"word": "nur",
+"start": 114.8,
+"end": 115.04
+},
+{
+"word": "nicht",
+"start": 115.04,
+"end": 115.26
+},
+{
+"word": "als",
+"start": 115.26,
+"end": 115.5
+},
+{
+"word": "Feierabend",
+"start": 115.5,
+"end": 116.0
+},
+{
+"word": "an.",
+"start": 116.0,
+"end": 116.36
+},
+{
+"word": "Und",
+"start": 116.76,
+"end": 117.02
+},
+{
+"word": "mit",
+"start": 117.02,
+"end": 117.2
+},
+{
+"word": "KI",
+"start": 117.2,
+"end": 117.44
+},
+{
+"word": "passiert",
+"start": 117.44,
+"end": 117.82
+},
+{
+"word": "gerade",
+"start": 117.82,
+"end": 118.1
+},
+{
+"word": "dasselbe,",
+"start": 118.1,
+"end": 118.72
+},
+{
+"word": "nur",
+"start": 118.72,
+"end": 118.94
+},
+{
+"word": "schneller.",
+"start": 118.94,
+"end": 120.14
+},
+{
+"word": "Es",
+"start": 120.54,
+"end": 120.86
+},
+{
+"word": "trifft",
+"start": 120.86,
+"end": 121.1
+},
+{
+"word": "zuerst",
+"start": 121.1,
+"end": 121.4
+},
+{
+"word": "die,",
+"start": 121.4,
+"end": 121.72
+},
+{
+"word": "die",
+"start": 121.72,
+"end": 121.82
+},
+{
+"word": "noch",
+"start": 121.82,
+"end": 121.96
+},
+{
+"word": "gar",
+"start": 121.96,
+"end": 122.14
+},
+{
+"word": "nicht",
+"start": 122.14,
+"end": 122.28
+},
+{
+"word": "drin",
+"start": 122.28,
+"end": 122.46
+},
+{
+"word": "sind.",
+"start": 122.46,
+"end": 122.94
+},
+{
+"word": "Fangen",
+"start": 123.28,
+"end": 123.54
+},
+{
+"word": "wir",
+"start": 123.54,
+"end": 123.74
+},
+{
+"word": "unten",
+"start": 123.74,
+"end": 124.06
+},
+{
+"word": "an,",
+"start": 124.06,
+"end": 124.46
+},
+{
+"word": "bei",
+"start": 124.46,
+"end": 124.6
+},
+{
+"word": "der",
+"start": 124.6,
+"end": 124.7
+},
+{
+"word": "Eingangstür.",
+"start": 124.7,
+"end": 125.48
+},
+{
+"word": "Seit",
+"start": 125.78,
+"end": 125.94
+},
+{
+"word": "dem",
+"start": 125.94,
+"end": 126.08
+},
+{
+"word": "Sommer",
+"start": 126.08,
+"end": 126.34
+},
+{
+"word": "2022",
+"start": 126.34,
+"end": 127.2
+},
+{
+"word": "sind",
+"start": 127.2,
+"end": 127.68
+},
+{
+"word": "die",
+"start": 127.68,
+"end": 127.82
+},
+{
+"word": "Stellenanzeigen",
+"start": 127.82,
+"end": 128.46
+},
+{
+"word": "für",
+"start": 128.46,
+"end": 128.6
+},
+{
+"word": "Berufseinsteiger",
+"start": 128.6,
+"end": 129.48
+},
+{
+"word": "um",
+"start": 129.48,
+"end": 129.62
+},
+{
+"word": "mehr",
+"start": 129.62,
+"end": 129.74
+},
+{
+"word": "als",
+"start": 129.74,
+"end": 129.94
+},
+{
+"word": "zwei",
+"start": 129.94,
+"end": 130.24
+},
+{
+"word": "Drittel",
+"start": 130.24,
+"end": 130.56
+},
+{
+"word": "eingebrochen.",
+"start": 130.56,
+"end": 131.26
+},
+{
+"word": "Heute",
+"start": 131.96,
+"end": 132.3
+},
+{
+"word": "liegen",
+"start": 132.3,
+"end": 132.58
+},
+{
+"word": "sie",
+"start": 132.58,
+"end": 132.7
+},
+{
+"word": "fast",
+"start": 132.7,
+"end": 132.9
+},
+{
+"word": "die",
+"start": 132.9,
+"end": 133.04
+},
+{
+"word": "Hälfte",
+"start": 133.04,
+"end": 133.36
+},
+{
+"word": "unter",
+"start": 133.36,
+"end": 133.54
+},
+{
+"word": "dem",
+"start": 133.54,
+"end": 133.7
+},
+{
+"word": "Niveau",
+"start": 133.7,
+"end": 134.06
+},
+{
+"word": "von",
+"start": 134.06,
+"end": 134.3
+},
+{
+"word": "vor",
+"start": 134.3,
+"end": 134.44
+},
+{
+"word": "der",
+"start": 134.44,
+"end": 134.56
+},
+{
+"word": "Pandemie.",
+"start": 134.56,
+"end": 135.16
+},
+{
+"word": "Während",
+"start": 135.8,
+"end": 136.02
+},
+{
+"word": "der",
+"start": 136.02,
+"end": 136.14
+},
+{
+"word": "Arbeitsmarkt",
+"start": 136.14,
+"end": 136.74
+},
+{
+"word": "insgesamt",
+"start": 136.74,
+"end": 137.1
+},
+{
+"word": "sogar",
+"start": 137.1,
+"end": 137.42
+},
+{
+"word": "größer",
+"start": 137.42,
+"end": 137.9
+},
+{
+"word": "ist",
+"start": 137.9,
+"end": 138.02
+},
+{
+"word": "als",
+"start": 138.02,
+"end": 138.2
+},
+{
+"word": "damals.",
+"start": 138.2,
+"end": 138.88
+},
+{
+"word": "In",
+"start": 139.38,
+"end": 139.48
+},
+{
+"word": "der",
+"start": 139.48,
+"end": 139.6
+},
+{
+"word": "Softwareentwicklung,",
+"start": 139.6,
+"end": 140.52
+},
+{
+"word": "meinem",
+"start": 140.52,
+"end": 140.8
+},
+{
+"word": "Bereich,",
+"start": 140.8,
+"end": 141.56
+},
+{
+"word": "minus",
+"start": 141.56,
+"end": 141.8
+},
+{
+"word": "70%.",
+"start": 141.8,
+"end": 142.88
+},
+{
+"word": "Das",
+"start": 143.48,
+"end": 143.7
+},
+{
+"word": "IFO",
+"start": 143.7,
+"end": 144.0
+},
+{
+"word": "-Institut",
+"start": 144.0,
+"end": 144.46
+},
+{
+"word": "sieht",
+"start": 144.46,
+"end": 144.6
+},
+{
+"word": "dasselbe",
+"start": 144.6,
+"end": 144.98
+},
+{
+"word": "Muster",
+"start": 144.98,
+"end": 145.26
+},
+{
+"word": "in",
+"start": 145.26,
+"end": 145.44
+},
+{
+"word": "echten",
+"start": 145.44,
+"end": 145.72
+},
+{
+"word": "Beschäftigungszahlen.",
+"start": 145.8,
+"end": 146.92
+},
+{
+"word": "In",
+"start": 146.92,
+"end": 147.2
+},
+{
+"word": "KI",
+"start": 147.2,
+"end": 147.46
+},
+{
+"word": "-nahen",
+"start": 147.46,
+"end": 147.78
+},
+{
+"word": "Berufen",
+"start": 147.78,
+"end": 148.12
+},
+{
+"word": "arbeiten",
+"start": 148.12,
+"end": 148.54
+},
+{
+"word": "14",
+"start": 148.54,
+"end": 148.9
+},
+{
+"word": "Prozent",
+"start": 148.9,
+"end": 149.22
+},
+{
+"word": "weniger",
+"start": 149.22,
+"end": 149.68
+},
+{
+"word": "junge",
+"start": 149.68,
+"end": 149.92
+},
+{
+"word": "Leute",
+"start": 149.92,
+"end": 150.2
+},
+{
+"word": "in",
+"start": 150.2,
+"end": 150.34
+},
+{
+"word": "Vollzeit.",
+"start": 150.34,
+"end": 150.98
+},
+{
+"word": "Und",
+"start": 150.98,
+"end": 151.74
+},
+{
+"word": "in",
+"start": 151.74,
+"end": 151.86
+},
+{
+"word": "den",
+"start": 151.94,
+"end": 151.98
+},
+{
+"word": "USA,",
+"start": 151.98,
+"end": 152.6
+},
+{
+"word": "wo",
+"start": 152.6,
+"end": 152.74
+},
+{
+"word": "es",
+"start": 152.74,
+"end": 152.82
+},
+{
+"word": "die",
+"start": 152.82,
+"end": 152.92
+},
+{
+"word": "besten",
+"start": 152.92,
+"end": 153.18
+},
+{
+"word": "Daten",
+"start": 153.18,
+"end": 153.44
+},
+{
+"word": "gibt,",
+"start": 153.44,
+"end": 153.92
+},
+{
+"word": "haben",
+"start": 153.92,
+"end": 154.32
+},
+{
+"word": "Forscher",
+"start": 154.32,
+"end": 154.74
+},
+{
+"word": "aus",
+"start": 154.74,
+"end": 154.92
+},
+{
+"word": "Stanford",
+"start": 154.92,
+"end": 155.26
+},
+{
+"word": "genau",
+"start": 155.26,
+"end": 155.68
+},
+{
+"word": "hingeschaut.",
+"start": 155.68,
+"end": 156.44
+},
+{
+"word": "Junge",
+"start": 156.44,
+"end": 156.68
+},
+{
+"word": "Leute",
+"start": 156.86,
+"end": 156.9
+},
+{
+"word": "zwischen",
+"start": 156.9,
+"end": 157.14
+},
+{
+"word": "22",
+"start": 157.14,
+"end": 157.7
+},
+{
+"word": "und",
+"start": 157.7,
+"end": 157.96
+},
+{
+"word": "25",
+"start": 157.96,
+"end": 158.42
+},
+{
+"word": "in",
+"start": 158.42,
+"end": 158.88
+},
+{
+"word": "den",
+"start": 158.88,
+"end": 159.02
+},
+{
+"word": "Berufen,",
+"start": 159.02,
+"end": 159.52
+},
+{
+"word": "die",
+"start": 159.52,
+"end": 159.58
+},
+{
+"word": "am",
+"start": 159.58,
+"end": 159.7
+},
+{
+"word": "stärksten",
+"start": 159.7,
+"end": 160.16
+},
+{
+"word": "mit",
+"start": 160.16,
+"end": 160.3
+},
+{
+"word": "KI",
+"start": 160.3,
+"end": 160.52
+},
+{
+"word": "zu",
+"start": 160.52,
+"end": 160.68
+},
+{
+"word": "tun",
+"start": 160.68,
+"end": 160.86
+},
+{
+"word": "haben,",
+"start": 160.86,
+"end": 161.48
+},
+{
+"word": "19",
+"start": 161.48,
+"end": 161.8
+},
+{
+"word": "Prozent",
+"start": 161.8,
+"end": 162.22
+},
+{
+"word": "weniger",
+"start": 162.22,
+"end": 162.58
+},
+{
+"word": "Beschäftigung",
+"start": 162.72,
+"end": 163.18
+},
+{
+"word": "als",
+"start": 163.18,
+"end": 163.4
+},
+{
+"word": "bei",
+"start": 163.4,
+"end": 163.56
+},
+{
+"word": "ihren",
+"start": 163.56,
+"end": 163.7
+},
+{
+"word": "Altersgenossen.",
+"start": 163.7,
+"end": 164.74
+},
+{
+"word": "Und",
+"start": 164.74,
+"end": 164.98
+},
+{
+"word": "jetzt",
+"start": 164.98,
+"end": 165.16
+},
+{
+"word": "kommt",
+"start": 165.16,
+"end": 165.34
+},
+{
+"word": "das",
+"start": 165.42,
+"end": 165.54
+},
+{
+"word": "Entscheidende.",
+"start": 165.54,
+"end": 166.22
+},
+{
+"word": "Niemand",
+"start": 166.22,
+"end": 166.64
+},
+{
+"word": "wird",
+"start": 166.64,
+"end": 166.78
+},
+{
+"word": "dafür",
+"start": 166.78,
+"end": 166.98
+},
+{
+"word": "entlassen.",
+"start": 166.98,
+"end": 167.54
+},
+{
+"word": "Es",
+"start": 167.54,
+"end": 167.66
+},
+{
+"word": "werden",
+"start": 167.66,
+"end": 167.84
+},
+{
+"word": "einfach",
+"start": 167.84,
+"end": 168.12
+},
+{
+"word": "weniger",
+"start": 168.12,
+"end": 168.48
+},
+{
+"word": "Junge",
+"start": 168.48,
+"end": 168.78
+},
+{
+"word": "eingestellt.",
+"start": 168.78,
+"end": 169.46
+},
+{
+"word": "Die",
+"start": 169.88,
+"end": 169.94
+},
+{
+"word": "Erfahrenen",
+"start": 169.94,
+"end": 170.44
+},
+{
+"word": "bleiben.",
+"start": 170.44,
+"end": 171.1
+},
+{
+"word": "Die",
+"start": 171.1,
+"end": 171.42
+},
+{
+"word": "Tür",
+"start": 171.42,
+"end": 171.56
+},
+{
+"word": "nach",
+"start": 171.56,
+"end": 171.7
+},
+{
+"word": "unten",
+"start": 171.7,
+"end": 171.92
+},
+{
+"word": "bleibt",
+"start": 171.92,
+"end": 172.16
+},
+{
+"word": "zu.",
+"start": 172.16,
+"end": 172.64
+},
+{
+"word": "Einer",
+"start": 172.64,
+"end": 172.96
+},
+{
+"word": "sagt",
+"start": 172.96,
+"end": 173.2
+},
+{
+"word": "offen,",
+"start": 173.2,
+"end": 173.54
+},
+{
+"word": "wohin",
+"start": 173.54,
+"end": 173.7
+},
+{
+"word": "das",
+"start": 173.7,
+"end": 173.86
+},
+{
+"word": "führen",
+"start": 173.86,
+"end": 174.12
+},
+{
+"word": "könnte.",
+"start": 174.3,
+"end": 174.62
+},
+{
+"word": "Dario",
+"start": 174.62,
+"end": 175.0
+},
+{
+"word": "Amodei,",
+"start": 175.0,
+"end": 176.2
+},
+{
+"word": "Chef",
+"start": 176.2,
+"end": 176.36
+},
+{
+"word": "der",
+"start": 176.36,
+"end": 176.54
+},
+{
+"word": "KI",
+"start": 176.54,
+"end": 176.78
+},
+{
+"word": "-Firma",
+"start": 176.78,
+"end": 177.08
+},
+{
+"word": "Anthropic.",
+"start": 177.08,
+"end": 177.76
+},
+{
+"word": "Anfang",
+"start": 177.76,
+"end": 178.1
+},
+{
+"word": "2025",
+"start": 178.1,
+"end": 178.78
+},
+{
+"word": "hat",
+"start": 178.78,
+"end": 179.42
+},
+{
+"word": "er",
+"start": 179.42,
+"end": 179.5
+},
+{
+"word": "vorhergesagt,",
+"start": 179.5,
+"end": 180.24
+},
+{
+"word": "dass",
+"start": 180.4,
+"end": 180.58
+},
+{
+"word": "KI",
+"start": 180.58,
+"end": 180.84
+},
+{
+"word": "die",
+"start": 180.84,
+"end": 181.02
+},
+{
+"word": "Hälfte",
+"start": 181.02,
+"end": 181.36
+},
+{
+"word": "aller",
+"start": 181.36,
+"end": 181.56
+},
+{
+"word": "Einstiegsjobs",
+"start": 181.56,
+"end": 182.34
+},
+{
+"word": "im",
+"start": 182.34,
+"end": 182.48
+},
+{
+"word": "Büro",
+"start": 182.48,
+"end": 182.8
+},
+{
+"word": "wegnehmen",
+"start": 182.8,
+"end": 183.38
+},
+{
+"word": "könnte",
+"start": 183.38,
+"end": 183.72
+},
+{
+"word": "und",
+"start": 183.7,
+"end": 184.48
+},
+{
+"word": "die",
+"start": 184.48,
+"end": 184.6
+},
+{
+"word": "Arbeitslosigkeit",
+"start": 184.6,
+"end": 185.36
+},
+{
+"word": "auf",
+"start": 185.36,
+"end": 185.6
+},
+{
+"word": "10",
+"start": 185.74,
+"end": 185.88
+},
+{
+"word": "bis",
+"start": 185.88,
+"end": 186.04
+},
+{
+"word": "20",
+"start": 186.04,
+"end": 186.44
+},
+{
+"word": "Prozent",
+"start": 186.44,
+"end": 186.78
+},
+{
+"word": "treiben.",
+"start": 186.78,
+"end": 187.34
+},
+{
+"word": "Im",
+"start": 187.34,
+"end": 187.52
+},
+{
+"word": "Interview",
+"start": 187.52,
+"end": 187.96
+},
+{
+"word": "mit",
+"start": 187.96,
+"end": 188.22
+},
+{
+"word": "CNN",
+"start": 188.22,
+"end": 188.56
+},
+{
+"word": "sagte",
+"start": 188.56,
+"end": 189.02
+},
+{
+"word": "er,",
+"start": 189.02,
+"end": 189.42
+},
+{
+"word": "das",
+"start": 189.42,
+"end": 190.28
+},
+{
+"word": "ist",
+"start": 190.28,
+"end": 190.46
+},
+{
+"word": "eine",
+"start": 190.46,
+"end": 190.66
+},
+{
+"word": "Prognose",
+"start": 190.66,
+"end": 191.18
+},
+{
+"word": "von",
+"start": 191.18,
+"end": 191.52
+},
+{
+"word": "einem,",
+"start": 191.52,
+"end": 191.84
+},
+{
+"word": "der",
+"start": 192.02,
+"end": 192.08
+},
+{
+"word": "genau",
+"start": 192.08,
+"end": 192.28
+},
+{
+"word": "diese",
+"start": 192.28,
+"end": 192.56
+},
+{
+"word": "KI",
+"start": 192.56,
+"end": 192.76
+},
+{
+"word": "verkauft.",
+"start": 192.76,
+"end": 193.4
+},
+{
+"word": "Kein",
+"start": 193.4,
+"end": 193.58
+},
+{
+"word": "Messwert.",
+"start": 193.58,
+"end": 194.2
+},
+{
+"word": "Aber",
+"start": 194.2,
+"end": 194.58
+},
+{
+"word": "die",
+"start": 194.58,
+"end": 194.74
+},
+{
+"word": "Jungen",
+"start": 194.74,
+"end": 194.94
+},
+{
+"word": "haben",
+"start": 194.94,
+"end": 195.16
+},
+{
+"word": "sie",
+"start": 195.16,
+"end": 195.3
+},
+{
+"word": "gehört.",
+"start": 195.3,
+"end": 195.8
+},
+{
+"word": "Fast",
+"start": 195.8,
+"end": 196.04
+},
+{
+"word": "jeder",
+"start": 196.04,
+"end": 196.34
+},
+{
+"word": "vierte",
+"start": 196.44,
+"end": 196.68
+},
+{
+"word": "zwischen",
+"start": 196.68,
+"end": 196.86
+},
+{
+"word": "14",
+"start": 196.86,
+"end": 197.34
+},
+{
+"word": "und",
+"start": 197.34,
+"end": 197.52
+},
+{
+"word": "17",
+"start": 197.52,
+"end": 197.82
+},
+{
+"word": "sieht",
+"start": 197.82,
+"end": 198.38
+},
+{
+"word": "seine",
+"start": 198.38,
+"end": 198.56
+},
+{
+"word": "Berufspläne",
+"start": 198.56,
+"end": 199.22
+},
+{
+"word": "inzwischen",
+"start": 199.22,
+"end": 199.54
+},
+{
+"word": "durch",
+"start": 199.54,
+"end": 199.72
+},
+{
+"word": "KI",
+"start": 199.72,
+"end": 199.98
+},
+{
+"word": "in",
+"start": 199.98,
+"end": 200.16
+},
+{
+"word": "Gefahr.",
+"start": 200.16,
+"end": 200.72
+},
+{
+"word": "Zwei",
+"start": 200.72,
+"end": 200.92
+},
+{
+"word": "Jahre",
+"start": 200.92,
+"end": 201.12
+},
+{
+"word": "vorher",
+"start": 201.12,
+"end": 201.46
+},
+{
+"word": "war",
+"start": 201.88,
+"end": 202.0
+},
+{
+"word": "es",
+"start": 202.0,
+"end": 202.12
+},
+{
+"word": "jeder",
+"start": 202.12,
+"end": 202.3
+},
+{
+"word": "Sechste.",
+"start": 202.3,
+"end": 202.88
+},
+{
+"word": "Und",
+"start": 202.88,
+"end": 203.68
+},
+{
+"word": "die,",
+"start": 203.68,
+"end": 203.9
+},
+{
+"word": "die",
+"start": 203.9,
+"end": 203.98
+},
+{
+"word": "drin",
+"start": 203.98,
+"end": 204.22
+},
+{
+"word": "sind?",
+"start": 204.22,
+"end": 204.76
+},
+{
+"word": "Ich",
+"start": 204.76,
+"end": 205.1
+},
+{
+"word": "wollte",
+"start": 205.1,
+"end": 205.3
+},
+{
+"word": "Software",
+"start": 205.3,
+"end": 205.66
+},
+{
+"word": "bauen,",
+"start": 205.66,
+"end": 206.2
+},
+{
+"word": "Probleme",
+"start": 206.3,
+"end": 206.54
+},
+{
+"word": "lösen.",
+"start": 206.54,
+"end": 207.1
+},
+{
+"word": "Das,",
+"start": 207.1,
+"end": 207.48
+},
+{
+"word": "wofür",
+"start": 207.48,
+"end": 207.64
+},
+{
+"word": "ich",
+"start": 207.64,
+"end": 207.74
+},
+{
+"word": "als",
+"start": 207.74,
+"end": 207.9
+},
+{
+"word": "Teenager",
+"start": 207.9,
+"end": 208.34
+},
+{
+"word": "nachts",
+"start": 208.34,
+"end": 208.66
+},
+{
+"word": "wach",
+"start": 208.66,
+"end": 208.92
+},
+{
+"word": "geblieben",
+"start": 208.92,
+"end": 209.26
+},
+{
+"word": "bin.",
+"start": 209.26,
+"end": 210.06
+},
+{
+"word": "Heute",
+"start": 210.06,
+"end": 210.44
+},
+{
+"word": "schreibe",
+"start": 210.44,
+"end": 210.86
+},
+{
+"word": "ich",
+"start": 210.86,
+"end": 210.96
+},
+{
+"word": "immer",
+"start": 210.96,
+"end": 211.12
+},
+{
+"word": "öfter",
+"start": 211.12,
+"end": 211.4
+},
+{
+"word": "nicht",
+"start": 211.44,
+"end": 211.56
+},
+{
+"word": "mehr",
+"start": 211.56,
+"end": 211.7
+},
+{
+"word": "selbst.",
+"start": 211.7,
+"end": 212.22
+},
+{
+"word": "Ich",
+"start": 212.22,
+"end": 212.58
+},
+{
+"word": "prüfe,",
+"start": 212.58,
+"end": 212.92
+},
+{
+"word": "was",
+"start": 212.92,
+"end": 213.08
+},
+{
+"word": "eine",
+"start": 213.08,
+"end": 213.24
+},
+{
+"word": "Maschine",
+"start": 213.24,
+"end": 213.56
+},
+{
+"word": "geschrieben",
+"start": 213.56,
+"end": 213.92
+},
+{
+"word": "hat.",
+"start": 213.92,
+"end": 214.38
+},
+{
+"word": "Und",
+"start": 214.38,
+"end": 214.72
+},
+{
+"word": "es",
+"start": 214.72,
+"end": 214.84
+},
+{
+"word": "fällt",
+"start": 214.84,
+"end": 215.02
+},
+{
+"word": "mir",
+"start": 215.02,
+"end": 215.18
+},
+{
+"word": "schwer,",
+"start": 215.18,
+"end": 215.48
+},
+{
+"word": "mir",
+"start": 215.48,
+"end": 215.68
+},
+{
+"word": "vorzustellen,",
+"start": 215.88,
+"end": 216.42
+},
+{
+"word": "wie",
+"start": 216.42,
+"end": 216.52
+},
+{
+"word": "dieser",
+"start": 216.52,
+"end": 216.74
+},
+{
+"word": "Beruf",
+"start": 216.74,
+"end": 217.06
+},
+{
+"word": "in",
+"start": 217.06,
+"end": 217.24
+},
+{
+"word": "zehn",
+"start": 217.24,
+"end": 217.46
+},
+{
+"word": "Jahren",
+"start": 217.46,
+"end": 217.78
+},
+{
+"word": "aussieht.",
+"start": 217.78,
+"end": 218.72
+},
+{
+"word": "Was",
+"start": 218.72,
+"end": 219.02
+},
+{
+"word": "bleibt",
+"start": 219.02,
+"end": 219.34
+},
+{
+"word": "dann",
+"start": 219.34,
+"end": 219.5
+},
+{
+"word": "von",
+"start": 219.5,
+"end": 219.66
+},
+{
+"word": "meinem",
+"start": 219.66,
+"end": 219.88
+},
+{
+"word": "Traumberuf",
+"start": 219.88,
+"end": 220.38
+},
+{
+"word": "übrig?",
+"start": 220.54,
+"end": 221.1
+},
+{
+"word": "Wahrscheinlich",
+"start": 221.1,
+"end": 221.58
+},
+{
+"word": "ist",
+"start": 221.58,
+"end": 221.76
+},
+{
+"word": "er",
+"start": 221.76,
+"end": 221.84
+},
+{
+"word": "bis",
+"start": 221.84,
+"end": 221.96
+},
+{
+"word": "dahin",
+"start": 221.96,
+"end": 222.18
+},
+{
+"word": "komplett",
+"start": 222.18,
+"end": 222.52
+},
+{
+"word": "mutiert.",
+"start": 222.52,
+"end": 223.1
+},
+{
+"word": "Und",
+"start": 223.1,
+"end": 223.42
+},
+{
+"word": "nicht",
+"start": 223.42,
+"end": 223.58
+},
+{
+"word": "mehr",
+"start": 223.58,
+"end": 223.72
+},
+{
+"word": "das,",
+"start": 223.72,
+"end": 223.94
+},
+{
+"word": "was",
+"start": 223.94,
+"end": 224.04
+},
+{
+"word": "ich",
+"start": 224.04,
+"end": 224.18
+},
+{
+"word": "eigentlich",
+"start": 224.24,
+"end": 224.46
+},
+{
+"word": "lernen",
+"start": 224.46,
+"end": 224.74
+},
+{
+"word": "wollte.",
+"start": 224.74,
+"end": 225.44
+},
+{
+"word": "Damit",
+"start": 225.44,
+"end": 225.88
+},
+{
+"word": "bin",
+"start": 225.88,
+"end": 226.06
+},
+{
+"word": "ich",
+"start": 226.06,
+"end": 226.16
+},
+{
+"word": "nicht",
+"start": 226.16,
+"end": 226.3
+},
+{
+"word": "allein.",
+"start": 226.3,
+"end": 226.8
+},
+{
+"word": "In",
+"start": 226.8,
+"end": 227.1
+},
+{
+"word": "der",
+"start": 227.1,
+"end": 227.2
+},
+{
+"word": "größten",
+"start": 227.2,
+"end": 227.56
+},
+{
+"word": "Entwicklerumfrage",
+"start": 227.56,
+"end": 228.28
+},
+{
+"word": "der",
+"start": 228.28,
+"end": 228.44
+},
+{
+"word": "Welt",
+"start": 228.64,
+"end": 228.74
+},
+{
+"word": "nutzen",
+"start": 228.74,
+"end": 229.04
+},
+{
+"word": "84",
+"start": 229.04,
+"end": 229.66
+},
+{
+"word": "%",
+"start": 229.66,
+"end": 230.06
+},
+{
+"word": "KI",
+"start": 230.06,
+"end": 230.38
+},
+{
+"word": "-Werkzeuge.",
+"start": 230.38,
+"end": 231.14
+},
+{
+"word": "Aber",
+"start": 231.14,
+"end": 231.58
+},
+{
+"word": "nur",
+"start": 231.58,
+"end": 231.7
+},
+{
+"word": "knapp",
+"start": 231.7,
+"end": 231.94
+},
+{
+"word": "3",
+"start": 231.94,
+"end": 232.22
+},
+{
+"word": "von",
+"start": 232.22,
+"end": 232.46
+},
+{
+"word": "10",
+"start": 232.46,
+"end": 232.64
+},
+{
+"word": "vertrauen",
+"start": 232.64,
+"end": 233.08
+},
+{
+"word": "dem",
+"start": 233.08,
+"end": 233.22
+},
+{
+"word": "Ergebnis.",
+"start": 233.22,
+"end": 233.9
+},
+{
+"word": "Der",
+"start": 233.9,
+"end": 234.12
+},
+{
+"word": "häufigste",
+"start": 234.12,
+"end": 234.52
+},
+{
+"word": "Frust",
+"start": 234.52,
+"end": 234.88
+},
+{
+"word": "Lösungen,",
+"start": 235.26,
+"end": 235.84
+},
+{
+"word": "die",
+"start": 235.84,
+"end": 235.88
+},
+{
+"word": "fast",
+"start": 235.88,
+"end": 236.1
+},
+{
+"word": "richtig",
+"start": 236.1,
+"end": 236.38
+},
+{
+"word": "sind,",
+"start": 236.38,
+"end": 236.88
+},
+{
+"word": "aber",
+"start": 236.88,
+"end": 237.16
+},
+{
+"word": "eben",
+"start": 237.16,
+"end": 237.34
+},
+{
+"word": "nur",
+"start": 237.34,
+"end": 237.54
+},
+{
+"word": "fast.",
+"start": 237.54,
+"end": 238.32
+},
+{
+"word": "Und",
+"start": 238.32,
+"end": 238.6
+},
+{
+"word": "dann",
+"start": 238.6,
+"end": 238.8
+},
+{
+"word": "gibt",
+"start": 238.8,
+"end": 239.04
+},
+{
+"word": "es",
+"start": 239.04,
+"end": 239.18
+},
+{
+"word": "dieses",
+"start": 239.18,
+"end": 239.42
+},
+{
+"word": "Experiment.",
+"start": 239.42,
+"end": 240.36
+},
+{
+"word": "Erfahrene",
+"start": 240.36,
+"end": 240.82
+},
+{
+"word": "Entwickler",
+"start": 240.96,
+"end": 241.3
+},
+{
+"word": "waren",
+"start": 241.3,
+"end": 241.56
+},
+{
+"word": "mit",
+"start": 241.56,
+"end": 241.7
+},
+{
+"word": "KI",
+"start": 241.7,
+"end": 241.94
+},
+{
+"word": "19",
+"start": 241.94,
+"end": 242.4
+},
+{
+"word": "%",
+"start": 242.4,
+"end": 242.7
+},
+{
+"word": "langsamer.",
+"start": 242.7,
+"end": 243.54
+},
+{
+"word": "Und",
+"start": 243.54,
+"end": 244.02
+},
+{
+"word": "hinterher",
+"start": 244.02,
+"end": 244.48
+},
+{
+"word": "waren",
+"start": 244.48,
+"end": 244.7
+},
+{
+"word": "sie",
+"start": 244.7,
+"end": 244.82
+},
+{
+"word": "überzeugt,",
+"start": 244.82,
+"end": 245.38
+},
+{
+"word": "sie",
+"start": 245.38,
+"end": 245.44
+},
+{
+"word": "seien",
+"start": 245.44,
+"end": 245.62
+},
+{
+"word": "schneller",
+"start": 245.62,
+"end": 245.92
+},
+{
+"word": "gewesen.",
+"start": 245.92,
+"end": 246.48
+},
+{
+"word": "Ein",
+"start": 246.72,
+"end": 246.86
+},
+{
+"word": "kleines",
+"start": 246.86,
+"end": 247.18
+},
+{
+"word": "Experiment.",
+"start": 247.18,
+"end": 247.92
+},
+{
+"word": "Anfang",
+"start": 247.92,
+"end": 248.22
+},
+{
+"word": "2025.",
+"start": 248.22,
+"end": 249.48
+},
+{
+"word": "Die",
+"start": 249.64,
+"end": 249.72
+},
+{
+"word": "Werkzeuge",
+"start": 249.72,
+"end": 250.28
+},
+{
+"word": "sind",
+"start": 250.28,
+"end": 250.54
+},
+{
+"word": "seitdem",
+"start": 250.54,
+"end": 250.84
+},
+{
+"word": "besser",
+"start": 250.84,
+"end": 251.1
+},
+{
+"word": "geworden.",
+"start": 251.1,
+"end": 251.6
+},
+{
+"word": "Aber",
+"start": 251.74,
+"end": 251.86
+},
+{
+"word": "es",
+"start": 251.86,
+"end": 252.02
+},
+{
+"word": "zeigt",
+"start": 252.02,
+"end": 252.3
+},
+{
+"word": "etwas.",
+"start": 252.3,
+"end": 252.8
+},
+{
+"word": "Das",
+"start": 252.98,
+"end": 253.08
+},
+{
+"word": "Gefühl,",
+"start": 253.08,
+"end": 253.46
+},
+{
+"word": "Zeit",
+"start": 253.46,
+"end": 253.76
+},
+{
+"word": "zu",
+"start": 253.76,
+"end": 253.94
+},
+{
+"word": "sparen,",
+"start": 253.94,
+"end": 254.36
+},
+{
+"word": "ist",
+"start": 254.36,
+"end": 254.46
+},
+{
+"word": "noch",
+"start": 254.46,
+"end": 254.58
+},
+{
+"word": "keine",
+"start": 254.58,
+"end": 254.88
+},
+{
+"word": "gesparte",
+"start": 254.88,
+"end": 255.52
+},
+{
+"word": "Zeit.",
+"start": 255.52,
+"end": 256.38
+},
+{
+"word": "Kurz",
+"start": 256.5,
+"end": 256.76
+},
+{
+"word": "zwischendurch.",
+"start": 256.76,
+"end": 257.34
+},
+{
+"word": "Dieser",
+"start": 257.42,
+"end": 257.54
+},
+{
+"word": "Kanal",
+"start": 257.54,
+"end": 257.86
+},
+{
+"word": "will,",
+"start": 257.86,
+"end": 258.18
+},
+{
+"word": "dass",
+"start": 258.18,
+"end": 258.24
+},
+{
+"word": "die",
+"start": 258.24,
+"end": 258.38
+},
+{
+"word": "KI",
+"start": 258.38,
+"end": 258.58
+},
+{
+"word": "-Zukunft",
+"start": 258.58,
+"end": 258.92
+},
+{
+"word": "bei",
+"start": 258.92,
+"end": 259.14
+},
+{
+"word": "allen",
+"start": 259.14,
+"end": 259.34
+},
+{
+"word": "ankommt.",
+"start": 259.34,
+"end": 259.84
+},
+{
+"word": "Nicht",
+"start": 259.92,
+"end": 260.02
+},
+{
+"word": "nur",
+"start": 260.02,
+"end": 260.16
+},
+{
+"word": "bei",
+"start": 260.16,
+"end": 260.32
+},
+{
+"word": "ein",
+"start": 260.32,
+"end": 260.44
+},
+{
+"word": "paar",
+"start": 260.44,
+"end": 260.52
+},
+{
+"word": "Konzernen.",
+"start": 260.52,
+"end": 261.28
+},
+{
+"word": "Wenn",
+"start": 261.34,
+"end": 261.48
+},
+{
+"word": "du",
+"start": 261.48,
+"end": 261.56
+},
+{
+"word": "das",
+"start": 261.56,
+"end": 261.7
+},
+{
+"word": "auch",
+"start": 261.7,
+"end": 261.88
+},
+{
+"word": "willst,",
+"start": 261.88,
+"end": 262.3
+},
+{
+"word": "abonnier",
+"start": 262.3,
+"end": 262.62
+},
+{
+"word": "gerne.",
+"start": 262.62,
+"end": 263.1
+},
+{
+"word": "Denn",
+"start": 263.36,
+"end": 263.46
+},
+{
+"word": "jetzt",
+"start": 263.46,
+"end": 263.68
+},
+{
+"word": "kommt",
+"start": 263.68,
+"end": 263.88
+},
+{
+"word": "die",
+"start": 263.88,
+"end": 264.0
+},
+{
+"word": "gute",
+"start": 264.0,
+"end": 264.16
+},
+{
+"word": "Nachricht.",
+"start": 264.16,
+"end": 264.76
+},
+{
+"word": "Fangen",
+"start": 265.02,
+"end": 265.24
+},
+{
+"word": "wir",
+"start": 265.24,
+"end": 265.34
+},
+{
+"word": "mit",
+"start": 265.34,
+"end": 265.48
+},
+{
+"word": "einer",
+"start": 265.48,
+"end": 265.64
+},
+{
+"word": "ernüchternden",
+"start": 265.64,
+"end": 266.42
+},
+{
+"word": "Zahl",
+"start": 266.42,
+"end": 266.6
+},
+{
+"word": "an.",
+"start": 266.6,
+"end": 266.9
+},
+{
+"word": "In",
+"start": 266.9,
+"end": 267.04
+},
+{
+"word": "Dänemark",
+"start": 267.04,
+"end": 267.5
+},
+{
+"word": "haben",
+"start": 267.5,
+"end": 267.74
+},
+{
+"word": "Forscher",
+"start": 267.74,
+"end": 268.1
+},
+{
+"word": "Beschäftigte",
+"start": 268.1,
+"end": 268.76
+},
+{
+"word": "und",
+"start": 268.76,
+"end": 268.96
+},
+{
+"word": "Registerdaten",
+"start": 268.96,
+"end": 269.68
+},
+{
+"word": "verknüpft.",
+"start": 269.78,
+"end": 270.38
+},
+{
+"word": "Im",
+"start": 270.38,
+"end": 270.68
+},
+{
+"word": "Schnitt",
+"start": 270.68,
+"end": 271.0
+},
+{
+"word": "sparten",
+"start": 271.0,
+"end": 271.36
+},
+{
+"word": "KI",
+"start": 271.36,
+"end": 271.62
+},
+{
+"word": "-Chatbots",
+"start": 271.62,
+"end": 272.1
+},
+{
+"word": "dort",
+"start": 272.1,
+"end": 272.28
+},
+{
+"word": "rund",
+"start": 272.28,
+"end": 272.52
+},
+{
+"word": "3",
+"start": 272.52,
+"end": 272.82
+},
+{
+"word": "%",
+"start": 272.82,
+"end": 273.1
+},
+{
+"word": "Arbeitszeit.",
+"start": 273.1,
+"end": 274.02
+},
+{
+"word": "Und",
+"start": 274.02,
+"end": 274.2
+},
+{
+"word": "davon",
+"start": 274.2,
+"end": 274.44
+},
+{
+"word": "kamen",
+"start": 274.44,
+"end": 274.88
+},
+{
+"word": "nur",
+"start": 274.88,
+"end": 274.96
+},
+{
+"word": "3",
+"start": 274.96,
+"end": 275.22
+},
+{
+"word": "-7",
+"start": 275.22,
+"end": 275.62
+},
+{
+"word": "%",
+"start": 275.62,
+"end": 275.92
+},
+{
+"word": "als",
+"start": 275.92,
+"end": 276.3
+},
+{
+"word": "Lohn",
+"start": 276.3,
+"end": 276.62
+},
+{
+"word": "bei",
+"start": 276.74,
+"end": 276.78
+},
+{
+"word": "den",
+"start": 276.78,
+"end": 276.96
+},
+{
+"word": "Leuten",
+"start": 276.96,
+"end": 277.22
+},
+{
+"word": "an.",
+"start": 277.22,
+"end": 278.08
+},
+{
+"word": "Am",
+"start": 278.08,
+"end": 278.3
+},
+{
+"word": "Feierabend",
+"start": 278.3,
+"end": 278.86
+},
+{
+"word": "hat",
+"start": 278.86,
+"end": 279.0
+},
+{
+"word": "sich",
+"start": 279.0,
+"end": 279.16
+},
+{
+"word": "nichts",
+"start": 279.16,
+"end": 279.44
+},
+{
+"word": "geändert.",
+"start": 279.44,
+"end": 279.94
+},
+{
+"word": "Die",
+"start": 279.94,
+"end": 280.04
+},
+{
+"word": "Zeit",
+"start": 280.04,
+"end": 280.26
+},
+{
+"word": "wird",
+"start": 280.26,
+"end": 280.44
+},
+{
+"word": "also",
+"start": 280.44,
+"end": 280.64
+},
+{
+"word": "gespart,",
+"start": 280.64,
+"end": 281.22
+},
+{
+"word": "aber",
+"start": 281.22,
+"end": 281.4
+},
+{
+"word": "sie",
+"start": 281.4,
+"end": 281.52
+},
+{
+"word": "wird",
+"start": 281.52,
+"end": 281.62
+},
+{
+"word": "sofort",
+"start": 281.76,
+"end": 281.9
+},
+{
+"word": "mit",
+"start": 281.9,
+"end": 282.08
+},
+{
+"word": "neuer",
+"start": 282.08,
+"end": 282.36
+},
+{
+"word": "Arbeit",
+"start": 282.36,
+"end": 282.62
+},
+{
+"word": "gefüllt.",
+"start": 282.62,
+"end": 283.18
+},
+{
+"word": "Mehr",
+"start": 283.38,
+"end": 283.56
+},
+{
+"word": "Tickets,",
+"start": 283.56,
+"end": 284.12
+},
+{
+"word": "mehr",
+"start": 284.12,
+"end": 284.3
+},
+{
+"word": "Mails,",
+"start": 284.3,
+"end": 284.8
+},
+{
+"word": "mehr",
+"start": 284.8,
+"end": 284.92
+},
+{
+"word": "Meetings.",
+"start": 284.92,
+"end": 285.7
+},
+{
+"word": "Aber",
+"start": 286.1,
+"end": 286.22
+},
+{
+"word": "es",
+"start": 286.22,
+"end": 286.34
+},
+{
+"word": "geht",
+"start": 286.34,
+"end": 286.46
+},
+{
+"word": "auch",
+"start": 286.46,
+"end": 286.58
+},
+{
+"word": "anders.",
+"start": 286.58,
+"end": 287.1
+},
+{
+"word": "2024",
+"start": 287.9,
+"end": 287.9
+},
+{
+"word": "haben",
+"start": 287.9,
+"end": 288.42
+},
+{
+"word": "45",
+"start": 288.42,
+"end": 288.98
+},
+{
+"word": "Betriebe",
+"start": 288.98,
+"end": 289.52
+},
+{
+"word": "in",
+"start": 289.52,
+"end": 289.62
+},
+{
+"word": "Deutschland",
+"start": 289.62,
+"end": 290.0
+},
+{
+"word": "ein",
+"start": 290.0,
+"end": 290.26
+},
+{
+"word": "halbes",
+"start": 290.26,
+"end": 290.6
+},
+{
+"word": "Jahr",
+"start": 290.6,
+"end": 290.78
+},
+{
+"word": "lang",
+"start": 290.78,
+"end": 290.96
+},
+{
+"word": "weniger",
+"start": 290.96,
+"end": 291.38
+},
+{
+"word": "gearbeitet.",
+"start": 291.38,
+"end": 292.14
+},
+{
+"word": "Meistens",
+"start": 292.34,
+"end": 292.78
+},
+{
+"word": "einen",
+"start": 292.78,
+"end": 293.02
+},
+{
+"word": "Tag",
+"start": 293.02,
+"end": 293.2
+},
+{
+"word": "pro",
+"start": 293.2,
+"end": 293.38
+},
+{
+"word": "Woche.",
+"start": 293.38,
+"end": 293.8
+},
+{
+"word": "Bei",
+"start": 294.24,
+"end": 294.36
+},
+{
+"word": "gleichem",
+"start": 294.36,
+"end": 294.78
+},
+{
+"word": "Lohn.",
+"start": 294.78,
+"end": 295.18
+},
+{
+"word": "Umsatz",
+"start": 295.68,
+"end": 295.94
+},
+{
+"word": "und",
+"start": 295.94,
+"end": 296.04
+},
+{
+"word": "Gewinn",
+"start": 296.04,
+"end": 296.38
+},
+{
+"word": "blieben",
+"start": 296.38,
+"end": 296.64
+},
+{
+"word": "stabil.",
+"start": 296.64,
+"end": 297.24
+},
+{
+"word": "Die",
+"start": 298.2,
+"end": 298.36
+},
+{
+"word": "Leute",
+"start": 298.36,
+"end": 298.56
+},
+{
+"word": "waren",
+"start": 298.56,
+"end": 298.74
+},
+{
+"word": "zufriedener",
+"start": 298.74,
+"end": 299.3
+},
+{
+"word": "und",
+"start": 299.3,
+"end": 299.7
+},
+{
+"word": "über",
+"start": 299.7,
+"end": 299.88
+},
+{
+"word": "70",
+"start": 299.88,
+"end": 300.22
+},
+{
+"word": "%",
+"start": 300.22,
+"end": 300.5
+},
+{
+"word": "der",
+"start": 300.5,
+"end": 300.7
+},
+{
+"word": "Betriebe",
+"start": 300.7,
+"end": 301.06
+},
+{
+"word": "wollen",
+"start": 301.06,
+"end": 301.3
+},
+{
+"word": "weitermachen.",
+"start": 301.3,
+"end": 302.16
+},
+{
+"word": "In",
+"start": 302.24,
+"end": 302.46
+},
+{
+"word": "Großbritannien",
+"start": 302.46,
+"end": 303.24
+},
+{
+"word": "61",
+"start": 303.24,
+"end": 304.04
+},
+{
+"word": "Firmen,",
+"start": 304.04,
+"end": 304.82
+},
+{
+"word": "56",
+"start": 304.82,
+"end": 305.38
+},
+{
+"word": "sind",
+"start": 305.38,
+"end": 305.78
+},
+{
+"word": "dabei",
+"start": 305.78,
+"end": 306.0
+},
+{
+"word": "geblieben.",
+"start": 306.0,
+"end": 306.86
+},
+{
+"word": "Fair",
+"start": 306.94,
+"end": 307.2
+},
+{
+"word": "ist,",
+"start": 307.2,
+"end": 307.76
+},
+{
+"word": "das",
+"start": 307.76,
+"end": 308.1
+},
+{
+"word": "waren",
+"start": 308.1,
+"end": 308.28
+},
+{
+"word": "Freiwillige.",
+"start": 308.28,
+"end": 309.04
+},
+{
+"word": "Wer",
+"start": 308.88,
+"end": 309.32
+},
+{
+"word": "mitmacht,",
+"start": 309.32,
+"end": 309.84
+},
+{
+"word": "glaubt",
+"start": 309.84,
+"end": 310.08
+},
+{
+"word": "meistens",
+"start": 310.08,
+"end": 310.36
+},
+{
+"word": "schon",
+"start": 310.36,
+"end": 310.5
+},
+{
+"word": "dran.",
+"start": 310.5,
+"end": 310.9
+},
+{
+"word": "Ein",
+"start": 310.98,
+"end": 311.08
+},
+{
+"word": "Beweis",
+"start": 311.08,
+"end": 311.38
+},
+{
+"word": "für",
+"start": 311.38,
+"end": 311.54
+},
+{
+"word": "alle",
+"start": 311.54,
+"end": 311.76
+},
+{
+"word": "ist",
+"start": 311.76,
+"end": 311.98
+},
+{
+"word": "das",
+"start": 311.98,
+"end": 312.12
+},
+{
+"word": "nicht.",
+"start": 312.12,
+"end": 312.54
+},
+{
+"word": "Aber",
+"start": 313.54,
+"end": 313.78
+},
+{
+"word": "es",
+"start": 313.78,
+"end": 313.94
+},
+{
+"word": "ist",
+"start": 313.94,
+"end": 314.08
+},
+{
+"word": "mehr",
+"start": 314.08,
+"end": 314.26
+},
+{
+"word": "als",
+"start": 314.26,
+"end": 314.44
+},
+{
+"word": "ein",
+"start": 314.44,
+"end": 314.58
+},
+{
+"word": "Traum.",
+"start": 314.58,
+"end": 315.04
+},
+{
+"word": "Und",
+"start": 315.28,
+"end": 315.46
+},
+{
+"word": "in",
+"start": 315.46,
+"end": 315.58
+},
+{
+"word": "der",
+"start": 315.58,
+"end": 315.7
+},
+{
+"word": "Metall",
+"start": 315.7,
+"end": 316.08
+},
+{
+"word": "-",
+"start": 316.08,
+"end": 316.2
+},
+{
+"word": "und",
+"start": 316.2,
+"end": 316.32
+},
+{
+"word": "Elektroindustrie",
+"start": 316.32,
+"end": 317.12
+},
+{
+"word": "gibt",
+"start": 317.12,
+"end": 317.44
+},
+{
+"word": "es",
+"start": 317.44,
+"end": 317.62
+},
+{
+"word": "so",
+"start": 317.62,
+"end": 317.74
+},
+{
+"word": "etwas",
+"start": 317.74,
+"end": 317.96
+},
+{
+"word": "längst",
+"start": 317.96,
+"end": 318.36
+},
+{
+"word": "im",
+"start": 318.36,
+"end": 318.46
+},
+{
+"word": "Tarifvertrag.",
+"start": 318.46,
+"end": 319.32
+},
+{
+"word": "Wer",
+"start": 319.94,
+"end": 320.14
+},
+{
+"word": "Kinder",
+"start": 320.14,
+"end": 320.48
+},
+{
+"word": "hat,",
+"start": 320.48,
+"end": 320.88
+},
+{
+"word": "Angehörige",
+"start": 320.88,
+"end": 321.4
+},
+{
+"word": "pflegt",
+"start": 321.4,
+"end": 321.84
+},
+{
+"word": "oder",
+"start": 321.84,
+"end": 322.2
+},
+{
+"word": "Schicht",
+"start": 322.2,
+"end": 322.54
+},
+{
+"word": "arbeitet,",
+"start": 322.54,
+"end": 323.2
+},
+{
+"word": "kann",
+"start": 323.2,
+"end": 323.52
+},
+{
+"word": "8",
+"start": 323.52,
+"end": 323.76
+},
+{
+"word": "freie",
+"start": 323.76,
+"end": 324.06
+},
+{
+"word": "Tage",
+"start": 324.06,
+"end": 324.26
+},
+{
+"word": "statt",
+"start": 324.26,
+"end": 324.5
+},
+{
+"word": "Geld",
+"start": 324.5,
+"end": 324.76
+},
+{
+"word": "wählen.",
+"start": 324.76,
+"end": 325.24
+},
+{
+"word": "Beim",
+"start": 325.32,
+"end": 325.46
+},
+{
+"word": "ersten",
+"start": 325.46,
+"end": 325.78
+},
+{
+"word": "Mal",
+"start": 325.78,
+"end": 326.0
+},
+{
+"word": "haben",
+"start": 326.0,
+"end": 326.26
+},
+{
+"word": "das",
+"start": 326.26,
+"end": 326.42
+},
+{
+"word": "fast",
+"start": 326.42,
+"end": 326.6
+},
+{
+"word": "eine",
+"start": 326.6,
+"end": 326.8
+},
+{
+"word": "Viertelmillion",
+"start": 326.8,
+"end": 327.34
+},
+{
+"word": "Menschen",
+"start": 327.34,
+"end": 327.78
+},
+{
+"word": "mitgenommen.",
+"start": 327.78,
+"end": 328.44
+},
+{
+"word": "Stell",
+"start": 328.64,
+"end": 328.72
+},
+{
+"word": "dir",
+"start": 328.72,
+"end": 328.84
+},
+{
+"word": "vor,",
+"start": 328.84,
+"end": 329.12
+},
+{
+"word": "die",
+"start": 329.12,
+"end": 329.2
+},
+{
+"word": "gesparte",
+"start": 329.2,
+"end": 329.6
+},
+{
+"word": "Zeit",
+"start": 329.6,
+"end": 329.9
+},
+{
+"word": "kommt",
+"start": 329.9,
+"end": 330.16
+},
+{
+"word": "bei",
+"start": 330.16,
+"end": 330.3
+},
+{
+"word": "dir",
+"start": 330.3,
+"end": 330.42
+},
+{
+"word": "an.",
+"start": 330.42,
+"end": 330.78
+},
+{
+"word": "Mehr",
+"start": 331.14,
+"end": 331.36
+},
+{
+"word": "Zeit",
+"start": 331.36,
+"end": 331.6
+},
+{
+"word": "für",
+"start": 331.6,
+"end": 331.74
+},
+{
+"word": "deine",
+"start": 331.74,
+"end": 331.9
+},
+{
+"word": "Hobbys,",
+"start": 331.9,
+"end": 332.38
+},
+{
+"word": "für",
+"start": 332.38,
+"end": 332.46
+},
+{
+"word": "deine",
+"start": 332.46,
+"end": 332.62
+},
+{
+"word": "Gesundheit,",
+"start": 332.62,
+"end": 333.28
+},
+{
+"word": "für",
+"start": 333.28,
+"end": 333.58
+},
+{
+"word": "das,",
+"start": 333.58,
+"end": 333.82
+},
+{
+"word": "was",
+"start": 333.82,
+"end": 333.92
+},
+{
+"word": "dich",
+"start": 333.92,
+"end": 334.08
+},
+{
+"word": "wirklich",
+"start": 334.08,
+"end": 334.42
+},
+{
+"word": "erfüllt.",
+"start": 334.42,
+"end": 335.06
+},
+{
+"word": "Nur",
+"start": 336.04,
+"end": 336.26
+},
+{
+"word": "es",
+"start": 336.26,
+"end": 336.52
+},
+{
+"word": "liegt",
+"start": 336.52,
+"end": 336.76
+},
+{
+"word": "nicht",
+"start": 336.76,
+"end": 336.92
+},
+{
+"word": "daran,",
+"start": 336.92,
+"end": 337.2
+},
+{
+"word": "dass",
+"start": 337.2,
+"end": 337.32
+},
+{
+"word": "wir",
+"start": 337.32,
+"end": 337.48
+},
+{
+"word": "alle",
+"start": 337.48,
+"end": 337.66
+},
+{
+"word": "mehr",
+"start": 337.66,
+"end": 337.88
+},
+{
+"word": "arbeiten",
+"start": 337.88,
+"end": 338.26
+},
+{
+"word": "wollen.",
+"start": 338.26,
+"end": 338.94
+},
+{
+"word": "Unser",
+"start": 338.94,
+"end": 339.12
+},
+{
+"word": "System",
+"start": 339.12,
+"end": 339.42
+},
+{
+"word": "ist",
+"start": 339.42,
+"end": 339.54
+},
+{
+"word": "um",
+"start": 339.54,
+"end": 339.66
+},
+{
+"word": "die",
+"start": 339.66,
+"end": 339.76
+},
+{
+"word": "40",
+"start": 339.76,
+"end": 340.06
+},
+{
+"word": "Stunden",
+"start": 340.06,
+"end": 340.3
+},
+{
+"word": "Woche",
+"start": 340.3,
+"end": 340.5
+},
+{
+"word": "herum",
+"start": 340.5,
+"end": 340.8
+},
+{
+"word": "aufgebaut.",
+"start": 340.8,
+"end": 341.6
+},
+{
+"word": "Vollzeit",
+"start": 341.76,
+"end": 342.2
+},
+{
+"word": "entscheidet",
+"start": 342.2,
+"end": 342.6
+},
+{
+"word": "über",
+"start": 342.6,
+"end": 342.74
+},
+{
+"word": "deine",
+"start": 342.74,
+"end": 342.94
+},
+{
+"word": "Rente,",
+"start": 342.94,
+"end": 343.42
+},
+{
+"word": "über",
+"start": 343.42,
+"end": 343.54
+},
+{
+"word": "deine",
+"start": 343.54,
+"end": 343.72
+},
+{
+"word": "Karriere.",
+"start": 343.72,
+"end": 344.32
+},
+{
+"word": "Oft",
+"start": 344.72,
+"end": 344.94
+},
+{
+"word": "sogar",
+"start": 344.94,
+"end": 345.18
+},
+{
+"word": "darüber,",
+"start": 345.18,
+"end": 345.52
+},
+{
+"word": "ob",
+"start": 345.52,
+"end": 345.66
+},
+{
+"word": "du",
+"start": 345.66,
+"end": 345.76
+},
+{
+"word": "ernst",
+"start": 345.76,
+"end": 346.02
+},
+{
+"word": "genommen",
+"start": 346.02,
+"end": 346.32
+},
+{
+"word": "wirst.",
+"start": 346.32,
+"end": 346.84
+},
+{
+"word": "Und",
+"start": 346.84,
+"end": 346.94
+},
+{
+"word": "obwohl",
+"start": 346.94,
+"end": 347.12
+},
+{
+"word": "eine",
+"start": 347.12,
+"end": 347.44
+},
+{
+"word": "Stunde",
+"start": 347.44,
+"end": 347.68
+},
+{
+"word": "heute",
+"start": 347.68,
+"end": 348.1
+},
+{
+"word": "rund",
+"start": 348.1,
+"end": 348.54
+},
+{
+"word": "die",
+"start": 348.54,
+"end": 348.66
+},
+{
+"word": "Hälfte",
+"start": 348.66,
+"end": 348.96
+},
+{
+"word": "mehr",
+"start": 348.96,
+"end": 349.18
+},
+{
+"word": "schafft",
+"start": 349.18,
+"end": 349.52
+},
+{
+"word": "als",
+"start": 349.64,
+"end": 349.7
+},
+{
+"word": "vor",
+"start": 349.7,
+"end": 349.84
+},
+{
+"word": "30",
+"start": 349.84,
+"end": 350.12
+},
+{
+"word": "Jahren,",
+"start": 350.12,
+"end": 350.7
+},
+{
+"word": "sind",
+"start": 350.7,
+"end": 350.94
+},
+{
+"word": "die",
+"start": 350.94,
+"end": 351.08
+},
+{
+"word": "Löhne",
+"start": 351.08,
+"end": 351.32
+},
+{
+"word": "pro",
+"start": 351.32,
+"end": 351.48
+},
+{
+"word": "Stunde",
+"start": 351.48,
+"end": 351.8
+},
+{
+"word": "etwas",
+"start": 351.8,
+"end": 352.16
+},
+{
+"word": "langsamer",
+"start": 352.16,
+"end": 352.74
+},
+{
+"word": "gestiegen.",
+"start": 352.74,
+"end": 353.2
+},
+{
+"word": "Die",
+"start": 353.2,
+"end": 353.3
+},
+{
+"word": "politische",
+"start": 353.3,
+"end": 353.7
+},
+{
+"word": "Richtung",
+"start": 353.7,
+"end": 353.92
+},
+{
+"word": "zeigt",
+"start": 354.22,
+"end": 354.38
+},
+{
+"word": "gerade",
+"start": 354.38,
+"end": 354.62
+},
+{
+"word": "sogar",
+"start": 354.62,
+"end": 354.82
+},
+{
+"word": "von",
+"start": 354.82,
+"end": 355.08
+},
+{
+"word": "oben.",
+"start": 355.08,
+"end": 355.5
+},
+{
+"word": "Und",
+"start": 355.5,
+"end": 356.54
+},
+{
+"word": "das",
+"start": 356.54,
+"end": 356.7
+},
+{
+"word": "ist",
+"start": 356.7,
+"end": 356.88
+},
+{
+"word": "keine",
+"start": 356.88,
+"end": 357.16
+},
+{
+"word": "Einzelmeinung.",
+"start": 357.16,
+"end": 358.08
+},
+{
+"word": "Das",
+"start": 358.08,
+"end": 358.34
+},
+{
+"word": "Institut",
+"start": 358.34,
+"end": 358.88
+},
+{
+"word": "der",
+"start": 358.88,
+"end": 358.98
+},
+{
+"word": "deutschen",
+"start": 358.98,
+"end": 359.22
+},
+{
+"word": "Wirtschaft",
+"start": 359.22,
+"end": 359.54
+},
+{
+"word": "sagt,",
+"start": 359.82,
+"end": 360.2
+},
+{
+"word": "wir",
+"start": 360.2,
+"end": 360.42
+},
+{
+"word": "müssten",
+"start": 360.42,
+"end": 360.68
+},
+{
+"word": "eher",
+"start": 360.68,
+"end": 361.0
+},
+{
+"word": "überlegen,",
+"start": 361.0,
+"end": 361.68
+},
+{
+"word": "wie",
+"start": 361.68,
+"end": 361.76
+},
+{
+"word": "wir",
+"start": 361.76,
+"end": 361.88
+},
+{
+"word": "den",
+"start": 361.88,
+"end": 362.04
+},
+{
+"word": "Einzelnen",
+"start": 362.04,
+"end": 362.6
+},
+{
+"word": "dazu",
+"start": 362.6,
+"end": 362.8
+},
+{
+"word": "bringen,",
+"start": 362.8,
+"end": 363.16
+},
+{
+"word": "mehr",
+"start": 363.16,
+"end": 363.26
+},
+{
+"word": "zu",
+"start": 363.26,
+"end": 363.4
+},
+{
+"word": "arbeiten.",
+"start": 363.4,
+"end": 364.0
+},
+{
+"word": "Und",
+"start": 364.0,
+"end": 364.36
+},
+{
+"word": "das",
+"start": 364.46,
+"end": 364.58
+},
+{
+"word": "weniger",
+"start": 364.58,
+"end": 364.88
+},
+{
+"word": "Arbeit",
+"start": 364.9,
+"end": 365.22
+},
+{
+"word": "automatisch",
+"start": 365.22,
+"end": 365.74
+},
+{
+"word": "produktiver",
+"start": 365.74,
+"end": 366.26
+},
+{
+"word": "macht,",
+"start": 366.26,
+"end": 366.9
+},
+{
+"word": "dafür",
+"start": 366.9,
+"end": 367.2
+},
+{
+"word": "gäbe",
+"start": 367.2,
+"end": 367.46
+},
+{
+"word": "es",
+"start": 367.46,
+"end": 367.58
+},
+{
+"word": "keinen",
+"start": 367.58,
+"end": 367.76
+},
+{
+"word": "Beleg.",
+"start": 367.76,
+"end": 368.28
+},
+{
+"word": "Das",
+"start": 368.54,
+"end": 368.72
+},
+{
+"word": "Argument",
+"start": 368.72,
+"end": 369.08
+},
+{
+"word": "ist",
+"start": 369.08,
+"end": 369.24
+},
+{
+"word": "ernst.",
+"start": 369.24,
+"end": 369.68
+},
+{
+"word": "Die",
+"start": 369.68,
+"end": 369.82
+},
+{
+"word": "Babyboomer",
+"start": 369.82,
+"end": 370.4
+},
+{
+"word": "gehen",
+"start": 370.4,
+"end": 370.62
+},
+{
+"word": "in",
+"start": 370.62,
+"end": 370.78
+},
+{
+"word": "Rente",
+"start": 370.78,
+"end": 371.06
+},
+{
+"word": "und",
+"start": 371.06,
+"end": 371.34
+},
+{
+"word": "es",
+"start": 371.34,
+"end": 371.48
+},
+{
+"word": "kommen",
+"start": 371.48,
+"end": 371.68
+},
+{
+"word": "weniger",
+"start": 371.68,
+"end": 372.0
+},
+{
+"word": "Junge",
+"start": 372.0,
+"end": 372.24
+},
+{
+"word": "nach.",
+"start": 372.24,
+"end": 372.7
+},
+{
+"word": "Ohne",
+"start": 372.88,
+"end": 373.12
+},
+{
+"word": "mehr",
+"start": 373.12,
+"end": 373.28
+},
+{
+"word": "Stunden",
+"start": 373.28,
+"end": 373.68
+},
+{
+"word": "oder",
+"start": 373.68,
+"end": 373.98
+},
+{
+"word": "mehr",
+"start": 373.98,
+"end": 374.2
+},
+{
+"word": "Produktivität",
+"start": 374.2,
+"end": 374.94
+},
+{
+"word": "sinkt",
+"start": 374.94,
+"end": 375.36
+},
+{
+"word": "die",
+"start": 375.36,
+"end": 375.44
+},
+{
+"word": "Arbeit,",
+"start": 375.44,
+"end": 375.94
+},
+{
+"word": "die",
+"start": 375.94,
+"end": 375.96
+},
+{
+"word": "das",
+"start": 375.96,
+"end": 376.12
+},
+{
+"word": "Land",
+"start": 376.12,
+"end": 376.38
+},
+{
+"word": "insgesamt",
+"start": 376.38,
+"end": 376.84
+},
+{
+"word": "leistet.",
+"start": 376.84,
+"end": 377.46
+},
+{
+"word": "Und",
+"start": 377.58,
+"end": 377.74
+},
+{
+"word": "jetzt",
+"start": 377.74,
+"end": 378.06
+},
+{
+"word": "halt",
+"start": 378.06,
+"end": 378.3
+},
+{
+"word": "die",
+"start": 378.3,
+"end": 378.44
+},
+{
+"word": "beiden",
+"start": 378.44,
+"end": 378.68
+},
+{
+"word": "Bilder",
+"start": 378.68,
+"end": 379.04
+},
+{
+"word": "nebeneinander.",
+"start": 379.04,
+"end": 379.88
+},
+{
+"word": "Oben",
+"start": 379.98,
+"end": 380.2
+},
+{
+"word": "fehlen",
+"start": 380.2,
+"end": 380.52
+},
+{
+"word": "uns",
+"start": 380.52,
+"end": 380.68
+},
+{
+"word": "bald",
+"start": 380.68,
+"end": 380.84
+},
+{
+"word": "Leute.",
+"start": 380.84,
+"end": 381.58
+},
+{
+"word": "Unten",
+"start": 381.58,
+"end": 382.16
+},
+{
+"word": "an",
+"start": 382.16,
+"end": 382.26
+},
+{
+"word": "der",
+"start": 382.26,
+"end": 382.4
+},
+{
+"word": "Tür",
+"start": 382.4,
+"end": 382.66
+},
+{
+"word": "werden",
+"start": 382.66,
+"end": 383.24
+},
+{
+"word": "Junge",
+"start": 383.24,
+"end": 383.5
+},
+{
+"word": "nicht",
+"start": 383.5,
+"end": 383.64
+},
+{
+"word": "mehr",
+"start": 383.64,
+"end": 383.76
+},
+{
+"word": "reingelassen.",
+"start": 383.76,
+"end": 384.3
+},
+{
+"word": "Das",
+"start": 384.34,
+"end": 384.48
+},
+{
+"word": "ist",
+"start": 384.48,
+"end": 384.58
+},
+{
+"word": "kein",
+"start": 384.58,
+"end": 384.74
+},
+{
+"word": "Widerspruch,",
+"start": 384.74,
+"end": 385.38
+},
+{
+"word": "das",
+"start": 385.38,
+"end": 385.48
+},
+{
+"word": "sind",
+"start": 385.48,
+"end": 385.64
+},
+{
+"word": "zwei",
+"start": 385.64,
+"end": 385.86
+},
+{
+"word": "Probleme",
+"start": 385.86,
+"end": 386.26
+},
+{
+"word": "gleichzeitig.",
+"start": 386.26,
+"end": 386.98
+},
+{
+"word": "Und",
+"start": 387.08,
+"end": 387.2
+},
+{
+"word": "beide",
+"start": 387.2,
+"end": 387.5
+},
+{
+"word": "drehen",
+"start": 387.5,
+"end": 387.8
+},
+{
+"word": "sich",
+"start": 387.8,
+"end": 387.92
+},
+{
+"word": "um",
+"start": 387.92,
+"end": 388.06
+},
+{
+"word": "dieselbe",
+"start": 388.06,
+"end": 388.42
+},
+{
+"word": "Frage.",
+"start": 388.42,
+"end": 388.98
+},
+{
+"word": "Wer",
+"start": 389.36,
+"end": 389.46
+},
+{
+"word": "bekommt",
+"start": 389.46,
+"end": 389.74
+},
+{
+"word": "die",
+"start": 389.74,
+"end": 389.88
+},
+{
+"word": "Zeit,",
+"start": 389.88,
+"end": 390.22
+},
+{
+"word": "die",
+"start": 390.22,
+"end": 390.28
+},
+{
+"word": "die",
+"start": 390.28,
+"end": 390.4
+},
+{
+"word": "Maschinen",
+"start": 390.4,
+"end": 390.76
+},
+{
+"word": "sparen?",
+"start": 390.76,
+"end": 391.4
+},
+{
+"word": "Wird",
+"start": 391.5,
+"end": 391.64
+},
+{
+"word": "sie",
+"start": 391.64,
+"end": 391.84
+},
+{
+"word": "zu",
+"start": 391.84,
+"end": 392.02
+},
+{
+"word": "neuer",
+"start": 392.02,
+"end": 392.26
+},
+{
+"word": "Arbeit",
+"start": 392.26,
+"end": 392.58
+},
+{
+"word": "für",
+"start": 392.58,
+"end": 392.76
+},
+{
+"word": "die,",
+"start": 392.76,
+"end": 393.0
+},
+{
+"word": "die",
+"start": 393.0,
+"end": 393.08
+},
+{
+"word": "drin",
+"start": 393.08,
+"end": 393.3
+},
+{
+"word": "sind?",
+"start": 393.3,
+"end": 393.76
+},
+{
+"word": "Zu",
+"start": 394.16,
+"end": 394.28
+},
+{
+"word": "weniger",
+"start": 394.28,
+"end": 394.56
+},
+{
+"word": "Stellen",
+"start": 394.56,
+"end": 394.92
+},
+{
+"word": "für",
+"start": 394.92,
+"end": 395.16
+},
+{
+"word": "die,",
+"start": 395.16,
+"end": 395.38
+},
+{
+"word": "die",
+"start": 395.38,
+"end": 395.38
+},
+{
+"word": "rein",
+"start": 395.38,
+"end": 395.62
+},
+{
+"word": "wollen?",
+"start": 395.62,
+"end": 396.14
+},
+{
+"word": "Oder",
+"start": 396.66,
+"end": 396.88
+},
+{
+"word": "zu",
+"start": 396.88,
+"end": 397.14
+},
+{
+"word": "Feierabend",
+"start": 397.14,
+"end": 397.86
+},
+{
+"word": "für",
+"start": 397.86,
+"end": 398.0
+},
+{
+"word": "alle?",
+"start": 398.0,
+"end": 398.4
+},
+{
+"word": "Das",
+"start": 398.76,
+"end": 398.94
+},
+{
+"word": "entscheidet",
+"start": 398.94,
+"end": 399.3
+},
+{
+"word": "keine",
+"start": 399.3,
+"end": 399.52
+},
+{
+"word": "KI,",
+"start": 399.52,
+"end": 400.02
+},
+{
+"word": "das",
+"start": 400.02,
+"end": 400.24
+},
+{
+"word": "entscheiden",
+"start": 400.24,
+"end": 400.64
+},
+{
+"word": "wir.",
+"start": 400.64,
+"end": 401.42
+},
+{
+"word": "Was",
+"start": 401.6,
+"end": 401.84
+},
+{
+"word": "kannst",
+"start": 401.84,
+"end": 402.04
+},
+{
+"word": "du",
+"start": 402.04,
+"end": 402.18
+},
+{
+"word": "also",
+"start": 402.18,
+"end": 402.34
+},
+{
+"word": "tun?",
+"start": 402.34,
+"end": 402.82
+},
+{
+"word": "1.",
+"start": 403.34,
+"end": 403.78
+},
+{
+"word": "Wenn",
+"start": 403.78,
+"end": 403.9
+},
+{
+"word": "du",
+"start": 403.9,
+"end": 404.0
+},
+{
+"word": "Leute",
+"start": 404.0,
+"end": 404.22
+},
+{
+"word": "einstellst,",
+"start": 404.22,
+"end": 404.76
+},
+{
+"word": "stell",
+"start": 404.76,
+"end": 404.88
+},
+{
+"word": "die",
+"start": 404.88,
+"end": 405.0
+},
+{
+"word": "Jungen",
+"start": 405.0,
+"end": 405.16
+},
+{
+"word": "trotzdem",
+"start": 405.16,
+"end": 405.46
+},
+{
+"word": "ein.",
+"start": 405.46,
+"end": 405.86
+},
+{
+"word": "Der",
+"start": 405.9,
+"end": 406.04
+},
+{
+"word": "Stanford",
+"start": 406.04,
+"end": 406.36
+},
+{
+"word": "-Ökonom",
+"start": 406.36,
+"end": 406.8
+},
+{
+"word": "Eric",
+"start": 406.8,
+"end": 407.1
+},
+{
+"word": "Bronjolfsson",
+"start": 407.1,
+"end": 407.88
+},
+{
+"word": "bringt",
+"start": 407.88,
+"end": 408.54
+},
+{
+"word": "es",
+"start": 408.54,
+"end": 408.7
+},
+{
+"word": "auf",
+"start": 408.7,
+"end": 408.84
+},
+{
+"word": "einen",
+"start": 408.84,
+"end": 409.04
+},
+{
+"word": "Satz.",
+"start": 409.04,
+"end": 409.5
+},
+{
+"word": "Wer",
+"start": 409.54,
+"end": 409.66
+},
+{
+"word": "keine",
+"start": 409.66,
+"end": 409.94
+},
+{
+"word": "Juniors",
+"start": 409.94,
+"end": 410.32
+},
+{
+"word": "einstellt,",
+"start": 410.32,
+"end": 410.94
+},
+{
+"word": "wird",
+"start": 410.94,
+"end": 411.08
+},
+{
+"word": "auch",
+"start": 411.08,
+"end": 411.2
+},
+{
+"word": "keine",
+"start": 411.2,
+"end": 411.4
+},
+{
+"word": "Seniors",
+"start": 411.4,
+"end": 411.78
+},
+{
+"word": "haben.",
+"start": 411.78,
+"end": 412.22
+},
+{
+"word": "2.",
+"start": 412.54,
+"end": 413.08
+},
+{
+"word": "Verhandle",
+"start": 413.08,
+"end": 413.46
+},
+{
+"word": "Zeit,",
+"start": 413.46,
+"end": 413.9
+},
+{
+"word": "nicht",
+"start": 413.9,
+"end": 414.0
+},
+{
+"word": "nur",
+"start": 414.0,
+"end": 414.14
+},
+{
+"word": "Geld.",
+"start": 414.14,
+"end": 414.6
+},
+{
+"word": "Wenn",
+"start": 414.76,
+"end": 414.9
+},
+{
+"word": "KI",
+"start": 414.9,
+"end": 415.12
+},
+{
+"word": "in",
+"start": 415.12,
+"end": 415.32
+},
+{
+"word": "deinem",
+"start": 415.32,
+"end": 415.56
+},
+{
+"word": "Team",
+"start": 415.56,
+"end": 415.7
+},
+{
+"word": "Stunden",
+"start": 415.7,
+"end": 416.0
+},
+{
+"word": "spart,",
+"start": 416.0,
+"end": 416.62
+},
+{
+"word": "frag,",
+"start": 416.62,
+"end": 417.14
+},
+{
+"word": "wohin",
+"start": 417.14,
+"end": 417.34
+},
+{
+"word": "diese",
+"start": 417.34,
+"end": 417.52
+},
+{
+"word": "Zeit",
+"start": 417.52,
+"end": 417.78
+},
+{
+"word": "geht.",
+"start": 417.78,
+"end": 418.2
+},
+{
+"word": "Das",
+"start": 418.46,
+"end": 418.68
+},
+{
+"word": "Beispiel",
+"start": 418.68,
+"end": 419.08
+},
+{
+"word": "aus",
+"start": 419.08,
+"end": 419.26
+},
+{
+"word": "der",
+"start": 419.26,
+"end": 419.36
+},
+{
+"word": "Metallindustrie",
+"start": 419.36,
+"end": 419.92
+},
+{
+"word": "zeigt,",
+"start": 419.92,
+"end": 420.38
+},
+{
+"word": "dass",
+"start": 420.38,
+"end": 420.46
+},
+{
+"word": "das",
+"start": 420.46,
+"end": 420.6
+},
+{
+"word": "geht.",
+"start": 420.6,
+"end": 421.08
+},
+{
+"word": "3.",
+"start": 421.08,
+"end": 422.36
+},
+{
+"word": "Miss",
+"start": 422.36,
+"end": 422.44
+},
+{
+"word": "deine",
+"start": 422.44,
+"end": 422.62
+},
+{
+"word": "KI",
+"start": 422.62,
+"end": 422.92
+},
+{
+"word": "-Zeit,",
+"start": 422.92,
+"end": 423.28
+},
+{
+"word": "statt",
+"start": 423.28,
+"end": 423.38
+},
+{
+"word": "sie",
+"start": 423.38,
+"end": 423.52
+},
+{
+"word": "zu",
+"start": 423.52,
+"end": 423.66
+},
+{
+"word": "fühlen.",
+"start": 423.66,
+"end": 424.2
+},
+{
+"word": "Schreib",
+"start": 424.36,
+"end": 424.64
+},
+{
+"word": "eine",
+"start": 424.64,
+"end": 424.9
+},
+{
+"word": "Woche",
+"start": 424.9,
+"end": 425.08
+},
+{
+"word": "lang",
+"start": 425.08,
+"end": 425.22
+},
+{
+"word": "auf,",
+"start": 425.22,
+"end": 425.62
+},
+{
+"word": "was",
+"start": 425.62,
+"end": 425.7
+},
+{
+"word": "wirklich",
+"start": 426.0,
+"end": 426.04
+},
+{
+"word": "schneller",
+"start": 426.04,
+"end": 426.36
+},
+{
+"word": "geht",
+"start": 426.36,
+"end": 426.6
+},
+{
+"word": "und",
+"start": 426.6,
+"end": 426.78
+},
+{
+"word": "was",
+"start": 426.78,
+"end": 426.96
+},
+{
+"word": "nur",
+"start": 426.96,
+"end": 427.12
+},
+{
+"word": "so",
+"start": 427.12,
+"end": 427.26
+},
+{
+"word": "wirkt.",
+"start": 427.26,
+"end": 427.76
+},
+{
+"word": "Damit",
+"start": 427.76,
+"end": 427.86
+},
+{
+"word": "hast",
+"start": 427.86,
+"end": 428.06
+},
+{
+"word": "du",
+"start": 428.06,
+"end": 428.18
+},
+{
+"word": "in",
+"start": 428.18,
+"end": 428.28
+},
+{
+"word": "jedem",
+"start": 428.28,
+"end": 428.42
+},
+{
+"word": "Gespräch",
+"start": 428.42,
+"end": 428.82
+},
+{
+"word": "eine",
+"start": 428.82,
+"end": 428.98
+},
+{
+"word": "Zahl",
+"start": 428.98,
+"end": 429.36
+},
+{
+"word": "statt",
+"start": 429.36,
+"end": 429.6
+},
+{
+"word": "einem",
+"start": 429.72,
+"end": 429.82
+},
+{
+"word": "Gefühl.",
+"start": 429.82,
+"end": 430.72
+},
+{
+"word": "4.",
+"start": 430.72,
+"end": 431.46
+},
+{
+"word": "Wenn",
+"start": 431.46,
+"end": 431.6
+},
+{
+"word": "du",
+"start": 431.6,
+"end": 431.7
+},
+{
+"word": "gerade",
+"start": 431.7,
+"end": 431.88
+},
+{
+"word": "einsteigst,",
+"start": 431.88,
+"end": 432.6
+},
+{
+"word": "schau",
+"start": 432.6,
+"end": 432.72
+},
+{
+"word": "auch",
+"start": 432.72,
+"end": 432.84
+},
+{
+"word": "auf",
+"start": 432.84,
+"end": 432.94
+},
+{
+"word": "die",
+"start": 432.94,
+"end": 433.04
+},
+{
+"word": "Ausbildung.",
+"start": 433.04,
+"end": 433.92
+},
+{
+"word": "Dort",
+"start": 433.92,
+"end": 434.12
+},
+{
+"word": "gibt",
+"start": 434.12,
+"end": 434.32
+},
+{
+"word": "es",
+"start": 434.32,
+"end": 434.5
+},
+{
+"word": "heute",
+"start": 434.5,
+"end": 434.68
+},
+{
+"word": "die",
+"start": 434.68,
+"end": 434.84
+},
+{
+"word": "Hälfte",
+"start": 434.92,
+"end": 435.16
+},
+{
+"word": "mehr",
+"start": 435.16,
+"end": 435.36
+},
+{
+"word": "Stellen",
+"start": 435.36,
+"end": 435.76
+},
+{
+"word": "als",
+"start": 435.76,
+"end": 436.06
+},
+{
+"word": "vor",
+"start": 436.06,
+"end": 436.34
+},
+{
+"word": "der",
+"start": 436.34,
+"end": 436.46
+},
+{
+"word": "Pandemie.",
+"start": 436.46,
+"end": 437.06
+},
+{
+"word": "Und",
+"start": 437.06,
+"end": 437.38
+},
+{
+"word": "sie",
+"start": 437.38,
+"end": 437.5
+},
+{
+"word": "sind",
+"start": 437.5,
+"end": 437.62
+},
+{
+"word": "aktuell",
+"start": 437.62,
+"end": 437.94
+},
+{
+"word": "viel",
+"start": 437.94,
+"end": 438.2
+},
+{
+"word": "seltener",
+"start": 438.2,
+"end": 438.62
+},
+{
+"word": "von",
+"start": 438.62,
+"end": 438.76
+},
+{
+"word": "KI",
+"start": 438.76,
+"end": 439.0
+},
+{
+"word": "betroffen.",
+"start": 439.0,
+"end": 439.58
+},
+{
+"word": "Denk",
+"start": 439.9,
+"end": 440.08
+},
+{
+"word": "noch",
+"start": 440.08,
+"end": 440.22
+},
+{
+"word": "einmal",
+"start": 440.22,
+"end": 440.42
+},
+{
+"word": "an",
+"start": 440.42,
+"end": 440.58
+},
+{
+"word": "das",
+"start": 440.58,
+"end": 440.72
+},
+{
+"word": "Haus",
+"start": 440.72,
+"end": 440.98
+},
+{
+"word": "mit",
+"start": 440.98,
+"end": 441.14
+},
+{
+"word": "den",
+"start": 441.14,
+"end": 441.24
+},
+{
+"word": "40",
+"start": 441.24,
+"end": 441.56
+},
+{
+"word": "Fenstern.",
+"start": 441.56,
+"end": 442.28
+},
+{
+"word": "Keynes",
+"start": 442.28,
+"end": 442.6
+},
+{
+"word": "hatte",
+"start": 442.6,
+"end": 442.76
+},
+{
+"word": "1930",
+"start": 442.76,
+"end": 443.54
+},
+{
+"word": "gesagt,",
+"start": 443.54,
+"end": 444.44
+},
+{
+"word": "in",
+"start": 444.44,
+"end": 444.66
+},
+{
+"word": "100",
+"start": 444.68,
+"end": 445.04
+},
+{
+"word": "Jahren",
+"start": 445.04,
+"end": 445.38
+},
+{
+"word": "reichen",
+"start": 445.38,
+"end": 445.68
+},
+{
+"word": "15.",
+"start": 445.68,
+"end": 446.44
+},
+{
+"word": "Seine",
+"start": 446.76,
+"end": 446.94
+},
+{
+"word": "Frist",
+"start": 446.94,
+"end": 447.24
+},
+{
+"word": "läuft",
+"start": 447.24,
+"end": 447.4
+},
+{
+"word": "in",
+"start": 447.4,
+"end": 447.52
+},
+{
+"word": "4",
+"start": 447.52,
+"end": 447.68
+},
+{
+"word": "Jahren",
+"start": 447.68,
+"end": 447.92
+},
+{
+"word": "ab.",
+"start": 447.92,
+"end": 448.38
+},
+{
+"word": "Die",
+"start": 448.6,
+"end": 448.7
+},
+{
+"word": "Technik",
+"start": 448.7,
+"end": 449.1
+},
+{
+"word": "dafür",
+"start": 449.1,
+"end": 449.3
+},
+{
+"word": "ist",
+"start": 449.3,
+"end": 449.58
+},
+{
+"word": "näher",
+"start": 449.58,
+"end": 449.94
+},
+{
+"word": "als",
+"start": 449.94,
+"end": 450.16
+},
+{
+"word": "zuvor.",
+"start": 450.16,
+"end": 450.74
+},
+{
+"word": "Was",
+"start": 450.92,
+"end": 451.1
+},
+{
+"word": "fehlt,",
+"start": 451.1,
+"end": 451.54
+},
+{
+"word": "ist",
+"start": 451.54,
+"end": 451.6
+},
+{
+"word": "die",
+"start": 451.6,
+"end": 451.74
+},
+{
+"word": "Entscheidung,",
+"start": 451.74,
+"end": 452.32
+},
+{
+"word": "wem",
+"start": 452.32,
+"end": 452.46
+},
+{
+"word": "die",
+"start": 452.46,
+"end": 452.56
+},
+{
+"word": "gesparte",
+"start": 452.56,
+"end": 453.0
+},
+{
+"word": "Zeit",
+"start": 453.0,
+"end": 453.18
+},
+{
+"word": "gehört.",
+"start": 453.18,
+"end": 453.72
+},
+{
+"word": "Ich",
+"start": 454.04,
+"end": 454.14
+},
+{
+"word": "weiß",
+"start": 454.14,
+"end": 454.32
+},
+{
+"word": "nicht,",
+"start": 454.32,
+"end": 454.5
+},
+{
+"word": "wie",
+"start": 454.5,
+"end": 454.58
+},
+{
+"word": "mein",
+"start": 454.58,
+"end": 454.72
+},
+{
+"word": "Beruf",
+"start": 454.72,
+"end": 454.98
+},
+{
+"word": "in",
+"start": 454.98,
+"end": 455.12
+},
+{
+"word": "10",
+"start": 455.12,
+"end": 455.28
+},
+{
+"word": "Jahren",
+"start": 455.28,
+"end": 455.5
+},
+{
+"word": "aussieht,",
+"start": 455.5,
+"end": 456.06
+},
+{
+"word": "aber",
+"start": 456.06,
+"end": 456.38
+},
+{
+"word": "ich",
+"start": 456.38,
+"end": 456.54
+},
+{
+"word": "weiß,",
+"start": 456.54,
+"end": 457.0
+},
+{
+"word": "dass",
+"start": 457.0,
+"end": 457.1
+},
+{
+"word": "das",
+"start": 457.1,
+"end": 457.22
+},
+{
+"word": "nicht",
+"start": 457.22,
+"end": 457.4
+},
+{
+"word": "allein",
+"start": 457.4,
+"end": 457.62
+},
+{
+"word": "die",
+"start": 457.66,
+"end": 457.76
+},
+{
+"word": "Maschinen",
+"start": 457.76,
+"end": 458.14
+},
+{
+"word": "entscheiden.",
+"start": 458.14,
+"end": 458.78
+},
+{
+"word": "Schreib",
+"start": 460.18,
+"end": 460.36
+},
+{
+"word": "mir",
+"start": 460.36,
+"end": 460.48
+},
+{
+"word": "in",
+"start": 460.48,
+"end": 460.54
+},
+{
+"word": "die",
+"start": 460.54,
+"end": 460.62
+},
+{
+"word": "Kommentare,",
+"start": 460.62,
+"end": 461.2
+},
+{
+"word": "wenn",
+"start": 461.2,
+"end": 461.38
+},
+{
+"word": "KI",
+"start": 461.38,
+"end": 461.64
+},
+{
+"word": "dir",
+"start": 461.64,
+"end": 461.82
+},
+{
+"word": "einen",
+"start": 461.82,
+"end": 462.04
+},
+{
+"word": "Tag",
+"start": 462.04,
+"end": 462.26
+},
+{
+"word": "pro",
+"start": 462.26,
+"end": 462.42
+},
+{
+"word": "Woche",
+"start": 462.42,
+"end": 462.58
+},
+{
+"word": "schenken",
+"start": 462.58,
+"end": 462.9
+},
+{
+"word": "würde,",
+"start": 462.9,
+"end": 463.28
+},
+{
+"word": "was",
+"start": 463.28,
+"end": 463.56
+},
+{
+"word": "würdest",
+"start": 463.56,
+"end": 463.8
+},
+{
+"word": "du",
+"start": 463.82,
+"end": 463.9
+},
+{
+"word": "damit",
+"start": 463.9,
+"end": 464.06
+},
+{
+"word": "machen?",
+"start": 464.06,
+"end": 464.54
+},
+{
+"word": "Und",
+"start": 464.96,
+"end": 465.02
+},
+{
+"word": "wenn",
+"start": 465.02,
+"end": 465.16
+},
+{
+"word": "du",
+"start": 465.16,
+"end": 465.24
+},
+{
+"word": "willst,",
+"start": 465.24,
+"end": 465.56
+},
+{
+"word": "dass",
+"start": 465.56,
+"end": 465.64
+},
+{
+"word": "die",
+"start": 465.64,
+"end": 465.76
+},
+{
+"word": "KI",
+"start": 465.76,
+"end": 465.96
+},
+{
+"word": "-Zukunft",
+"start": 465.96,
+"end": 466.32
+},
+{
+"word": "bei",
+"start": 466.32,
+"end": 466.5
+},
+{
+"word": "allen",
+"start": 466.5,
+"end": 466.7
+},
+{
+"word": "ankommt,",
+"start": 466.7,
+"end": 467.26
+},
+{
+"word": "abonniere.",
+"start": 467.26,
+"end": 467.76
+},
+{
+"word": "Dafür",
+"start": 468.04,
+"end": 468.24
+},
+{
+"word": "gibt",
+"start": 468.24,
+"end": 468.42
+},
+{
+"word": "es",
+"start": 468.42,
+"end": 468.54
+},
+{
+"word": "diesen",
+"start": 468.54,
+"end": 468.7
+},
+{
+"word": "Kanal.",
+"start": 468.7,
+"end": 469.62
+},
+{
+"word": "Hoffnungslos?",
+"start": 469.88,
+"end": 470.7
+},
+{
+"word": "Nein.",
+"start": 470.7,
+"end": 471.62
+},
+{
+"word": "Noch",
+"start": 471.62,
+"end": 471.98
+},
+{
+"word": "nicht",
+"start": 471.98,
+"end": 472.14
+},
+{
+"word": "entschieden.",
+"start": 472.14,
+"end": 472.72
+}
+]

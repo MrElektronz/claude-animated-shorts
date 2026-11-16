@@ -1,0 +1,24 @@
+[
+  {
+    "id": "amodei",
+    "file": "clips/l02/amodei.mp4",
+    "startF": 5702,
+    "durF": 441,
+    "who": "Dario Amodei",
+    "role": "CEO · Anthropic",
+    "event": "CNN, Anderson Cooper 360 · 29.5.2025",
+    "label": "Firmenchef · eigene Prognose",
+    "translated": true
+  },
+  {
+    "id": "merz",
+    "file": "clips/l02/merz.mp4",
+    "startF": 11153,
+    "durF": 714,
+    "who": "Friedrich Merz",
+    "role": "Bundeskanzler",
+    "event": "Wirtschaftstag des Wirtschaftsrats · 13.5.2025",
+    "label": "Politische Position",
+    "translated": false
+  }
+]

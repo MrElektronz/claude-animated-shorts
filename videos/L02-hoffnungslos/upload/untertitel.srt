@@ -1,0 +1,1251 @@
+1
+00:00:00,000 --> 00:00:01,190
+Es fühlt sich gerade alles ein bisschen
+
+2
+00:00:01,240 --> 00:00:02,430
+hoffnungslos an.
+
+3
+00:00:02,480 --> 00:00:03,630
+Und wenn es dir auch so geht,
+
+4
+00:00:03,680 --> 00:00:05,490
+dann bist du damit nicht allein.
+
+5
+00:00:05,540 --> 00:00:07,330
+Ich habe schon als Teenager programmiert.
+
+6
+00:00:07,380 --> 00:00:08,150
+Nicht, weil ich musste,
+
+7
+00:00:08,200 --> 00:00:09,870
+sondern weil ich es geliebt habe.
+
+8
+00:00:09,920 --> 00:00:11,290
+Nach dem Studium hatte ich Glück und
+
+9
+00:00:11,340 --> 00:00:12,810
+habe genau in diesem Bereich einen Job
+
+10
+00:00:12,860 --> 00:00:13,690
+gefunden.
+
+11
+00:00:13,740 --> 00:00:15,790
+Software-Entwicklung, mein Traumjob.
+
+12
+00:00:15,840 --> 00:00:18,020
+Heute macht er mir kaum noch Spaß.
+
+13
+00:00:18,120 --> 00:00:19,710
+Und ich weiß ehrlich gesagt nicht,
+
+14
+00:00:19,760 --> 00:00:21,540
+wie lange ich ihn noch machen kann.
+
+15
+00:00:21,720 --> 00:00:23,090
+Und ich bin nicht der Einzige.
+
+16
+00:00:23,140 --> 00:00:24,890
+Ende September hat das Jobportal Indeed
+
+17
+00:00:24,940 --> 00:00:25,910
+nachgezählt.
+
+18
+00:00:25,960 --> 00:00:28,130
+Für Berufseinsteiger in Deutschland gibt es
+
+19
+00:00:28,180 --> 00:00:29,690
+fast halb so wenig Stellen wie vor
+
+20
+00:00:29,740 --> 00:00:30,790
+sieben Jahren.
+
+21
+00:00:30,840 --> 00:00:32,790
+Dabei ist KI eigentlich ein großartiges
+
+22
+00:00:32,840 --> 00:00:33,490
+Werkzeug.
+
+23
+00:00:33,540 --> 00:00:34,510
+Sie fasst zusammen,
+
+24
+00:00:34,560 --> 00:00:36,110
+sie schreibt, sie programmiert,
+
+25
+00:00:36,160 --> 00:00:37,050
+sie spart Arbeit.
+
+26
+00:00:37,100 --> 00:00:37,810
+Jeden Tag.
+
+27
+00:00:37,860 --> 00:00:38,870
+Millionenfach.
+
+28
+00:00:38,920 --> 00:00:41,310
+Also müsste sich das doch eigentlich gut
+
+29
+00:00:41,360 --> 00:00:42,030
+anfühlen.
+
+30
+00:00:42,080 --> 00:00:44,230
+Heute gehen wir einer einzigen Frage nach.
+
+31
+00:00:44,280 --> 00:00:46,070
+Wenn KI so viel Arbeit spart,
+
+32
+00:00:46,120 --> 00:00:47,990
+wo landet dann die ganze Zeit?
+
+33
+00:00:48,040 --> 00:00:48,630
+Bei dir?
+
+34
+00:00:48,680 --> 00:00:49,750
+Bei deinem Chef?
+
+35
+00:00:49,800 --> 00:00:51,400
+Oder bei niemandem?
+
+36
+00:00:51,880 --> 00:00:52,730
+Um das zu messen,
+
+37
+00:00:52,780 --> 00:00:54,170
+brauchen wir ein Bild.
+
+38
+00:00:54,220 --> 00:00:56,450
+Stell dir deine Arbeitswoche als Haus vor.
+
+39
+00:00:56,500 --> 00:00:58,250
+Jedes erleuchtete Fenster ist eine Stunde
+
+40
+00:00:58,300 --> 00:00:59,230
+Arbeit.
+
+41
+00:00:59,280 --> 00:01:00,990
+Wer in Deutschland Vollzeit arbeitet,
+
+42
+00:01:01,040 --> 00:01:03,310
+hat im Schnitt 40 solcher Fenster.
+
+43
+00:01:03,360 --> 00:01:05,530
+Genauer 40,2.
+
+44
+00:01:05,580 --> 00:01:08,190
+1930 hat der Ökonom John Maynard Keynes
+
+45
+00:01:08,240 --> 00:01:09,730
+eine kühne Rechnung aufgemacht.
+
+46
+00:01:09,780 --> 00:01:11,510
+Die Maschinen werden so viel schaffen,
+
+47
+00:01:11,560 --> 00:01:13,390
+schrieb er, dass in 100 Jahren eine
+
+48
+00:01:13,440 --> 00:01:15,070
+15-Stunden-Woche reicht.
+
+49
+00:01:15,120 --> 00:01:17,250
+100 Jahre nach 1930?
+
+50
+00:01:17,300 --> 00:01:18,850
+Das ist 2030.
+
+51
+00:01:18,900 --> 00:01:20,490
+In vier Jahren.
+
+52
+00:01:20,540 --> 00:01:22,850
+Bei Keynes brennen also 15 Fenster,
+
+53
+00:01:22,900 --> 00:01:24,650
+bei uns noch immer 40.
+
+54
+00:01:24,700 --> 00:01:27,360
+Aber hat Keynes sich einfach verrechnet?
+
+55
+00:01:27,440 --> 00:01:30,190
+Seit 1991 schaffte eine Stunde Arbeit in
+
+56
+00:01:30,240 --> 00:01:32,450
+Deutschland rund die Hälfte mehr als damals.
+
+57
+00:01:32,500 --> 00:01:34,030
+Das Haus ist also gewachsen,
+
+58
+00:01:34,080 --> 00:01:36,050
+jedes Fenster leistet mehr.
+
+59
+00:01:36,100 --> 00:01:37,970
+Und trotzdem brennen in der Vollzeit fast
+
+60
+00:01:38,020 --> 00:01:40,490
+genauso viele Fenster wie vor 30 Jahren.
+
+61
+00:01:40,540 --> 00:01:42,130
+Ja, im Durchschnitt arbeiten wir pro Kopf
+
+62
+00:01:42,180 --> 00:01:44,130
+etwa 14% weniger.
+
+63
+00:01:44,180 --> 00:01:46,290
+Aber das kommt fast nur von Teilzeit.
+
+64
+00:01:46,340 --> 00:01:47,050
+Also nicht davon,
+
+65
+00:01:47,100 --> 00:01:48,790
+dass die Woche für alle kürzer wurde,
+
+66
+00:01:48,840 --> 00:01:50,730
+sondern davon, dass manche weniger Stunden
+
+67
+00:01:50,780 --> 00:01:51,630
+haben.
+
+68
+00:01:51,680 --> 00:01:53,190
+Oft mit weniger Geld.
+
+69
+00:01:53,240 --> 00:01:54,410
+Die Zeit wurde gespart,
+
+70
+00:01:54,460 --> 00:01:56,710
+sie kam nur nicht als Feierabend an.
+
+71
+00:01:56,760 --> 00:01:58,670
+Und mit KI passiert gerade dasselbe,
+
+72
+00:01:58,720 --> 00:02:00,490
+nur schneller.
+
+73
+00:02:00,540 --> 00:02:01,670
+Es trifft zuerst die,
+
+74
+00:02:01,720 --> 00:02:03,230
+die noch gar nicht drin sind.
+
+75
+00:02:03,280 --> 00:02:04,410
+Fangen wir unten an,
+
+76
+00:02:04,460 --> 00:02:05,730
+bei der Eingangstür.
+
+77
+00:02:05,780 --> 00:02:07,770
+Seit dem Sommer 2022 sind die
+
+78
+00:02:07,820 --> 00:02:09,690
+Stellenanzeigen für Berufseinsteiger um mehr
+
+79
+00:02:09,740 --> 00:02:11,760
+als zwei Drittel eingebrochen.
+
+80
+00:02:11,960 --> 00:02:13,490
+Heute liegen sie fast die Hälfte unter
+
+81
+00:02:13,540 --> 00:02:15,660
+dem Niveau von vor der Pandemie.
+
+82
+00:02:15,800 --> 00:02:17,370
+Während der Arbeitsmarkt insgesamt sogar
+
+83
+00:02:17,420 --> 00:02:19,330
+größer ist als damals.
+
+84
+00:02:19,380 --> 00:02:20,470
+In der Softwareentwicklung,
+
+85
+00:02:20,520 --> 00:02:23,380
+meinem Bereich, minus 70%.
+
+86
+00:02:23,480 --> 00:02:25,390
+Das ifo-Institut sieht dasselbe Muster in
+
+87
+00:02:25,440 --> 00:02:26,870
+echten Beschäftigungszahlen.
+
+88
+00:02:26,920 --> 00:02:29,170
+In KI-nahen Berufen arbeiten 14 Prozent
+
+89
+00:02:29,220 --> 00:02:30,930
+weniger junge Leute in Vollzeit.
+
+90
+00:02:30,980 --> 00:02:32,550
+Und in den USA,
+
+91
+00:02:32,600 --> 00:02:33,870
+wo es die besten Daten gibt,
+
+92
+00:02:33,920 --> 00:02:35,630
+haben Forscher aus Stanford genau
+
+93
+00:02:35,680 --> 00:02:36,390
+hingeschaut.
+
+94
+00:02:36,440 --> 00:02:38,830
+Junge Leute zwischen 22 und 25 in
+
+95
+00:02:38,880 --> 00:02:40,470
+den Berufen, die am stärksten mit KI
+
+96
+00:02:40,520 --> 00:02:41,430
+zu tun haben,
+
+97
+00:02:41,480 --> 00:02:43,510
+19 Prozent weniger Beschäftigung als bei
+
+98
+00:02:43,560 --> 00:02:44,690
+ihren Altersgenossen.
+
+99
+00:02:44,740 --> 00:02:46,170
+Und jetzt kommt das Entscheidende.
+
+100
+00:02:46,220 --> 00:02:47,490
+Niemand wird dafür entlassen.
+
+101
+00:02:47,540 --> 00:02:49,830
+Es werden einfach weniger Junge eingestellt.
+
+102
+00:02:49,880 --> 00:02:51,050
+Die Erfahrenen bleiben.
+
+103
+00:02:51,100 --> 00:02:52,590
+Die Tür nach unten bleibt zu.
+
+104
+00:02:52,640 --> 00:02:53,490
+Einer sagt offen,
+
+105
+00:02:53,540 --> 00:02:54,570
+wohin das führen könnte.
+
+106
+00:02:54,620 --> 00:02:57,710
+Dario Amodei, Chef der KI-Firma Anthropic.
+
+107
+00:02:57,760 --> 00:03:00,350
+Anfang 2025 hat er vorhergesagt,
+
+108
+00:03:00,400 --> 00:03:02,430
+dass KI die Hälfte aller Einstiegsjobs im
+
+109
+00:03:02,480 --> 00:03:04,550
+Büro wegnehmen könnte und die
+
+110
+00:03:04,600 --> 00:03:06,730
+Arbeitslosigkeit auf 10 bis 20 Prozent
+
+111
+00:03:06,780 --> 00:03:07,290
+treiben.
+
+112
+00:03:07,340 --> 00:03:09,920
+Im Interview mit CNN sagte er,
+
+113
+00:03:10,110 --> 00:03:11,885
+Ich mache mir wirklich Sorgen,
+
+114
+00:03:11,935 --> 00:03:12,980
+gerade beim Berufseinstieg,
+
+115
+00:03:13,030 --> 00:03:16,663
+dass die KI-Modelle genau im Zentrum dessen
+
+116
+00:03:16,713 --> 00:03:20,370
+stehen, was ein Berufseinsteiger tun würde.
+
+117
+00:03:20,570 --> 00:03:22,220
+Deshalb ist es schwer abzuschätzen,
+
+118
+00:03:22,270 --> 00:03:24,770
+wie groß die Wirkung genau sein wird.
+
+119
+00:03:24,820 --> 00:03:27,370
+das ist eine Prognose von einem,
+
+120
+00:03:27,420 --> 00:03:28,750
+der genau diese KI verkauft.
+
+121
+00:03:28,800 --> 00:03:29,550
+Kein Messwert.
+
+122
+00:03:29,600 --> 00:03:31,150
+Aber die Jungen haben sie gehört.
+
+123
+00:03:31,200 --> 00:03:33,170
+Fast jeder vierte zwischen 14 und 17
+
+124
+00:03:33,220 --> 00:03:35,330
+sieht seine Berufspläne inzwischen durch KI
+
+125
+00:03:35,380 --> 00:03:36,070
+in Gefahr.
+
+126
+00:03:36,120 --> 00:03:38,230
+Zwei Jahre vorher war es jeder Sechste.
+
+127
+00:03:38,280 --> 00:03:40,110
+Und die, die drin sind?
+
+128
+00:03:40,160 --> 00:03:41,650
+Ich wollte Software bauen,
+
+129
+00:03:41,700 --> 00:03:42,450
+Probleme lösen.
+
+130
+00:03:42,500 --> 00:03:44,270
+Das, wofür ich als Teenager nachts wach
+
+131
+00:03:44,320 --> 00:03:45,410
+geblieben bin.
+
+132
+00:03:45,460 --> 00:03:47,050
+Heute schreibe ich immer öfter nicht mehr
+
+133
+00:03:47,100 --> 00:03:47,570
+selbst.
+
+134
+00:03:47,620 --> 00:03:49,270
+Ich prüfe, was eine Maschine geschrieben
+
+135
+00:03:49,320 --> 00:03:49,730
+hat.
+
+136
+00:03:49,780 --> 00:03:50,830
+Und es fällt mir schwer,
+
+137
+00:03:50,880 --> 00:03:52,810
+mir vorzustellen, wie dieser Beruf in zehn
+
+138
+00:03:52,860 --> 00:03:54,070
+Jahren aussieht.
+
+139
+00:03:54,120 --> 00:03:56,450
+Was bleibt dann von meinem Traumberuf übrig?
+
+140
+00:03:56,500 --> 00:03:57,870
+Wahrscheinlich ist er bis dahin komplett
+
+141
+00:03:57,920 --> 00:03:58,450
+mutiert.
+
+142
+00:03:58,500 --> 00:03:59,290
+Und nicht mehr das,
+
+143
+00:03:59,340 --> 00:04:00,790
+was ich eigentlich lernen wollte.
+
+144
+00:04:00,840 --> 00:04:02,150
+Damit bin ich nicht allein.
+
+145
+00:04:02,200 --> 00:04:04,090
+In der größten Entwicklerumfrage der Welt
+
+146
+00:04:04,140 --> 00:04:06,490
+nutzen 84% KI-Werkzeuge.
+
+147
+00:04:06,540 --> 00:04:08,430
+Aber nur knapp 3 von 10 vertrauen
+
+148
+00:04:08,480 --> 00:04:09,250
+dem Ergebnis.
+
+149
+00:04:09,300 --> 00:04:11,190
+Der häufigste Frust Lösungen,
+
+150
+00:04:11,240 --> 00:04:12,230
+die fast richtig sind,
+
+151
+00:04:12,280 --> 00:04:13,670
+aber eben nur fast.
+
+152
+00:04:13,720 --> 00:04:15,710
+Und dann gibt es dieses Experiment.
+
+153
+00:04:15,760 --> 00:04:18,050
+Erfahrene Entwickler waren mit KI 19%
+
+154
+00:04:18,100 --> 00:04:18,890
+langsamer.
+
+155
+00:04:18,940 --> 00:04:20,730
+Und hinterher waren sie überzeugt,
+
+156
+00:04:20,780 --> 00:04:22,070
+sie seien schneller gewesen.
+
+157
+00:04:22,120 --> 00:04:23,270
+Ein kleines Experiment.
+
+158
+00:04:23,320 --> 00:04:24,990
+Anfang 2025.
+
+159
+00:04:25,040 --> 00:04:27,090
+Die Werkzeuge sind seitdem besser geworden.
+
+160
+00:04:27,140 --> 00:04:28,330
+Aber es zeigt etwas.
+
+161
+00:04:28,380 --> 00:04:29,710
+Das Gefühl, Zeit zu sparen,
+
+162
+00:04:29,760 --> 00:04:31,850
+ist noch keine gesparte Zeit.
+
+163
+00:04:31,900 --> 00:04:32,770
+Kurz zwischendurch.
+
+164
+00:04:32,820 --> 00:04:33,530
+Dieser Kanal will,
+
+165
+00:04:33,580 --> 00:04:35,270
+dass die KI-Zukunft bei allen ankommt.
+
+166
+00:04:35,320 --> 00:04:36,690
+Nicht nur bei ein paar Konzernen.
+
+167
+00:04:36,740 --> 00:04:37,650
+Wenn du das auch willst,
+
+168
+00:04:37,700 --> 00:04:38,710
+abonnier gerne.
+
+169
+00:04:38,760 --> 00:04:40,370
+Denn jetzt kommt die gute Nachricht.
+
+170
+00:04:40,420 --> 00:04:42,250
+Fangen wir mit einer ernüchternden Zahl an.
+
+171
+00:04:42,300 --> 00:04:44,310
+In Dänemark haben Forscher Beschäftigte und
+
+172
+00:04:44,360 --> 00:04:45,730
+Registerdaten verknüpft.
+
+173
+00:04:45,780 --> 00:04:48,450
+Im Schnitt sparten KI-Chatbots dort rund 3%
+
+174
+00:04:48,500 --> 00:04:49,370
+Arbeitszeit.
+
+175
+00:04:49,420 --> 00:04:52,090
+Und davon kamen nur 3-7% als Lohn
+
+176
+00:04:52,140 --> 00:04:53,430
+bei den Leuten an.
+
+177
+00:04:53,480 --> 00:04:55,290
+Am Feierabend hat sich nichts geändert.
+
+178
+00:04:55,340 --> 00:04:56,570
+Die Zeit wird also gespart,
+
+179
+00:04:56,620 --> 00:04:57,970
+aber sie wird sofort mit neuer Arbeit
+
+180
+00:04:58,020 --> 00:04:58,730
+gefüllt.
+
+181
+00:04:58,780 --> 00:05:00,150
+Mehr Tickets, mehr Mails,
+
+182
+00:05:00,200 --> 00:05:01,450
+mehr Meetings.
+
+183
+00:05:01,500 --> 00:05:03,000
+Aber es geht auch anders.
+
+184
+00:05:03,300 --> 00:05:05,610
+2024 haben 45 Betriebe in Deutschland ein
+
+185
+00:05:05,660 --> 00:05:07,690
+halbes Jahr lang weniger gearbeitet.
+
+186
+00:05:07,740 --> 00:05:09,590
+Meistens einen Tag pro Woche.
+
+187
+00:05:09,640 --> 00:05:11,030
+Bei gleichem Lohn.
+
+188
+00:05:11,080 --> 00:05:13,140
+Umsatz und Gewinn blieben stabil.
+
+189
+00:05:13,600 --> 00:05:15,850
+Die Leute waren zufriedener und über 70%
+
+190
+00:05:15,900 --> 00:05:17,590
+der Betriebe wollen weitermachen.
+
+191
+00:05:17,640 --> 00:05:20,170
+In Großbritannien 61 Firmen,
+
+192
+00:05:20,220 --> 00:05:22,290
+56 sind dabei geblieben.
+
+193
+00:05:22,340 --> 00:05:24,230
+Fair ist, das waren Freiwillige.
+
+194
+00:05:24,280 --> 00:05:26,330
+Wer mitmacht, glaubt meistens schon dran.
+
+195
+00:05:26,380 --> 00:05:28,440
+Ein Beweis für alle ist das nicht.
+
+196
+00:05:28,940 --> 00:05:30,630
+Aber es ist mehr als ein Traum.
+
+197
+00:05:30,680 --> 00:05:32,790
+Und in der Metall- und Elektroindustrie gibt
+
+198
+00:05:32,840 --> 00:05:35,220
+es so etwas längst im Tarifvertrag.
+
+199
+00:05:35,340 --> 00:05:36,230
+Wer Kinder hat,
+
+200
+00:05:36,280 --> 00:05:38,550
+Angehörige pflegt oder Schicht arbeitet,
+
+201
+00:05:38,600 --> 00:05:40,670
+kann 8 freie Tage statt Geld wählen.
+
+202
+00:05:40,720 --> 00:05:42,150
+Beim ersten Mal haben das fast eine
+
+203
+00:05:42,200 --> 00:05:43,990
+Viertelmillion Menschen mitgenommen.
+
+204
+00:05:44,040 --> 00:05:44,470
+Stell dir vor,
+
+205
+00:05:44,520 --> 00:05:46,490
+die gesparte Zeit kommt bei dir an.
+
+206
+00:05:46,540 --> 00:05:47,730
+Mehr Zeit für deine Hobbys,
+
+207
+00:05:47,780 --> 00:05:48,630
+für deine Gesundheit,
+
+208
+00:05:48,680 --> 00:05:50,960
+für das, was dich wirklich erfüllt.
+
+209
+00:05:51,440 --> 00:05:52,550
+Nur es liegt nicht daran,
+
+210
+00:05:52,600 --> 00:05:54,290
+dass wir alle mehr arbeiten wollen.
+
+211
+00:05:54,340 --> 00:05:55,850
+Unser System ist um die 40-Stunden-Woche
+
+212
+00:05:55,900 --> 00:05:57,110
+herum aufgebaut.
+
+213
+00:05:57,160 --> 00:05:58,770
+Vollzeit entscheidet über deine Rente,
+
+214
+00:05:58,820 --> 00:06:00,070
+über deine Karriere.
+
+215
+00:06:00,120 --> 00:06:00,870
+Oft sogar darüber,
+
+216
+00:06:00,920 --> 00:06:02,190
+ob du ernst genommen wirst.
+
+217
+00:06:02,240 --> 00:06:04,010
+Und obwohl eine Stunde heute rund die
+
+218
+00:06:04,060 --> 00:06:06,050
+Hälfte mehr schafft als vor 30 Jahren,
+
+219
+00:06:06,100 --> 00:06:08,090
+sind die Löhne pro Stunde etwas langsamer
+
+220
+00:06:08,140 --> 00:06:08,550
+gestiegen.
+
+221
+00:06:08,600 --> 00:06:10,170
+Die politische Richtung zeigt gerade sogar
+
+222
+00:06:10,220 --> 00:06:11,400
+von oben.
+
+223
+00:06:12,030 --> 00:06:16,460
+Wir müssen in diesem Land wieder mehr
+
+224
+00:06:16,510 --> 00:06:20,210
+und vor allem effizienter arbeiten.
+
+225
+00:06:21,090 --> 00:06:22,376
+Ich habe das im letzten Jahr von
+
+226
+00:06:22,426 --> 00:06:23,950
+dieser Stelle aus gesagt und da hat
+
+227
+00:06:24,000 --> 00:06:25,310
+sich nichts geändert.
+
+228
+00:06:27,390 --> 00:06:30,220
+Mit Vier-Tage-Woche und Work-Life-Balance
+
+229
+00:06:30,270 --> 00:06:32,833
+werden wir den Wohlstand unseres Landes
+
+230
+00:06:32,883 --> 00:06:34,690
+nicht erhalten können.
+
+231
+00:06:35,400 --> 00:06:37,930
+Und das ist keine Einzelmeinung.
+
+232
+00:06:37,980 --> 00:06:40,050
+Das Institut der deutschen Wirtschaft sagt,
+
+233
+00:06:40,100 --> 00:06:41,530
+wir müssten eher überlegen,
+
+234
+00:06:41,580 --> 00:06:43,010
+wie wir den Einzelnen dazu bringen,
+
+235
+00:06:43,060 --> 00:06:43,850
+mehr zu arbeiten.
+
+236
+00:06:43,900 --> 00:06:45,590
+Und das weniger Arbeit automatisch
+
+237
+00:06:45,640 --> 00:06:47,610
+produktiver macht, dafür gäbe es keinen
+
+238
+00:06:47,660 --> 00:06:48,390
+Beleg.
+
+239
+00:06:48,440 --> 00:06:49,530
+Das Argument ist ernst.
+
+240
+00:06:49,580 --> 00:06:51,330
+Die Babyboomer gehen in Rente und es
+
+241
+00:06:51,380 --> 00:06:52,730
+kommen weniger Junge nach.
+
+242
+00:06:52,780 --> 00:06:54,790
+Ohne mehr Stunden oder mehr Produktivität
+
+243
+00:06:54,840 --> 00:06:55,790
+sinkt die Arbeit,
+
+244
+00:06:55,840 --> 00:06:57,430
+die das Land insgesamt leistet.
+
+245
+00:06:57,480 --> 00:06:58,890
+Und jetzt halt die beiden Bilder
+
+246
+00:06:58,940 --> 00:06:59,830
+nebeneinander.
+
+247
+00:06:59,880 --> 00:07:01,430
+Oben fehlen uns bald Leute.
+
+248
+00:07:01,480 --> 00:07:03,490
+Unten an der Tür werden Junge nicht
+
+249
+00:07:03,540 --> 00:07:04,190
+mehr reingelassen.
+
+250
+00:07:04,240 --> 00:07:05,230
+Das ist kein Widerspruch,
+
+251
+00:07:05,280 --> 00:07:06,930
+das sind zwei Probleme gleichzeitig.
+
+252
+00:07:06,980 --> 00:07:09,210
+Und beide drehen sich um dieselbe Frage.
+
+253
+00:07:09,260 --> 00:07:10,070
+Wer bekommt die Zeit,
+
+254
+00:07:10,120 --> 00:07:11,350
+die die Maschinen sparen?
+
+255
+00:07:11,400 --> 00:07:12,850
+Wird sie zu neuer Arbeit für die,
+
+256
+00:07:12,900 --> 00:07:14,010
+die drin sind?
+
+257
+00:07:14,060 --> 00:07:15,230
+Zu weniger Stellen für die,
+
+258
+00:07:15,280 --> 00:07:16,510
+die rein wollen?
+
+259
+00:07:16,560 --> 00:07:18,610
+Oder zu Feierabend für alle?
+
+260
+00:07:18,660 --> 00:07:19,870
+Das entscheidet keine KI,
+
+261
+00:07:19,920 --> 00:07:21,450
+das entscheiden wir.
+
+262
+00:07:21,500 --> 00:07:23,190
+Was kannst du also tun?
+
+263
+00:07:23,240 --> 00:07:23,630
+1.
+
+264
+00:07:23,680 --> 00:07:24,610
+Wenn du Leute einstellst,
+
+265
+00:07:24,660 --> 00:07:25,750
+stell die Jungen trotzdem ein.
+
+266
+00:07:25,800 --> 00:07:28,390
+Der Stanford-Ökonom Eric Brynjolfsson bringt
+
+267
+00:07:28,440 --> 00:07:29,390
+es auf einen Satz.
+
+268
+00:07:29,440 --> 00:07:30,790
+Wer keine Juniors einstellt,
+
+269
+00:07:30,840 --> 00:07:32,390
+wird auch keine Seniors haben.
+
+270
+00:07:32,440 --> 00:07:32,930
+2.
+
+271
+00:07:32,980 --> 00:07:34,610
+Verhandle Zeit, nicht nur Geld.
+
+272
+00:07:34,660 --> 00:07:36,470
+Wenn KI in deinem Team Stunden spart,
+
+273
+00:07:36,520 --> 00:07:38,310
+frag, wohin diese Zeit geht.
+
+274
+00:07:38,360 --> 00:07:40,230
+Das Beispiel aus der Metallindustrie zeigt,
+
+275
+00:07:40,280 --> 00:07:40,930
+dass das geht.
+
+276
+00:07:40,980 --> 00:07:42,210
+3.
+
+277
+00:07:42,260 --> 00:07:43,130
+Miss deine KI-Zeit,
+
+278
+00:07:43,180 --> 00:07:44,210
+statt sie zu fühlen.
+
+279
+00:07:44,260 --> 00:07:45,470
+Schreib eine Woche lang auf,
+
+280
+00:07:45,520 --> 00:07:46,970
+was wirklich schneller geht und was nur
+
+281
+00:07:47,020 --> 00:07:47,610
+so wirkt.
+
+282
+00:07:47,660 --> 00:07:48,830
+Damit hast du in jedem Gespräch eine
+
+283
+00:07:48,880 --> 00:07:50,570
+Zahl statt einem Gefühl.
+
+284
+00:07:50,620 --> 00:07:51,310
+4.
+
+285
+00:07:51,360 --> 00:07:52,450
+Wenn du gerade einsteigst,
+
+286
+00:07:52,500 --> 00:07:53,770
+schau auch auf die Ausbildung.
+
+287
+00:07:53,820 --> 00:07:55,210
+Dort gibt es heute die Hälfte mehr
+
+288
+00:07:55,260 --> 00:07:56,910
+Stellen als vor der Pandemie.
+
+289
+00:07:56,960 --> 00:07:58,610
+Und sie sind aktuell viel seltener von
+
+290
+00:07:58,660 --> 00:07:59,750
+KI betroffen.
+
+291
+00:07:59,800 --> 00:08:00,990
+Denk noch einmal an das Haus mit
+
+292
+00:08:01,040 --> 00:08:02,130
+den 40 Fenstern.
+
+293
+00:08:02,180 --> 00:08:04,290
+Keynes hatte 1930 gesagt,
+
+294
+00:08:04,340 --> 00:08:06,610
+in 100 Jahren reichen 15.
+
+295
+00:08:06,660 --> 00:08:08,450
+Seine Frist läuft in 4 Jahren ab.
+
+296
+00:08:08,500 --> 00:08:10,770
+Die Technik dafür ist näher als zuvor.
+
+297
+00:08:10,820 --> 00:08:12,170
+Was fehlt, ist die Entscheidung,
+
+298
+00:08:12,220 --> 00:08:13,890
+wem die gesparte Zeit gehört.
+
+299
+00:08:13,940 --> 00:08:14,350
+Ich weiß nicht,
+
+300
+00:08:14,400 --> 00:08:15,910
+wie mein Beruf in 10 Jahren aussieht,
+
+301
+00:08:15,960 --> 00:08:16,850
+aber ich weiß,
+
+302
+00:08:16,900 --> 00:08:17,990
+dass das nicht allein die Maschinen
+
+303
+00:08:18,040 --> 00:08:19,180
+entscheiden.
+
+304
+00:08:20,080 --> 00:08:21,050
+Schreib mir in die Kommentare,
+
+305
+00:08:21,100 --> 00:08:22,430
+wenn KI dir einen Tag pro Woche
+
+306
+00:08:22,480 --> 00:08:24,810
+schenken würde, was würdest du damit machen?
+
+307
+00:08:24,860 --> 00:08:25,410
+Und wenn du willst,
+
+308
+00:08:25,460 --> 00:08:27,110
+dass die KI-Zukunft bei allen ankommt,
+
+309
+00:08:27,160 --> 00:08:27,890
+abonniere.
+
+310
+00:08:27,940 --> 00:08:29,730
+Dafür gibt es diesen Kanal.
+
+311
+00:08:29,780 --> 00:08:30,550
+Hoffnungslos?
+
+312
+00:08:30,600 --> 00:08:31,470
+Nein.
+
+313
+00:08:31,520 --> 00:08:33,120
+Noch nicht entschieden.

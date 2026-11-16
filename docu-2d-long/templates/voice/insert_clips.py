@@ -65,6 +65,27 @@ def phrase_end(words, phrase):
     return words[hits[0] + len(p) - 1]["end"]
 
 
+def cut_point(voice, words, phrase):
+    """Cut time after `phrase`: the quietest 40 ms between its last word and the next word (Whisper word ends are
+    fuzzy, a fixed offset can land inside the next word). Refuses phrases with no audible pause after them."""
+    end = phrase_end(words, phrase)
+    # Whisper often lets the next word "start" right at `end` although it is spoken after the pause: search up to
+    # the next word's END
+    nxt = min([w["end"] for w in words if w["start"] > end - 0.01] + [len(voice) / SR])
+    lo, hi = end - 0.05, max(end + 0.15, min(nxt, end + 1.2))
+    win = int(0.04 * SR)
+    best, bt = 1e9, end + 0.12
+    for t in np.arange(lo, hi, 0.01):
+        seg = voice[int(t * SR) - win // 2:int(t * SR) + win // 2]
+        e = float(np.sqrt(np.mean(seg ** 2))) if len(seg) else 1e9
+        if e < best:
+            best, bt = e, float(t)
+    db = 20 * np.log10(best + 1e-9)
+    if db > -45:
+        raise SystemExit(f"no pause after {phrase!r} (quietest {db:.0f} dB at {bt:.2f}s) - pick a phrase that ends a sentence")
+    return bt
+
+
 def read_mono(path, start=None, end=None):
     tmp = Path(str(path) + ".tmp.wav")
     args = []
@@ -86,11 +107,12 @@ def main():
     pub = Path(cfg["public_dir"])
     pub.mkdir(parents=True, exist_ok=True)
 
-    clips = sorted(cfg["clips"], key=lambda c: phrase_end(words, c["after"]))
+    cuts = {c["id"]: cut_point(voice, words, c["after"]) for c in cfg["clips"]}
+    clips = sorted(cfg["clips"], key=lambda c: cuts[c["id"]])
     segs, clip_aud, infos, cap_words, src_lines = [], [], [], [], []
     cursor, shift = 0.0, 0.0  # cursor in original voice time, shift = total inserted so far
     for c in clips:
-        t = phrase_end(words, c["after"]) + 0.12  # a hair after the last word's end
+        t = cuts[c["id"]]  # quietest point after the phrase
         dur = c["out"] - c["in"]
         if not 2 <= dur <= 40:
             raise SystemExit(f"{c['id']}: clip length {dur:.1f}s - keep quotes 2-40 s")
@@ -136,10 +158,11 @@ def main():
     acc = 0.0
     for c in clips:
         acc += GAP_S + (c["out"] - c["in"]) + GAP_S
-        ins.append((phrase_end(words, c["after"]) + 0.12, acc))
+        ins.append((cuts[c["id"]], acc))
     tw = []
     for w in words:
-        sh = max([s for (t, s) in ins if w["start"] >= t], default=0.0)
+        mid = (w["start"] + w["end"]) / 2  # by midpoint: Whisper starts can sit before the pause
+        sh = max([s for (t, s) in ins if mid >= t], default=0.0)
         tw.append({**w, "start": round(w["start"] + sh, 3), "end": round(w["end"] + sh, 3)})
     tw = sorted(tw + cap_words, key=lambda w: w["start"])
     (out / "words.json").write_text(json.dumps(tw, ensure_ascii=False, indent=0), encoding="utf-8")

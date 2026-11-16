@@ -69,7 +69,8 @@ ihre Skripte, ihre Leitmotive (Tacho, Preisticket, Dominoreihe), ihre gelbe Rege
 ## Kamera und Schnitt (gemessen: Bilddifferenz bei 10 fps)
 - Anteil fast stiller Bilder 3-58 %; die Kamera kriecht fast immer (Push-in ~0,02 %/f).
   **Bei uns nicht übernehmen:** Subpixel-Kriechen/Zoom-Atmen lässt Text zittern (ClearType, siehe SKILL.md Gotchas).
-  Wir atmen nur in x/y, auf ganze Pixel gerastet, und holen die Lebendigkeit aus Parallax und Lichtwechseln.
+  Halte stehen bei uns still (auch gerastetes x/y-Atmen wackelt sichtbar, L02); Lebendigkeit kommt aus Fahrten,
+  Parallax während der Fahrten, Lichtwechseln und Figuren.
 - Bewegungen sind langsame Fahrten (Kran, Schwenk, Zoom) über **30-60 f** mit Smootherstep; Beispiel: Kran von der
   Lampe hinunter zum Leitmotiv in ~45 f.
 - Übergänge: Kamerafahrt durch dieselbe Welt (bevorzugt), Überblendung 10-15 f, Lichtwechsel. Harte Schnitte selten.

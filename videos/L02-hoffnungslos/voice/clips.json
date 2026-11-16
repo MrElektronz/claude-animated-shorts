@@ -1,11 +1,11 @@
 {
-  "voice": "voice/aufnahme_l02.wav",
+  "voice": "voice/hoffnungslos.wav",
   "public_dir": "B:/Projects/Youtube/shorts-studio/public/clips/l02",
   "public_prefix": "clips/l02",
   "clips": [
     {
       "id": "amodei",
-      "after": "Im Interview mit CNN sagt er",
+      "after": "Im Interview mit CNN sagte er",
       "src": "B:/Projects/Youtube/clips-raw/L02/zju51INmW7U.mp4",
       "in": 76.2,
       "out": 90.9,
@@ -23,7 +23,7 @@
     },
     {
       "id": "merz",
-      "after": "Die politische Richtung zeigt gerade sogar nach oben",
+      "after": "Die politische Richtung zeigt gerade sogar von oben",
       "src": "B:/Projects/Youtube/clips-raw/L02/_fd-Jq3ObkQ.mp4",
       "in": 872.2,
       "out": 896.0,

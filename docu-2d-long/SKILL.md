@@ -98,7 +98,10 @@ Studio `B:/Projects/Youtube/shorts-studio`.
      5. *Zahl/Label* sitzt an oder in einem Objekt (auf dem leuchtenden Schild, an der Hauswand, am Pegel), nie frei
         auf leerem Navy. Reine Text-Bilder („Folie“) sind verboten.
      6. *Bewegung im Halt:* Fenster gehen an (`Building lit`), Sterne funkeln, Linie zeichnet sich, Parallax – nicht Zoom.
-   - Kamera-Keys mit `camAt(..., 0)` + Sinus-Atmen **nur in x/y** (±10/±5 px), Zoom ändert sich nur in Fahrten.
+   - Kamera-Keys mit `camAt(..., 0)`, **Halte sind völlig still** (kein Atmen: Nutzer-Feedback L02, das gerastete
+     Atmen ließ das ganze Bild in 1-px-Schritten wackeln). Bewegung nur über Fahrten (30-70 f) und animierte Elemente.
+   - **Eröffnung:** in den ersten 2-3 s eine Fahrt, die am Ort ankommt (z. B. Blick in den Sternenhimmel → Schwenk
+     aufs Haus, Fenster gehen dabei an); in den ersten 15 s alle 3-5 s ein neuer Bild-Beat (Push-in, Figur läuft, Licht).
      Fahrten 30-60 f. Harte Schnitte nur bei Ort-/Zeitsprung. `Stage` rastet die Kamera auf ganze Pixel (siehe Gotchas).
    - Originalaufnahmen: `FootageQuote` mit den Einträgen aus `voice/timeline/clips.json` ins **Overlay** (nicht in die
      Welt); die Welt läuft gedimmt dahinter weiter.
@@ -157,7 +160,7 @@ Studio `B:/Projects/Youtube/shorts-studio`.
 - Remotion schreibt eine stumme Tonspur: beim Muxen `-map 0:v:0 -map 1:a:0` (render-chunks.sh macht das).
 - Untertitel-Chunks und `untertitel.srt` nutzen dieselbe Regel (≤ 7 Wörter / ≤ 44 Zeichen, Umbruch nach Satzzeichen).
 - Text in der Kamera-Welt wird mitskaliert. Lesbare Mindestgröße bei Zoom 1: Labels 22 px, Quellen 15 px.
-- 10-Minuten-Kamera: `camAt(..., creep=0)` und stattdessen sanftes Sinus-Atmen – ein linearer Creep zoomt über
+- 10-Minuten-Kamera: `camAt(..., creep=0)` und kein Atmen – ein linearer Creep zoomt über
   18.000 Frames sonst auf das Fünffache.
 - **Text zittert bei langsamer Kamera** (L01, ab 7:05 oben links): Windows rendert Text mit ClearType; bei
   Subpixel-Verschiebung/-Zoom wird jede Glyphe pro Frame anders gerastert → Buchstaben springen ±1-2 px.
@@ -166,6 +169,15 @@ Studio `B:/Projects/Youtube/shorts-studio`.
   Wirkungslos/schlechter (getestet): `will-change`, `opacity: 0.999`, `text-rendering`, Mini-Rotation,
   chrome-headless-shell. Text nie in `Parallax` legen (bewegt sich subpixelig). Lebendigkeit im Halt über Parallax,
   Fensterlichter, Funkeln. Langsame Zoom-Fahrten mit Text im Bild vermeiden; schnelle Fahrten (30-60 f) sind ok.
+- **Clip-Lücke nur hinter einer hörbaren Pause** (L02): `insert_clips.py` schneidet an der leisesten Stelle zwischen
+  Phrasenende und Ende des Folgeworts und bricht ab, wenn dort keine Pause ist (-45 dB). Whisper lässt das Folgewort oft
+  direkt am Phrasenende „beginnen“; Wörter werden deshalb nach ihrer Mitte verschoben. `after` = Satzende wählen
+  („…sogar von oben.“), nie mitten im Satz.
+- **Szenen-Slots beschneiden** (L02): Die fernen `Parallax`-Ebenen (Tiefe 0,85) wandern fast mit der Kamera und schieben
+  sich sonst über die Nachbarszene (leere Himmelsflächen im Bild). Jede Szene in einem `overflow: hidden`-Slot von
+  2.600 px rendern (`left: SCENE_X - 340`); Kamera-x in Halten so wählen, dass der Bildrand im Slot bleibt
+  (bei Zoom 1: x ≤ 1.300 lokal). Vorlage `templates/remotion/videos/l02/`.
+- Unbeleuchtete `Emissive` sind dunkle Flächen, keine unsichtbaren: vor ihrem Auftritt in ein `opacity`-div packen.
 - `OffthreadVideo` zählt ab seiner `Sequence`; `FootageQuote` setzt die Sequence selbst (Clip-Datei hat 0,5 s Vorlauf).
   Clips liegen in `public/` und werden pro Chunk mitgebündelt – geschnitten und kurz halten.
 - `npx remotion still` bündelt jedes Mal neu: für viele Prüfbilder `scripts/bridge-stills.mjs` (COMP=<Id>) nutzen,
