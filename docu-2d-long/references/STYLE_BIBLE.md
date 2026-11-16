@@ -92,6 +92,14 @@ ihre Skripte, ihre Leitmotive (Tacho, Preisticket, Dominoreihe), ihre gelbe Rege
 - Was in der Referenz warm ist: das **Fokus-Objekt selbst leuchtet** (Tachoscheibe golden angestrahlt, Gebäude/
   Preisschilder von innen hell, Karten creme-glühend), dazu Lampenkegel + Lichtpfütze, Fenster, Goldlinien am Boden.
   Das Objekt, über das gerade gesprochen wird, ist das hellste im Bild; alles andere bleibt dunkel-navy.
+- **Ausnahme: bewusst kalte Szenen** (Nutzer, 2026-11-16). Fast nur Blau darf ein Stilmittel sein, wenn es eine
+  Stimmung trägt: Verlust, Bedrohung, Leere, Einsamkeit, „das Licht geht aus“. Regeln, damit es gewollt wirkt:
+  - Im Skript markiert (`**Bild:** KALT – <warum>`), im Bildplan als `COLD`-Bereich in story.ts.
+  - Der Wechsel ist sichtbar inszeniert: das warme Licht **geht aus** (dimmt über 20-40 f), statt einfach zu fehlen.
+  - Kühler werden, nicht nur dunkler: Cyan/Grau-Töne, weniger Sterne, Nebel; die Du-Figur darf entsättigt werden.
+    Ein winziger warmer Rest (ein Fenster, die Du-Figur) kann die Einsamkeit noch verstärken.
+  - Kurz: einzelne Szenen 5-30 s, zusammen höchstens ~15 % der Laufzeit. Danach kommt das Licht als Wendung zurück.
+  - `warm_qa.py ... --cold 8:09-8:40` nimmt diese Bereiche aus der Wertung und meldet ihren Anteil.
 - Bei uns: `Emissive` (leuchtende Karte/Schild/Paneel mit Bloom + Lichtpfütze) für Zahlen und Kernbegriffe,
   `Building lit` für „breitet sich aus“, `Spot`/`Lamp` auf die Du-Figur, `Beam` für Schwellen/Marken.
 - Blau auf Blau wirkt flach. Pro Schlüsselbild **eine heiße Gold/Orange-Lichtquelle** (`Beam`, `HorizonGlow` in

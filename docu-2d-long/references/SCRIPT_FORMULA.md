@@ -64,7 +64,8 @@ Eigene Formulierung, nicht die der Referenz. Mitte-CTA und End-CTA verwenden die
 - [ ] Mindestens eine faire Gegenstimme mit echtem Zitat (wörtlich, übersetzt markiert) – wenn möglich als
       Originalaufnahme `[CLIP id: „…“ – 12 s]` (5-25 s, Quelle mit Zeitmarke in SOURCES.md), sonst Zitatkarte.
 - [ ] Jeder Absatz hat eine **Bild:**-Zeile: Ort (nicht „Text auf Navy“), das eine leuchtende Fokus-Objekt, was sich
-      verändert. Kein Absatz ohne warmes Licht.
+      verändert. Kein Absatz ohne warmes Licht – außer bewusst `KALT – <warum>` (negative Stimmung, kurz, ≤ ~15 %
+      der Laufzeit, danach kommt das Licht als Wendung zurück).
 - [ ] Mitte-CTA bei 45-55 % der Laufzeit, End-CTA in den letzten 30 s.
 - [ ] Nummerierte Liste konkreter Hebel im letzten Drittel.
 - [ ] Letzter Satz greift Titel/These auf.

@@ -20,6 +20,7 @@ Formel `docu-2d-long/references/SCRIPT_FORMULA.md`, Format: <Frage-Doku | Tag in
 Kapitel-Fragen sind zugleich Kapitel-Tags im Bild und YouTube-Kapitel.
 
 Unter jeden Absatz eine Zeile **Bild:** <Ort · leuchtendes Fokus-Objekt · was sich ändert>.
+Gewollt kalte Stelle (Verlust, Bedrohung, Leere): **Bild:** KALT – <warum> · <wie das Licht ausgeht>.
 Clips als eigene Zeile direkt nach dem ankündigenden Satz: `[CLIP <id>: „wörtliches Zitat“ – <s> s]`
 (beim Einsprechen einfach weiterlesen, die Lücke wird später eingesetzt).
 

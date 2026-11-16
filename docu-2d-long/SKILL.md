@@ -92,6 +92,8 @@ Studio `B:/Projects/Youtube/shorts-studio`.
      3. *Fokus-Licht:* **genau ein** warm leuchtendes Objekt (`Emissive` / `Beam` / `HorizonGlow` / `Spot`) – das, worüber
         gerade gesprochen wird. Es ist die Lichtquelle der Einstellung (Bloom, Lichtpfütze, Goldkanten zeigen zu ihm).
         Wechselt das Thema, wechselt das Licht (altes Objekt dimmt, neues leuchtet auf).
+        Ausnahme **KALT**: bei negativer Stimmung (Verlust, Bedrohung, Leere) geht das Licht bewusst aus – im Skript
+        markiert, als `COLD`-Bereich in story.ts, kurz und selten (Regeln in STYLE_BIBLE „Kontrast-Regel“).
      4. *Du-Figur* im Bild (auch klein), mit warmem Lichthof.
      5. *Zahl/Label* sitzt an oder in einem Objekt (auf dem leuchtenden Schild, an der Hauswand, am Pegel), nie frei
         auf leerem Navy. Reine Text-Bilder („Folie“) sind verboten.
@@ -133,7 +135,8 @@ Studio `B:/Projects/Youtube/shorts-studio`.
     (frischer Browser pro Chunk; ein 10-min-Video hat ~18.000 Frames). Danach QA: `python scripts/short_qa.py`
     funktioniert auch für 16:9, aber **„frozen“-Funde ignorieren, wo die Kamera bewusst kriecht**; schwarze/weiße/
     Pop-Frames und Lautheit sind echte Fehler. Lautheit mit `ffmpeg -af ebur128` gegenprüfen.
-    `warm_qa.py out/<name>/video.mp4 3` listet Strecken > 10 s ohne warmes Licht – vor der Abgabe beheben.
+    `warm_qa.py out/<name>/video.mp4 3 --cold <COLD-Bereiche aus story.ts als m:ss-m:ss,...>` listet Strecken > 10 s
+    ohne warmes Licht außerhalb der gewollt kalten Szenen – vor der Abgabe beheben.
 11. **Upload-Paket** (`videos/<nn-name>/upload/`):
     - `python templates/tools/youtube_meta.py voice/words.json CHAPTERS.json upload` → `untertitel.srt`, `kapitel.txt`.
     - Thumbnail als Still (`Thumb`), 1920×1080 → JPG < 2 MB. 2-4 Wörter, ein glühendes Gold-Objekt, winzige Du-Figur.
