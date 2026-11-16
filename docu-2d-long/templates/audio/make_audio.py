@@ -18,8 +18,10 @@ HERE = Path(__file__).resolve().parent
 VID = HERE.parent
 SR = 48000
 FPS = 30
-VOICE_SRC = VID / "voice" / "wie_schnell_ki_unsere_jobs_einholt.wav"
-WORDS = json.loads((VID / "voice" / "words.json").read_text(encoding="utf-8"))
+TL = VID / "voice" / "timeline"  # exists when insert_clips.py placed original-footage quotes
+VOICE_SRC = TL / "voice.wav" if TL.exists() else VID / "voice" / "wie_schnell_ki_unsere_jobs_einholt.wav"
+CLIPS_SRC = TL / "clips_audio.wav" if TL.exists() else None  # already levelled to -16 LUFS per clip
+WORDS = json.loads(((TL if TL.exists() else VID / "voice") / "words.json").read_text(encoding="utf-8"))
 DUR = int(np.ceil((638.11 + 3) * FPS)) / FPS  # = L01_FRAMES / 30
 N = int(round(DUR * SR))
 rng = np.random.default_rng(7)
@@ -233,11 +235,19 @@ def main():
     vv[: min(N, len(v))] = v[:N]
     sf.write(HERE / "stems" / "voice.wav", vv, SR, subtype="PCM_24")
     vtmp.unlink()
+    # original-footage audio (no compression/EQ: leave the source as it is), same length as the voice stem
+    cc = np.zeros(N)
+    if CLIPS_SRC is not None:
+        c, csr = sf.read(CLIPS_SRC)
+        assert csr == SR
+        cc[: min(N, len(c))] = c[:N]
+        sf.write(HERE / "stems" / "clips.wav", cc, SR, subtype="PCM_24")
 
-    # ducking envelope from the voice (speech -> music down)
+    # ducking envelope from voice + clips (speech -> music down)
     f = SR // 100
     nfr = N // f
-    r = 20 * np.log10(np.sqrt((vv[: nfr * f].reshape(nfr, f) ** 2).mean(1)) + 1e-9)
+    sp = vv + cc
+    r = 20 * np.log10(np.sqrt((sp[: nfr * f].reshape(nfr, f) ** 2).mean(1)) + 1e-9)
     speech = (r > -45).astype(float)
     # hold 0.5 s so short gaps between words stay ducked
     k = 50
@@ -260,7 +270,7 @@ def main():
     sf.write(HERE / "stems" / "music.wav", m, SR, subtype="PCM_24")
     sf.write(HERE / "stems" / "sfx.wav", s, SR, subtype="PCM_24")
 
-    mix = vv[:, None] * np.array([[1.0, 1.0]]) + m + s
+    mix = (vv + cc)[:, None] * np.array([[1.0, 1.0]]) + m + s
     pre = HERE / "stems" / "_mix.wav"
     sf.write(pre, mix, SR, subtype="FLOAT")
     # two-pass loudnorm to -14 LUFS / -1.5 dBTP, then exact length

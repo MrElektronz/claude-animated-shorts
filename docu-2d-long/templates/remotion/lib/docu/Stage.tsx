@@ -2,6 +2,7 @@ import React from "react";
 import { AbsoluteFill, useCurrentFrame } from "remotion";
 import { C, W, H } from "./theme";
 import { keys } from "./anim";
+import { CamContext } from "./Setpieces";
 
 export type Cam = { x: number; y: number; zoom: number; rot?: number };
 export type CamKey = { f: number; x: number; y: number; zoom: number; rot?: number };
@@ -28,7 +29,14 @@ export const Stage: React.FC<{
   grain?: number;
 }> = ({ cam, world, overlay, glow, grain = 0.07 }) => {
   const f = useCurrentFrame();
-  const t = `translate(${W / 2}px, ${H / 2}px) rotate(${cam.rot ?? 0}deg) scale(${cam.zoom}) translate(${-cam.x}px, ${-cam.y}px)`;
+  // Pixel-snapped camera: Windows renders text with ClearType, so a world shifted by fractional pixels re-rasterises
+  // every glyph differently each frame -> letters shimmer/jump during slow drifts. Snapping the world origin to whole
+  // DEVICE pixels (dpr = --scale) makes a slow drift a clean 1-px shift of the whole image. Keep zoom constant in holds.
+  const dpr = typeof window !== "undefined" ? window.devicePixelRatio || 1 : 1;
+  const snap = (v: number) => Math.round(v * dpr) / dpr;
+  const t = cam.rot
+    ? `translate(${W / 2}px, ${H / 2}px) rotate(${cam.rot}deg) scale(${cam.zoom}) translate(${-cam.x}px, ${-cam.y}px)`
+    : `translate(${snap(W / 2 - cam.zoom * cam.x)}px, ${snap(H / 2 - cam.zoom * cam.y)}px) scale(${cam.zoom})`;
   return (
     <AbsoluteFill style={{ background: `linear-gradient(180deg, ${C.bgDeep} 0%, ${C.bg} 55%, ${C.bgDeep} 100%)`, overflow: "hidden" }}>
       <div style={{ position: "absolute", left: 0, top: 0, width: W, height: H, transform: t, transformOrigin: "0 0" }}>
@@ -45,7 +53,7 @@ export const Stage: React.FC<{
             }}
           />
         )}
-        {world}
+        <CamContext.Provider value={cam}>{world}</CamContext.Provider>
       </div>
       <Grain f={f} amount={grain} />
       <Vignette />

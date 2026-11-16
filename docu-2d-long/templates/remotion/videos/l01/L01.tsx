@@ -737,7 +737,7 @@ export const L01: React.FC = () => {
   // creep 0: a 10-minute video would otherwise zoom in 5x; the moves keep it alive instead
   const cam = camAt(f, CAM_KEYS, 0);
   // slow continuous breathing instead of a linear creep (a 10-minute linear creep would zoom 5x)
-  const camC = { ...cam, x: cam.x + 10 * Math.sin(f / 310), y: cam.y + 5 * Math.sin(f / 270), zoom: cam.zoom * (1 + 0.012 * Math.sin(f / 240)) };
+  const camC = { ...cam, x: cam.x + 10 * Math.sin(f / 310), y: cam.y + 5 * Math.sin(f / 270), zoom: cam.zoom }; // no zoom breathing: text shimmers
   const world = (
     <>
       <Room horizon={FLOOR} x0={-1500} x1={SCENE_X("end") + 3500} />

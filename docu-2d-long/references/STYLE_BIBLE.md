@@ -15,14 +15,15 @@ ihre Skripte, ihre Leitmotive (Tacho, Preisticket, Dominoreihe), ihre gelbe Rege
 | Stimme startet | 0,8-1,1 s | 1,0 s (Musik/Atmo davor) |
 | Harte Schnitte | 0-2 pro Video | 0-3, nur bei Ort-/Zeitsprung |
 | Untertitel | eingebrannt | eingebrannt (Nutzer-Entscheidung) + .srt für YouTube |
-| Fremd-Footage | 3-6 Interviewclips | **keine**: Zitatkarten (Nutzer-Entscheidung) |
+| Fremd-Footage | 3-6 Interviewclips | **1-3 Originalaufnahmen** (`FootageQuote`, 5-25 s, Quelle im Bild + Beschreibung); sonst Zitatkarte |
 
 ## Farbe (k-means über 1 Bild/s, 6 Videos)
 - Luma: Mittel 0,14-0,23, **Median 0,08-0,19**, p5 0,04-0,07, p99 0,77-0,93 → dunkles Bild, wenige helle Akzente.
 - Sättigung Median 0,70-0,87 (sattes Blau, kein Grau).
 - **70-85 % jedes Bildes sind Navy**: `#050e2c` `#081437` `#0a1942` `#0c1d49` `#13265a` `#1b2c58` `#263050`.
-- **Ein warmer Akzent, 3-10 %**: creme `#ece0b7` / `#e1d5af`, gold `#b19d79`, messing `#7a6e60`. Er markiert immer das,
-  worauf der Blick soll (Hauptobjekt, Zahl, Zitatkarte, Lichtkegel).
+- **Ein warmer Akzent, 3-10 %** (bei uns 4-15 %, siehe Kontrast-Regel): creme `#ece0b7` / `#e1d5af`, gold `#b19d79`,
+  messing `#7a6e60`; bei uns heißer: `GOLD_HOT #ffcf6e`, `ORANGE_HOT #ff9a3c`. Er markiert immer das, worauf der Blick
+  soll (Hauptobjekt, Zahl, Zitatkarte, Lichtkegel).
 - **Zweiter Akzent, sparsam**: kühles Cyan-Glühen `#7fd0ff` für „Technik/KI/das Neue“ (Kurven, Linien).
 - Graustufen-Mitteltöne `#444b62` `#69717f` `#81848c` für ferne Objekte und Nebenfiguren.
 - Unsere Tokens: `templates/remotion/lib/docu/theme.ts` (`C`).
@@ -67,6 +68,8 @@ ihre Skripte, ihre Leitmotive (Tacho, Preisticket, Dominoreihe), ihre gelbe Rege
 
 ## Kamera und Schnitt (gemessen: Bilddifferenz bei 10 fps)
 - Anteil fast stiller Bilder 3-58 %; die Kamera kriecht fast immer (Push-in ~0,02 %/f).
+  **Bei uns nicht übernehmen:** Subpixel-Kriechen/Zoom-Atmen lässt Text zittern (ClearType, siehe SKILL.md Gotchas).
+  Wir atmen nur in x/y, auf ganze Pixel gerastet, und holen die Lebendigkeit aus Parallax und Lichtwechseln.
 - Bewegungen sind langsame Fahrten (Kran, Schwenk, Zoom) über **30-60 f** mit Smootherstep; Beispiel: Kran von der
   Lampe hinunter zum Leitmotiv in ~45 f.
 - Übergänge: Kamerafahrt durch dieselbe Welt (bevorzugt), Überblendung 10-15 f, Lichtwechsel. Harte Schnitte selten.
@@ -83,6 +86,14 @@ ihre Skripte, ihre Leitmotive (Tacho, Preisticket, Dominoreihe), ihre gelbe Rege
   tiefer Impuls beim Aufleuchten des Leitmotivs.
 
 ## Kontrast-Regel (Nutzer-Feedback 2026-11-16, gilt für Thumbnails UND Videos)
+- Gemessen (1 Bild / 6 s, `templates/analysis/warm_qa.py`): warm leuchtende Pixel im Median **Referenz 2,4-8,9 %**,
+  43-72 % der Bilder ≥ 3 % warm, helle Pixel 4,4-6,8 %. **L01: 0,2 %, 13 %, 1,5 %** → „zu blau, nichts für das Auge“.
+  Ziel: Median ≥ 4 %, ≥ 60 % der Bilder ≥ 3 % warm, hell ≥ 3 %; keine Strecke > 10 s unter 1 % warm.
+- Was in der Referenz warm ist: das **Fokus-Objekt selbst leuchtet** (Tachoscheibe golden angestrahlt, Gebäude/
+  Preisschilder von innen hell, Karten creme-glühend), dazu Lampenkegel + Lichtpfütze, Fenster, Goldlinien am Boden.
+  Das Objekt, über das gerade gesprochen wird, ist das hellste im Bild; alles andere bleibt dunkel-navy.
+- Bei uns: `Emissive` (leuchtende Karte/Schild/Paneel mit Bloom + Lichtpfütze) für Zahlen und Kernbegriffe,
+  `Building lit` für „breitet sich aus“, `Spot`/`Lamp` auf die Du-Figur, `Beam` für Schwellen/Marken.
 - Blau auf Blau wirkt flach. Pro Schlüsselbild **eine heiße Gold/Orange-Lichtquelle** (`Beam`, `HorizonGlow` in
   `lib/docu/Scenery.tsx`, Farben `GOLD_HOT #ffcf6e` / `ORANGE_HOT #ff9a3c`), deutlich heller und größer als bisher.
 - Hintergründe nicht leer: Sternenhimmel mit Verlauf zum hellen Horizont (`NightSky`), 2-3 Bergketten mit Gold-Kante
@@ -91,6 +102,26 @@ ihre Skripte, ihre Leitmotive (Tacho, Preisticket, Dominoreihe), ihre gelbe Rege
 - Navy bleibt 70-85 % der Fläche; der Akzent darf jetzt 8-15 % haben.
 - SVG-Glow auf waagerechten Linien: Filter mit `filterUnits="userSpaceOnUse"` (Bounding-Box-Höhe 0 → sonst kein Blur).
 - Beispiele: `references/demo_thumb_l01_v2.jpg`, Kanal-Branding in `branding/` (Vorlage `templates/remotion/videos/brand/`).
+
+## Ort statt Folie (Nutzer-Feedback 2026-11-16: „zu leer/monoton, interessanter als eine PowerPoint“)
+Beobachtet in zwei Referenz-Videos (Kontaktbögen alle 5 s):
+- **Kein Bild ist leer.** Selbst Zahlen-Einstellungen stehen in einem Ort: Bühne mit Tachoscheibe als Rückwand,
+  Nachtlandschaft mit Straße, Häusern, Strommasten, Satelliten, Mond; Rechenzentren als leuchtende Türme.
+- Der Hintergrund hat **Tiefe**: Sternenhimmel hinten, Hügel/Skyline mittig, Boden mit Lichtlinie vorn.
+- Requisiten erzählen das Thema mit (Schallplatte für Musik, Strommast für Energie, Satellit für GPS, Häuserzeile für
+  Mieten). Sie sind dunkle Silhouetten; nur das gerade besprochene leuchtet auf.
+- Figuren stehen **im** Bild (mit Namens-/Jahres-Schildern am Boden), die Du-Figur ist immer irgendwo.
+- Zahlen sitzen an Objekten (über dem Turm, auf dem Schild, auf dem Paneel), nicht frei im Raum.
+- Gleicher Ort wird wieder besucht und **verändert sich** (Fenster gehen an, Objekt wächst, Licht wandert).
+Bei uns: Szenen-Checkliste in SKILL.md Schritt 6; Bausteine `Setpieces.tsx`; Beispiel `demo_look_v2.jpg`.
+
+## Originalaufnahme (`FootageQuote`, Beispiel `demo_footage_v2.jpg`)
+- Clip rechts in einem Rahmen (1210×680 bei 1080p, Haarlinie creme, großer Schatten), Welt dahinter gedimmt,
+  links stärker abgedunkelt (Lesbarkeit).
+- Bauchbinde links mit Goldbalken: Ehrlichkeitslabel (z. B. `FIRMENANGABE · EIGENE ZAHL`) darüber, dann
+  `ORIGINALAUFNAHME (· ÜBERSETZT)`, Name in Serif, `ROLLE · ORGANISATION`, `ANLASS · DATUM`.
+- Ton des Clips läuft, Musik geduckt; eingebrannte Untertitel laufen weiter (deutsch, bei Übersetzung markiert).
+- Ein-/Ausblenden 12 f mit leichtem Skalieren 0,965 → 1.
 
 ## Thumbnails (6 gemessen)
 - Gemalte Nachtszene (Sterne, Stadtlichter, Hügel), Navy → Blau.
