@@ -100,7 +100,7 @@ Dachfenster entsättigt, draußen Nebel; nur die gefühlte Uhr glimmt orange.
 
 ### Mitte-CTA
 Kurz zwischendurch: Dieser Kanal will, dass die KI-Zukunft bei allen ankommt. Nicht nur bei ein paar Konzernen.
-Wenn du das auch willst: abonnier. Denn jetzt kommt die gute Nachricht.
+Wenn du das auch willst: abonnier gerne. Denn jetzt kommt die gute Nachricht.
 **Bild:** Ein Fenster nach dem anderen in der Straße geht warm an (Licht kommt zurück).
 
 ### Kapitel „Wo landet die gesparte Zeit?“
@@ -141,7 +141,7 @@ geschlossene Tür mit der Schlange. Zwischen beiden schwebt die Sanduhr vom Anfa
 
 ### Kapitel „Was heißt das für dich?“
 Was kannst du also tun?
-Eins: Wenn du Leute einstellst, stell die Jungen trotzdem ein. Der Stanford-Ökonom Erik Brynjolfsson bringt es auf einen Satz: Wer keine Junioren einstellt, wird auch keine Senioren haben. [Zitatkarte F5/Big Think]
+Eins: Wenn du Leute einstellst, stell die Jungen trotzdem ein. Der Stanford-Ökonom Erik Brynjolfsson bringt es auf einen Satz: Wer keine Juniors einstellt, wird auch keine Seniors haben. [Zitatkarte F5/Big Think]
 Zwei: Verhandle Zeit, nicht nur Geld. Wenn KI in deinem Team Stunden spart, frag, wohin diese Stunden gehen. Das Beispiel aus der Metallindustrie zeigt, dass das geht.
 Drei: Miss deine KI-Zeit, statt sie zu fühlen. Schreib eine Woche lang auf, was wirklich schneller geht und was nur so wirkt. Damit hast du in jedem Gespräch eine Zahl statt einem Gefühl.
 Vier: Wenn du gerade einsteigst: Schau auch auf die Ausbildung. Dort gibt es heute die Hälfte mehr Stellen als vor der Pandemie – und sie sind viel seltener von KI betroffen. [F3, F4]
