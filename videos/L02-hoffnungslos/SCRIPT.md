@@ -71,8 +71,10 @@ Und in den USA, wo es die besten Daten gibt, haben Forscher aus Stanford genau h
 Junge Leute zwischen zweiundzwanzig und fünfundzwanzig in den Berufen, die am stärksten mit KI zu tun haben: neunzehn Prozent weniger Beschäftigung als bei ihren Altersgenossen. [F5]
 Und jetzt kommt das Entscheidende: Niemand wird dafür entlassen. Es werden einfach weniger Junge eingestellt.
 Die Erfahrenen bleiben. Die Tür nach unten bleibt zu.
-Ein Mann sagt offen, wohin das führen könnte. Dario Amodei, Chef der KI-Firma Anthropic, im Mai zweitausendfünfundzwanzig:
-[CLIP amodei: Hälfte der Einstiegsjobs im Büro, 10-20 % Arbeitslosigkeit in 1-5 Jahren – „we do need to raise the alarm“ – ~15 s, übersetzt]
+Einer sagt offen, wohin das führen könnte: Dario Amodei, Chef der KI-Firma Anthropic.
+Im Mai zweitausendfünfundzwanzig hat er vorhergesagt, dass KI die Hälfte aller Einstiegsjobs im Büro wegnehmen könnte. Und die Arbeitslosigkeit auf zehn bis zwanzig Prozent treiben.
+Im Interview mit CNN sagt er:
+[CLIP amodei: „I really worry, particularly at the entry level, that the AI models are very much at the center of what an entry-level human worker would do. And so it's hard to estimate exactly what the impact would be.“ – 14,7 s, deutsche Untertitel]
 Das ist eine Prognose. Von einem, der genau diese KI verkauft. Kein Messwert.
 Aber die Jungen haben sie gehört. Fast jeder Vierte zwischen vierzehn und siebzehn sieht seine Berufspläne inzwischen durch KI in Gefahr. Zwei Jahre vorher war es jeder Sechste. [F7]
 **Bild:** Erdgeschoss des Hauses: die Eingangstür, davor eine Schlange kleiner Figuren mit Mappen. Über der Tür ein
@@ -126,7 +128,7 @@ Nur: Es liegt nicht daran, dass wir alle mehr arbeiten wollen. Unser System ist 
 Vollzeit entscheidet über deine Rente, über deine Karriere, oft sogar darüber, ob du ernst genommen wirst.
 Und obwohl eine Stunde heute rund die Hälfte mehr schafft als vor dreißig Jahren, sind die Löhne pro Stunde etwas langsamer gestiegen. [F15, F22]
 Die politische Richtung zeigt gerade sogar nach oben:
-[CLIP merz: „Mit Vier-Tage-Woche und Work-Life-Balance werden wir den Wohlstand dieses Landes nicht erhalten können.“ – ~8 s]
+[CLIP merz: „Wir müssen in diesem Land wieder mehr und vor allem effizienter arbeiten. Ich habe das im letzten Jahr von dieser Stelle aus gesagt, und da hat sich nichts geändert. Mit Vier-Tage-Woche und Work-Life-Balance werden wir den Wohlstand unseres Landes nicht erhalten können.“ – 23,8 s]
 Und das ist keine Einzelmeinung. Das Institut der deutschen Wirtschaft sagt: Wir müssten eher überlegen, wie wir den Einzelnen dazu bringen, mehr zu arbeiten. Und dass weniger Arbeit automatisch produktiver macht, dafür gebe es keinen Beleg. [F20]
 Das Argument ist ernst. Die Babyboomer gehen in Rente, und es kommen weniger Junge nach. Ohne mehr Stunden oder mehr Produktivität sinkt die Arbeit, die das Land insgesamt leistet. [F21]
 Und jetzt halt die beiden Bilder nebeneinander.
@@ -164,9 +166,10 @@ nicht kalt; unten im Park brennen Laternen, die Du-Figur sitzt auf einer Bank. D
 Die kleine Figur programmiert – diesmal zum Spaß. Ausblenden.
 
 ## Offene Punkte vor der Aufnahme
-- **Clips:** `amodei` – wörtlichen Satz und Zeitmarke aus dem CNN-Video holen (Untertitel deutsch, „übersetzt“).
-  `merz` – Mitschnitt der Rede vom 13.5.2025 finden (Wirtschaftsrat/phoenix); falls keiner: Zitatkarte.
-  Beide können Content-ID-Ansprüche auslösen.
+- **Clips: erledigt** (`voice/clips.json`, Rohdateien privat unter `B:/Projects/Youtube/clips-raw/L02/`).
+  Die beiden Sätze direkt vor den Clips bitte **wörtlich** einsprechen – an ihnen hängt die Lücke:
+  „Im Interview mit CNN sagt er“ und „Die politische Richtung zeigt gerade sogar nach oben“.
+  Beim Einsprechen einfach weiterlesen, keine Pause nötig. CNN kann Content-ID-Ansprüche auslösen.
 - **F15 (+48 % pro Stunde seit 1991)** an Destatis-Originaldaten prüfen, sonst Satz auf „deutlich mehr“ abschwächen.
 - **F8 (Civey)** wird im Skript nicht verwendet, solange das Original fehlt.
 - **F11 Dänemark:** Zahlen in der Neufassung (März 2026) gegenprüfen.

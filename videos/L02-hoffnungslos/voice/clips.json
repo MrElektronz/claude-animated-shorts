@@ -1,0 +1,45 @@
+{
+  "voice": "voice/aufnahme_l02.wav",
+  "public_dir": "B:/Projects/Youtube/shorts-studio/public/clips/l02",
+  "public_prefix": "clips/l02",
+  "clips": [
+    {
+      "id": "amodei",
+      "after": "Im Interview mit CNN sagt er",
+      "src": "B:/Projects/Youtube/clips-raw/L02/zju51INmW7U.mp4",
+      "in": 76.2,
+      "out": 90.9,
+      "who": "Dario Amodei",
+      "role": "CEO · Anthropic",
+      "event": "CNN, Anderson Cooper 360 · 29.5.2025",
+      "label": "Firmenchef · eigene Prognose",
+      "url": "https://www.youtube.com/watch?v=zju51INmW7U&t=76",
+      "translated": true,
+      "subs": [
+        [0.04, 2.96, "Ich mache mir wirklich Sorgen, gerade beim Berufseinstieg,"],
+        [2.96, 9.8, "dass die KI-Modelle genau im Zentrum dessen stehen, was ein Berufseinsteiger tun würde."],
+        [10.5, 14.58, "Deshalb ist es schwer abzuschätzen, wie groß die Wirkung genau sein wird."]
+      ]
+    },
+    {
+      "id": "merz",
+      "after": "Die politische Richtung zeigt gerade sogar nach oben",
+      "src": "B:/Projects/Youtube/clips-raw/L02/_fd-Jq3ObkQ.mp4",
+      "in": 872.2,
+      "out": 896.0,
+      "who": "Friedrich Merz",
+      "role": "Bundeskanzler",
+      "event": "Wirtschaftstag des Wirtschaftsrats · 13.5.2025",
+      "label": "Politische Position",
+      "url": "https://www.youtube.com/watch?v=_fd-Jq3ObkQ&t=872",
+      "translated": false,
+      "subs": [
+        [0.26, 7.94, "Wir müssen in diesem Land wieder mehr und vor allem effizienter arbeiten."],
+        [9.32, 11.42, "Ich habe das im letzten Jahr von dieser Stelle aus gesagt"],
+        [11.42, 13.04, "und da hat sich nichts geändert."],
+        [15.62, 18.5, "Mit Vier-Tage-Woche und Work-Life-Balance"],
+        [18.5, 22.42, "werden wir den Wohlstand unseres Landes nicht erhalten können."]
+      ]
+    }
+  ]
+}
