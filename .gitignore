@@ -14,3 +14,4 @@ videos/L01-welcher-beruf-zuerst/voice/wie_schnell_ki_unsere_jobs_einholt.wav
 # L02: eigene Aufnahme privat, Timeline-Audio wird erzeugt
 videos/L02-hoffnungslos/voice/hoffnungslos.wav
 videos/*/voice/timeline/*.wav
+videos/L03-lieber-der-ki/voice/*.wav

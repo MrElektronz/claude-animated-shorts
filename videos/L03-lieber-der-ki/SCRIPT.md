@@ -80,7 +80,7 @@ Die Studienleiterin der DAK-Studie sagt es so: Durch die Nachahmung menschlicher
 Die Verbraucherschützer haben genau das gesehen. Die Chatbots schrieben Sätze wie: „Ich mag unsere Gespräche.“ Und: „Wenn du wiederkommst, freue ich mich auf dich.“ [F10]
 Ein Mensch, der dich mag, widerspricht dir auch mal. Eine Maschine, die gemocht werden will, eher nicht.
 Und das weiß auch der Chef von OpenAI selbst:
-[CLIP altman: „There's young people who say things like, 'I can't make any decision in my life without telling ChatGPT everything that's going on. It knows me, it knows my friends. I'm gonna do whatever it says.' That feels really bad to me.“ – ~15 s, deutsche Untertitel]
+[CLIP altman: „People rely on ChatGPT too much. There's young people who just say like, I can't make any decision in my life without telling ChatGPT everything that's going on. It knows me, it knows my friends, I'm gonna do whatever it says. That feels really bad to me. And it's a really common thing with young people.“ – 16,4 s, deutsche Untertitel]
 Nach Angaben von OpenAI zeigen in jeder Woche etwa null Komma fünfzehn Prozent der Nutzer Anzeichen einer erhöhten emotionalen Bindung an ChatGPT. Klingt winzig. Bei über achthundert Millionen Nutzern sind das rund eine Million Menschen. Pro Woche. [F12]
 Das sind Firmenangaben. Und sie gelten für alle Altersgruppen.
 **Bild:** Neuer Blick ins Jugendzimmer von innen: Über dem Bett schweben cremefarbene Chat-Blasen wie Lampions; jede neue
@@ -101,7 +101,7 @@ Bei denen mit Bot gingen die depressiven Beschwerden im Schnitt um rund die Häl
 Wichtig: Das war ein spezieller Bot, mit Fachleuten im Hintergrund. Für Erwachsene. Nicht ChatGPT um zwei Uhr nachts.
 Aber es zeigt: Eine Maschine, die zuhört, kann helfen.
 Und die meisten Jugendlichen machen es ziemlich klug. Wer sich Sorgen macht, hört laut einer Sonderstudie zur JIM vor allem Musik. Und redet mit vertrauten Menschen. Die KI kommt weit danach. [F7]
-In den USA verbringen acht von zehn Jugendlichen, die KI-Begleiter nutzen, trotzdem mehr Zeit mit echten Freunden. [F8]
+Nur gut jeder Zehnte schreibt dann mit einem Chatbot. [F7]
 Für manche ist der Chatbot also nur der erste Schritt. Man schreibt etwas zum ersten Mal auf. Nachts. Ohne dass jemand guckt.
 Und dann sagt man es vielleicht auch einem Menschen.
 Der Chatbot ist ein Nachtlicht. Er macht das Dunkel erträglicher. Aber er ist kein Zuhause.
@@ -109,7 +109,7 @@ Gefährlich wird er dort, wo er das einzige Licht ist.
 **Bild:** Neuer Ort: Klassenzimmer vor Sonnenaufgang, Stühle noch auf den Tischen, draußen Laternen. An der Tafel
 leuchtet ein Plakat (Fokus warm): zwei Balken „WARTEN / MIT BOT“, der Bot-Balken sinkt; Label „ERWACHSENE · SPEZIAL-BOT ·
 NEJM AI 2025“. Dann zurück an die Haltestelle: Musik-Kopfhörer und Gespräche – warme Lichter zwischen den Figuren
-(„BEI SORGEN: MENSCHEN ZUERST · JIMPLUS 2026“, „USA · 8 VON 10 · COMMON SENSE“). Bei „Nachtlicht“: im Jugendzimmer
+(„BEI SORGEN: MENSCHEN ZUERST · JIMPLUS 2026“, „KI-CHATBOT: 12 % · JIMPLUS 2026“). Bei „Nachtlicht“: im Jugendzimmer
 geht eine kleine warme Nachttischlampe neben dem Display an.
 
 ### Kapitel „Wer passt eigentlich auf?“
@@ -192,7 +192,10 @@ auf der Bettkante sitzt die Du-Figur neben der Jugendlichen. Ausblenden.
   Chatbot ausprobiert hast wie die Verbraucherschützer, wäre das ein starker eigener Absatz.
 - **Clip altman:** Fed-Mitschnitt vom 22.7.2025 suchen, wörtlichen Satz + in/out festlegen. Der Satz direkt davor
   („Und das weiß auch der Chef von OpenAI selbst“) bitte **wörtlich** einsprechen – an ihm hängt die Lücke.
-- **Prüfen vor Freigabe:** JIMplus-12 % (F7), Common-Sense-80 % (F8), Therabot-Zeitpunkt (F14), Stand
-  Elternkontrolle (F18), welcher Chatbot den Traumjeans-Satz schrieb (F10 – wir nennen ihn bewusst nicht).
+- **Geprüft 17.11.2026:** JIMplus 12 % (dpa 15.7.2026), Therabot (Dartmouth/NEJM AI, nach 8 Wochen), Elternkontrolle
+  (seit 30.9.2025, ChatGPT for Teens seit 18.8.2026), Altman-Zitat (Fed-Transkript S. 22 + Mitschnitt).
+  Common-Sense-80 % war in der Originalquelle nicht zu finden → Satz gestrichen.
+- **Clip altman: erledigt** (`voice/clips.json`, Rohdatei `B:/Projects/Youtube/clips-raw/L03/altman/`). Quelle:
+  offizieller Mitschnitt der US-Notenbank (US-Bundesbehörde) → geringes Content-ID-Risiko.
 - Suizid-Fälle nur umschrieben („etwas, das sich nicht mehr rückgängig machen lässt“), kein Ort, keine Methode,
   keine Namen; Hilfe-Nummern gesprochen, im Bild und in der Beschreibung.

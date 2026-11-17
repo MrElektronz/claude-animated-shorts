@@ -1,0 +1,28 @@
+{
+  "voice": "voice/lieber-der-ki.wav",
+  "public_dir": "B:/Projects/Youtube/shorts-studio/public/clips/l03",
+  "public_prefix": "clips/l03",
+  "clips": [
+    {
+      "id": "altman",
+      "after": "Und das weiß auch der Chef von OpenAI selbst",
+      "src": "B:/Projects/Youtube/clips-raw/L03/altman/altman_raw.webm",
+      "in": 22.6,
+      "out": 39.0,
+      "who": "Sam Altman",
+      "role": "CEO · OpenAI",
+      "event": "Konferenz der US-Notenbank (Federal Reserve) · 22.7.2025",
+      "label": "Firmenchef über die eigene KI",
+      "url": "https://www.youtube.com/watch?v=zKh-6QvQfqA&t=18642",
+      "translated": true,
+      "subs": [
+        [0.1, 1.5, "Die Leute verlassen sich zu sehr auf ChatGPT."],
+        [2.1, 5.8, "Es gibt junge Leute, die sagen: Ich kann keine Entscheidung in meinem Leben treffen,"],
+        [5.8, 7.9, "ohne ChatGPT alles zu erzählen, was los ist."],
+        [7.9, 10.3, "Es kennt mich, es kennt meine Freunde. Ich mache, was es sagt."],
+        [11.2, 12.4, "Das fühlt sich für mich wirklich schlecht an."],
+        [13.6, 16.3, "Und das ist bei jungen Leuten etwas ganz Häufiges."]
+      ]
+    }
+  ]
+}
