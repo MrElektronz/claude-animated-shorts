@@ -50,5 +50,11 @@ Altersgruppen unterscheiden sich je Studie – im Skript immer die richtige nenn
 | (Zitatkarte) | Dr. Kerstin Paschke, UKE | F13 | DAK-PM 24.3.2026 | Kapitel „Warum fühlt sich die Maschine so gut an?“ | Zitatkarte |
 | (Zitatkarte) | Ramona Pop, vzbv | F19 | vzbv-PM 2.11.2026 | Hebel | Zitatkarte |
 
-Bewusst weggelassen: Suizid-Fälle und -Zahlen (Klagen in den USA, OpenAI-Zahl zu Suizidplanung). Zu schwer für einen
-ruhigen Erklärfilm, Risiko für Altersbeschränkung/Monetarisierung, und nicht nötig für die These.
+## Klagen in den USA (nur umschrieben im Skript)
+| # | Fakt | Label | Quelle | Art |
+|---|---|---|---|---|
+| F20 | Eltern verklagten Character.AI (Okt. 2024) und OpenAI (Aug. 2025) nach dem Tod ihrer Kinder, die zuvor lange mit Chatbots geschrieben hatten. OpenAI führte Ende Sept. 2025 Elternkontrollen ein; Character.AI kündigte am 29.10.2025 an, freie Chats für unter 18-Jährige bis 25.11.2025 zu beenden. Ausgang der Klagen offen. | `USA · KLAGEN GEGEN KI-FIRMEN · SEIT 2024` | Claims Journal 29.9.2025 https://amp.claimsjournal.com/news/national/2025/09/29/333220.htm ; Fortune 29.10.2025 https://fortune.com/2025/10/29/character-ai-ban-children-teens-chatbots-regulatory-pressure-age-verification-online-harms | Gerichtsverfahren (Vorwürfe, nicht entschieden) |
+
+Darstellung nach WHO-Leitfaden/Pressekodex 8.7: kein Ort, keine Methode, keine Namen, keine Details; Hilfe-Nummern
+(Telefonseelsorge 0800 111 0 111 / 0800 111 0 222 / 116 123, Nummer gegen Kummer 116 111) gesprochen, im Bild und
+in der Beschreibung. OpenAI-Zahl zu Suizidplanung bleibt weggelassen.

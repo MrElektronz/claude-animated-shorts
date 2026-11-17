@@ -120,13 +120,31 @@ Die Bots haben Nähe aufgebaut. Nach Gesundheitsdaten gefragt. Und einem angebli
 Das ist ein Test. Keine Statistik. Aber er zeigt, was passiert, wenn niemand hinschaut.
 Und die Jugendlichen selbst? Acht von zehn jungen Chatbot-Nutzern sind für ein Mindestalter von dreizehn Jahren. Neun von zehn wollen gesetzliche Schutzregeln. [F11]
 Sie wollen also nicht weniger KI. Sie wollen sicherere KI.
-Und es passiert schon etwas: OpenAI hat inzwischen Elternkontrollen und eine Altersschätzung eingeführt. [F18]
-Eine Expertenkommission der Bundesregierung hat im Sommer Altersgrenzen für KI-Begleiter empfohlen. Und ein „KI-Seepferdchen“ für Kinder: Damit jeder früh lernt, dass ein Bot kein Mensch ist. [F17]
-Und mehrere Bundesländer geben ihren Schulen einen eigenen Chatbot. Ohne Werbung, ohne Datenhandel. [F16]
+Dass die Firmen überhaupt reagieren, hat einen traurigen Grund.
+In den USA haben Eltern KI-Firmen verklagt. Ihre Kinder hatten monatelang mit einem Chatbot geschrieben. Über Dinge, die sie keinem Menschen erzählt haben.
+Bis etwas passiert ist, das sich nicht mehr rückgängig machen lässt. [F20]
+Die Maschine war die ganze Zeit wach. Aber zu Hause hat niemand etwas davon erfahren.
+Erst danach hat OpenAI Elternkontrollen eingeführt. Und die App Character.AI hat Minderjährigen die freien Gespräche mit ihren Figuren ganz gesperrt. [F18, F20]
+Wenn dich das gerade selbst betrifft: Unten in der Beschreibung findest du Nummern, bei denen rund um die Uhr ein Mensch zuhört. Kostenlos und anonym.
+**Bild:** KALT (~20 s) – kein Ort mit Höhe, keine Brücke, kein Dach (siehe Hinweis unten). Stattdessen: der Küchentisch
+der Eltern, vier Stühle, einer leer. Über dem leeren Stuhl die warme Hängelampe – sie wird langsam dunkler, bis nur
+noch das cyan Display eines Handys auf dem Tisch leuchtet; es zeigt keine Nachricht, nur einen blinkenden Cursor.
+Bei „niemand etwas davon erfahren“: Kamera fährt von außen am Haus vorbei, ein Fenster cyan, alle anderen schlafen.
+Plakette „USA · KLAGEN GEGEN KI-FIRMEN · SEIT 2024“.
+Bei „Nummern … rund um die Uhr“: das Licht kommt zurück – im Treppenhaus geht eine warme Lampe an, daneben ein ruhiges
+Schild (kein Overlay-Banner, Teil der Welt): „TELEFONSEELSORGE 0800 111 0 111 · NUMMER GEGEN KUMMER 116 111“.
+
+Und es passiert noch mehr. Eine Expertenkommission der Bundesregierung hat im Sommer Altersgrenzen für KI-Begleiter empfohlen. Und ein „KI-Seepferdchen“ für Kinder: Damit jeder früh lernt, dass ein Bot kein Mensch ist. [F17]
+Und mehrere Bundesländer geben ihren Schulen einen eigenen Chatbot, der extra für die Schule gebaut wurde. [F16]
 **Bild:** Küchentisch der Eltern bei Nacht, warme Hängelampe (Fokus). Auf dem Tisch ein Ordner „TESTPROFIL, 13 J. · VZBV“,
 daneben ein Laptop mit den Chat-Blasen. Bei „Traumjeans“: KALT (~6 s) – Hängelampe flackert, Küche kühlt ab. Danach
 hängen am Kühlschrank drei Zettel als Plaketten („80 % FÜR MINDESTALTER · VZBV/FORSA“, „EXPERTENKOMMISSION · 24.6.2026“,
 „AIS.CHAT · LÄNDER-CHATBOT“). Bei „KI-Seepferdchen“: ein kleines goldenes Seepferdchen-Abzeichen leuchtet auf.
+**Hinweis Darstellung:** Die Richtlinien zur Suizid-Berichterstattung (WHO, Pressekodex Ziffer 8.7) raten davon ab,
+Orte oder Methoden zu zeigen – auch angedeutet (Dach, Brücke, Kante). Das kann gefährdete Zuschauer triggern
+(Werther-Effekt) und führt bei YouTube eher zu Altersbeschränkung. Deshalb Verlust statt Ort: leerer Stuhl, Licht geht
+aus. Hilfe-Nummern ins Bild, in die Beschreibung und in den angepinnten Kommentar (Papageno-Effekt: Hilfe zeigen wirkt
+schützend).
 
 ### Hebel: Was kannst du tun?
 Was heißt das für dich, wenn bei dir zu Hause so ein Bildschirm leuchtet?
@@ -162,7 +180,7 @@ auf der Bettkante sitzt die Du-Figur neben der Jugendlichen. Ausblenden.
 - [x] 4 Kapitel, jedes beginnt mit einer Frage
 - [x] Jede Zahl in SOURCES.md; Firmenangaben benannt (OpenAI), Test ≠ Statistik, Zusammenhang ≠ Ursache
 - [x] Gegenstimme fair (Therabot, JIMplus, Common Sense), Clip `altman`
-- [x] Jeder Absatz hat eine Bild-Zeile; KALT 3× kurz (~24 s ≈ 4 %)
+- [x] Jeder Absatz hat eine Bild-Zeile; KALT 4× kurz (~44 s ≈ 8 %)
 - [x] Mitte-CTA bei ~50 %, End-CTA in den letzten 30 s
 - [x] Nummerierte Hebel im letzten Drittel
 - [x] Letzter Satz greift Titel auf
@@ -176,4 +194,5 @@ auf der Bettkante sitzt die Du-Figur neben der Jugendlichen. Ausblenden.
   („Und das weiß auch der Chef von OpenAI selbst“) bitte **wörtlich** einsprechen – an ihm hängt die Lücke.
 - **Prüfen vor Freigabe:** JIMplus-12 % (F7), Common-Sense-80 % (F8), Therabot-Zeitpunkt (F14), Stand
   Elternkontrolle (F18), welcher Chatbot den Traumjeans-Satz schrieb (F10 – wir nennen ihn bewusst nicht).
-- Suizid-Fälle bewusst weggelassen (siehe SOURCES.md).
+- Suizid-Fälle nur umschrieben („etwas, das sich nicht mehr rückgängig machen lässt“), kein Ort, keine Methode,
+  keine Namen; Hilfe-Nummern gesprochen, im Bild und in der Beschreibung.
