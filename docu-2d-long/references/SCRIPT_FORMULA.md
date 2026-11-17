@@ -34,6 +34,11 @@ Gemessen pro Video: 8-29 Fragen (Median ~11), 8-13 „aber“-Wendungen, Sätze 
   kein Beweis.“ „Drei Augen bewegen nicht die Nadel. Sie bewegen die Chancen.“ (Muster.) Das macht den Kanal glaubwürdig.
 - **Fragen als Scharniere**: Am Ende fast jedes Absatzes eine Frage, die das nächste Bild öffnet.
 - **Zahlen rund und greifbar**: „knapp zwei Monate pro Jahr“, „neun von zehn“, nie „87,3 %“ im Satz (genau im Label).
+- **Zahlen dosieren** (Nutzer-Feedback L03): Zu viele gesprochene Zahlen ermüden, Zuschauer kommen nicht hinterher und
+  schalten ab. Pro Video **höchstens 5-7 gesprochene Zahlen**, mindestens ~1 min Abstand, nie zwei Statistiken direkt
+  hintereinander. Eine davon ist die Leitmotiv-Zahl (darf wiederkehren). Alles andere in Worten („die meisten“,
+  „fast alle“, „einige“, „deutlich mehr“, „die große Mehrheit“) – **die genaue Zahl steht dann nur im Bild** (Plakette
+  mit Quelle). Daten und Jahreszahlen sparsam („letztes Jahr“ statt „im April zweitausendfünfundzwanzig“).
 - **Wiederholung des Leitmotivs**: Dieselbe Formulierung kommt 4-6 Mal (die Nadel, die Linie, die Reihe).
 - **Du-Ansprache** durchgehend, aber kein Gebrüll: ruhig, klug, warm. Keine Superlative ohne Zahl.
 - Jeder Satz muss zeichenbar sein. Wenn kein Bild dazu passt: umschreiben.
@@ -59,6 +64,7 @@ Eigene Formulierung, nicht die der Referenz. Mitte-CTA und End-CTA verwenden die
 - [ ] Ein Nachrichten-Anlass < 3 Monate alt in den ersten 20 s.
 - [ ] Zentrale Frage bis 0:45 ausgesprochen.
 - [ ] Ein Leitmotiv, das 4-6 Mal wiederkommt.
+- [ ] Höchstens 5-7 gesprochene Zahlen, ≥ ~1 min auseinander; der Rest nur im Bild (Labels).
 - [ ] 3-5 Kapitel, jedes beginnt mit einer Frage (= Kapitel-Tag).
 - [ ] Jede Zahl steht mit Quelle in `SOURCES.md`; Firmenangaben als solche benannt.
 - [ ] Mindestens eine faire Gegenstimme mit echtem Zitat (wörtlich, übersetzt markiert) – wenn möglich als
