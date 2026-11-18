@@ -1,0 +1,1197 @@
+[
+ {
+  "word": "Der",
+  "start": 0.0,
+  "end": 0.209
+ },
+ {
+  "word": "Rauch",
+  "start": 0.279,
+  "end": 0.639
+ },
+ {
+  "word": "kommt",
+  "start": 0.712,
+  "end": 0.979
+ },
+ {
+  "word": "aus",
+  "start": 1.037,
+  "end": 1.153
+ },
+ {
+  "word": "dem",
+  "start": 1.211,
+  "end": 1.327
+ },
+ {
+  "word": "vierten",
+  "start": 1.385,
+  "end": 1.699
+ },
+ {
+  "word": "Stock.",
+  "start": 1.769,
+  "end": 2.175
+ },
+ {
+  "word": "Und",
+  "start": 2.23,
+  "end": 2.37
+ },
+ {
+  "word": "Frau",
+  "start": 2.416,
+  "end": 2.555
+ },
+ {
+  "word": "Brandt",
+  "start": 2.579,
+  "end": 2.915
+ },
+ {
+  "word": "wohnt",
+  "start": 2.962,
+  "end": 3.229
+ },
+ {
+  "word": "im",
+  "start": 3.287,
+  "end": 3.392
+ },
+ {
+  "word": "neunten.",
+  "start": 3.485,
+  "end": 4.077
+ },
+ {
+  "word": "Tag",
+  "start": 4.14,
+  "end": 4.454
+ },
+ {
+  "word": "zwei",
+  "start": 4.558,
+  "end": 4.93
+ },
+ {
+  "word": "ohne",
+  "start": 5.012,
+  "end": 5.267
+ },
+ {
+  "word": "Strom.",
+  "start": 5.325,
+  "end": 5.871
+ },
+ {
+  "word": "Kein",
+  "start": 5.953,
+  "end": 6.243
+ },
+ {
+  "word": "Netz.",
+  "start": 6.324,
+  "end": 6.765
+ },
+ {
+  "word": "Kein",
+  "start": 6.834,
+  "end": 7.101
+ },
+ {
+  "word": "Notruf.",
+  "start": 7.183,
+  "end": 7.845
+ },
+ {
+  "word": "Malik",
+  "start": 7.954,
+  "end": 8.372
+ },
+ {
+  "word": "springt",
+  "start": 8.509,
+  "end": 8.95
+ },
+ {
+  "word": "aufs",
+  "start": 9.031,
+  "end": 9.252
+ },
+ {
+  "word": "Rad.",
+  "start": 9.345,
+  "end": 9.785
+ },
+ {
+  "word": "„Ich",
+  "start": 9.785,
+  "end": 10.031
+ },
+ {
+  "word": "hol",
+  "start": 10.078,
+  "end": 10.252
+ },
+ {
+  "word": "die",
+  "start": 10.287,
+  "end": 10.38
+ },
+ {
+  "word": "Feuerwehr!“",
+  "start": 10.473,
+  "end": 11.205
+ },
+ {
+  "word": "Du",
+  "start": 11.25,
+  "end": 11.377
+ },
+ {
+  "word": "rennst",
+  "start": 11.424,
+  "end": 11.656
+ },
+ {
+  "word": "ins",
+  "start": 11.714,
+  "end": 11.865
+ },
+ {
+  "word": "Treppenhaus.",
+  "start": 11.911,
+  "end": 12.701
+ },
+ {
+  "word": "Der",
+  "start": 12.764,
+  "end": 12.915
+ },
+ {
+  "word": "Rauch",
+  "start": 12.973,
+  "end": 13.275
+ },
+ {
+  "word": "steigt",
+  "start": 13.397,
+  "end": 13.769
+ },
+ {
+  "word": "nach",
+  "start": 13.839,
+  "end": 13.99
+ },
+ {
+  "word": "oben,",
+  "start": 14.071,
+  "end": 14.5
+ },
+ {
+  "word": "wie",
+  "start": 14.549,
+  "end": 14.723
+ },
+ {
+  "word": "in",
+  "start": 14.77,
+  "end": 14.851
+ },
+ {
+  "word": "einem",
+  "start": 14.921,
+  "end": 15.141
+ },
+ {
+  "word": "Kamin.",
+  "start": 15.199,
+  "end": 15.785
+ },
+ {
+  "word": "Im",
+  "start": 15.844,
+  "end": 15.972
+ },
+ {
+  "word": "vierten",
+  "start": 16.03,
+  "end": 16.332
+ },
+ {
+  "word": "Stock",
+  "start": 16.39,
+  "end": 16.669
+ },
+ {
+  "word": "quillt",
+  "start": 16.76,
+  "end": 17.132
+ },
+ {
+  "word": "er",
+  "start": 17.213,
+  "end": 17.329
+ },
+ {
+  "word": "unter",
+  "start": 17.41,
+  "end": 17.643
+ },
+ {
+  "word": "einer",
+  "start": 17.689,
+  "end": 17.886
+ },
+ {
+  "word": "Tür",
+  "start": 17.933,
+  "end": 18.188
+ },
+ {
+  "word": "durch.",
+  "start": 18.223,
+  "end": 18.745
+ },
+ {
+  "word": "Du",
+  "start": 18.79,
+  "end": 18.906
+ },
+ {
+  "word": "legst",
+  "start": 18.964,
+  "end": 19.185
+ },
+ {
+  "word": "die",
+  "start": 19.208,
+  "end": 19.289
+ },
+ {
+  "word": "Hand",
+  "start": 19.336,
+  "end": 19.521
+ },
+ {
+  "word": "drauf.",
+  "start": 19.545,
+  "end": 20.015
+ },
+ {
+  "word": "Heiß.",
+  "start": 20.1,
+  "end": 20.715
+ },
+ {
+  "word": "Also",
+  "start": 20.789,
+  "end": 21.032
+ },
+ {
+  "word": "weiter.",
+  "start": 21.079,
+  "end": 21.555
+ },
+ {
+  "word": "Die",
+  "start": 21.614,
+  "end": 21.753
+ },
+ {
+  "word": "Augen",
+  "start": 21.811,
+  "end": 22.136
+ },
+ {
+  "word": "brennen.",
+  "start": 22.195,
+  "end": 22.825
+ },
+ {
+  "word": "Neunter",
+  "start": 22.92,
+  "end": 23.28
+ },
+ {
+  "word": "Stock.",
+  "start": 23.338,
+  "end": 23.745
+ },
+ {
+  "word": "Du",
+  "start": 23.786,
+  "end": 23.925
+ },
+ {
+  "word": "hämmerst",
+  "start": 23.994,
+  "end": 24.366
+ },
+ {
+  "word": "an",
+  "start": 24.436,
+  "end": 24.517
+ },
+ {
+  "word": "Frau",
+  "start": 24.575,
+  "end": 24.726
+ },
+ {
+  "word": "Brandts",
+  "start": 24.761,
+  "end": 25.063
+ },
+ {
+  "word": "Tür.",
+  "start": 25.121,
+  "end": 25.555
+ },
+ {
+  "word": "Nichts.",
+  "start": 25.653,
+  "end": 26.235
+ },
+ {
+  "word": "Dann",
+  "start": 26.285,
+  "end": 26.529
+ },
+ {
+  "word": "geht",
+  "start": 26.61,
+  "end": 26.796
+ },
+ {
+  "word": "sie",
+  "start": 26.843,
+  "end": 26.959
+ },
+ {
+  "word": "auf.",
+  "start": 27.017,
+  "end": 27.425
+ },
+ {
+  "word": "Frau",
+  "start": 27.536,
+  "end": 27.733
+ },
+ {
+  "word": "Brandt",
+  "start": 27.768,
+  "end": 28.024
+ },
+ {
+  "word": "packt",
+  "start": 28.082,
+  "end": 28.304
+ },
+ {
+  "word": "in",
+  "start": 28.362,
+  "end": 28.443
+ },
+ {
+  "word": "Ruhe",
+  "start": 28.501,
+  "end": 28.756
+ },
+ {
+  "word": "ihre",
+  "start": 28.838,
+  "end": 29.035
+ },
+ {
+  "word": "Tabletten.",
+  "start": 29.081,
+  "end": 29.745
+ },
+ {
+  "word": "Ihr",
+  "start": 29.822,
+  "end": 29.997
+ },
+ {
+  "word": "Radio",
+  "start": 30.043,
+  "end": 30.403
+ },
+ {
+  "word": "bleibt",
+  "start": 30.449,
+  "end": 30.693
+ },
+ {
+  "word": "auf",
+  "start": 30.728,
+  "end": 30.809
+ },
+ {
+  "word": "dem",
+  "start": 30.856,
+  "end": 30.96
+ },
+ {
+  "word": "Tisch",
+  "start": 31.018,
+  "end": 31.192
+ },
+ {
+  "word": "stehen.",
+  "start": 31.285,
+  "end": 31.835
+ },
+ {
+  "word": "Ein",
+  "start": 31.912,
+  "end": 32.029
+ },
+ {
+  "word": "Stock",
+  "start": 32.075,
+  "end": 32.307
+ },
+ {
+  "word": "höher",
+  "start": 32.354,
+  "end": 32.679
+ },
+ {
+  "word": "öffnet",
+  "start": 32.752,
+  "end": 33.1
+ },
+ {
+  "word": "Kessler",
+  "start": 33.147,
+  "end": 33.565
+ },
+ {
+  "word": "nur",
+  "start": 33.669,
+  "end": 33.843
+ },
+ {
+  "word": "einen",
+  "start": 33.901,
+  "end": 34.121
+ },
+ {
+  "word": "Spalt.",
+  "start": 34.168,
+  "end": 34.645
+ },
+ {
+  "word": "„Ich",
+  "start": 34.645,
+  "end": 34.888
+ },
+ {
+  "word": "bleibe",
+  "start": 34.934,
+  "end": 35.213
+ },
+ {
+  "word": "hier.“",
+  "start": 35.259,
+  "end": 35.635
+ },
+ {
+  "word": "Hinter",
+  "start": 35.669,
+  "end": 35.971
+ },
+ {
+  "word": "ihm",
+  "start": 36.029,
+  "end": 36.145
+ },
+ {
+  "word": "brummt",
+  "start": 36.214,
+  "end": 36.516
+ },
+ {
+  "word": "etwas.",
+  "start": 36.574,
+  "end": 37.085
+ },
+ {
+  "word": "Dann",
+  "start": 37.142,
+  "end": 37.316
+ },
+ {
+  "word": "ist",
+  "start": 37.362,
+  "end": 37.467
+ },
+ {
+  "word": "die",
+  "start": 37.49,
+  "end": 37.571
+ },
+ {
+  "word": "Tür",
+  "start": 37.618,
+  "end": 37.792
+ },
+ {
+  "word": "zu.",
+  "start": 37.873,
+  "end": 38.195
+ },
+ {
+  "word": "Runter.",
+  "start": 38.297,
+  "end": 38.835
+ },
+ {
+  "word": "Jetzt",
+  "start": 38.913,
+  "end": 39.203
+ },
+ {
+  "word": "ist",
+  "start": 39.261,
+  "end": 39.389
+ },
+ {
+  "word": "der",
+  "start": 39.412,
+  "end": 39.517
+ },
+ {
+  "word": "Rauch",
+  "start": 39.552,
+  "end": 39.796
+ },
+ {
+  "word": "überall.",
+  "start": 39.938,
+  "end": 40.615
+ },
+ {
+  "word": "Du",
+  "start": 40.663,
+  "end": 40.79
+ },
+ {
+  "word": "zählst",
+  "start": 40.848,
+  "end": 41.139
+ },
+ {
+  "word": "die",
+  "start": 41.162,
+  "end": 41.255
+ },
+ {
+  "word": "Stockwerke",
+  "start": 41.301,
+  "end": 41.824
+ },
+ {
+  "word": "mit.",
+  "start": 41.87,
+  "end": 42.145
+ },
+ {
+  "word": "Acht.",
+  "start": 42.23,
+  "end": 42.655
+ },
+ {
+  "word": "Sieben.",
+  "start": 42.765,
+  "end": 43.299
+ },
+ {
+  "word": "Frau",
+  "start": 43.4,
+  "end": 43.586
+ },
+ {
+  "word": "Brandt",
+  "start": 43.621,
+  "end": 43.841
+ },
+ {
+  "word": "hustet.",
+  "start": 43.888,
+  "end": 44.405
+ },
+ {
+  "word": "Sechs.",
+  "start": 44.522,
+  "end": 44.985
+ },
+ {
+  "word": "Sie",
+  "start": 45.06,
+  "end": 45.188
+ },
+ {
+  "word": "bleibt",
+  "start": 45.223,
+  "end": 45.432
+ },
+ {
+  "word": "stehen.",
+  "start": 45.455,
+  "end": 45.895
+ },
+ {
+  "word": "Ihr",
+  "start": 45.96,
+  "end": 46.145
+ },
+ {
+  "word": "Herz.",
+  "start": 46.192,
+  "end": 46.655
+ },
+ {
+  "word": "Fünf.",
+  "start": 46.758,
+  "end": 47.235
+ },
+ {
+  "word": "Von",
+  "start": 47.304,
+  "end": 47.478
+ },
+ {
+  "word": "unten",
+  "start": 47.559,
+  "end": 47.884
+ },
+ {
+  "word": "kommt",
+  "start": 47.931,
+  "end": 48.117
+ },
+ {
+  "word": "ein",
+  "start": 48.163,
+  "end": 48.256
+ },
+ {
+  "word": "Licht.",
+  "start": 48.314,
+  "end": 48.675
+ },
+ {
+  "word": "Hausmeister",
+  "start": 48.742,
+  "end": 49.334
+ },
+ {
+  "word": "Jansen.",
+  "start": 49.369,
+  "end": 49.865
+ },
+ {
+  "word": "„Ich",
+  "start": 49.865,
+  "end": 50.085
+ },
+ {
+  "word": "hab",
+  "start": 50.131,
+  "end": 50.247
+ },
+ {
+  "word": "sie.",
+  "start": 50.305,
+  "end": 50.561
+ },
+ {
+  "word": "Lauf!“",
+  "start": 50.619,
+  "end": 51.075
+ },
+ {
+  "word": "Vier.",
+  "start": 51.169,
+  "end": 51.575
+ },
+ {
+  "word": "Du",
+  "start": 51.633,
+  "end": 51.737
+ },
+ {
+  "word": "hältst",
+  "start": 51.784,
+  "end": 51.981
+ },
+ {
+  "word": "die",
+  "start": 51.993,
+  "end": 52.062
+ },
+ {
+  "word": "Luft",
+  "start": 52.109,
+  "end": 52.329
+ },
+ {
+  "word": "an.",
+  "start": 52.388,
+  "end": 52.655
+ },
+ {
+  "word": "Drei.",
+  "start": 52.717,
+  "end": 53.165
+ },
+ {
+  "word": "Zwei.",
+  "start": 53.283,
+  "end": 53.755
+ },
+ {
+  "word": "Eins.",
+  "start": 53.831,
+  "end": 54.335
+ },
+ {
+  "word": "Draußen:",
+  "start": 54.411,
+  "end": 54.975
+ },
+ {
+  "word": "Sirene.",
+  "start": 55.085,
+  "end": 55.725
+ },
+ {
+  "word": "Malik",
+  "start": 55.824,
+  "end": 56.149
+ },
+ {
+  "word": "fährt",
+  "start": 56.195,
+  "end": 56.381
+ },
+ {
+  "word": "vorneweg.",
+  "start": 56.416,
+  "end": 56.885
+ },
+ {
+  "word": "Aber",
+  "start": 56.938,
+  "end": 57.136
+ },
+ {
+  "word": "der",
+  "start": 57.171,
+  "end": 57.24
+ },
+ {
+  "word": "Hydrant",
+  "start": 57.275,
+  "end": 57.751
+ },
+ {
+  "word": "spuckt",
+  "start": 57.827,
+  "end": 58.19
+ },
+ {
+  "word": "nur.",
+  "start": 58.248,
+  "end": 58.605
+ },
+ {
+  "word": "Ohne",
+  "start": 58.688,
+  "end": 58.955
+ },
+ {
+  "word": "Strom",
+  "start": 59.013,
+  "end": 59.489
+ },
+ {
+  "word": "fehlt",
+  "start": 59.635,
+  "end": 59.914
+ },
+ {
+  "word": "der",
+  "start": 59.948,
+  "end": 60.03
+ },
+ {
+  "word": "Druck.",
+  "start": 60.076,
+  "end": 60.485
+ },
+ {
+  "word": "Malik",
+  "start": 60.595,
+  "end": 60.943
+ },
+ {
+  "word": "greift",
+  "start": 61.036,
+  "end": 61.465
+ },
+ {
+  "word": "an",
+  "start": 61.573,
+  "end": 61.712
+ },
+ {
+  "word": "seinen",
+  "start": 61.77,
+  "end": 61.991
+ },
+ {
+  "word": "Schlüssel.",
+  "start": 62.06,
+  "end": 62.605
+ },
+ {
+  "word": "Dann",
+  "start": 62.664,
+  "end": 62.978
+ },
+ {
+  "word": "lässt",
+  "start": 63.104,
+  "end": 63.36
+ },
+ {
+  "word": "er",
+  "start": 63.418,
+  "end": 63.476
+ },
+ {
+  "word": "ihn",
+  "start": 63.545,
+  "end": 63.627
+ },
+ {
+  "word": "wieder",
+  "start": 63.673,
+  "end": 63.882
+ },
+ {
+  "word": "los.",
+  "start": 63.94,
+  "end": 64.455
+ },
+ {
+  "word": "Sie",
+  "start": 64.526,
+  "end": 64.666
+ },
+ {
+  "word": "löschen",
+  "start": 64.712,
+  "end": 65.049
+ },
+ {
+  "word": "mit",
+  "start": 65.141,
+  "end": 65.28
+ },
+ {
+  "word": "dem",
+  "start": 65.303,
+  "end": 65.408
+ },
+ {
+  "word": "Tankwasser.",
+  "start": 65.477,
+  "end": 66.155
+ },
+ {
+  "word": "Es",
+  "start": 66.213,
+  "end": 66.376
+ },
+ {
+  "word": "reicht.",
+  "start": 66.422,
+  "end": 66.835
+ },
+ {
+  "word": "Gerade",
+  "start": 66.917,
+  "end": 67.277
+ },
+ {
+  "word": "so.",
+  "start": 67.323,
+  "end": 67.645
+ },
+ {
+  "word": "Im",
+  "start": 67.717,
+  "end": 67.856
+ },
+ {
+  "word": "Hof",
+  "start": 67.915,
+  "end": 68.17
+ },
+ {
+  "word": "stehen",
+  "start": 68.265,
+  "end": 68.579
+ },
+ {
+  "word": "alle",
+  "start": 68.66,
+  "end": 68.857
+ },
+ {
+  "word": "in",
+  "start": 68.892,
+  "end": 68.974
+ },
+ {
+  "word": "Decken.",
+  "start": 69.032,
+  "end": 69.485
+ },
+ {
+  "word": "Du",
+  "start": 69.529,
+  "end": 69.669
+ },
+ {
+  "word": "zählst",
+  "start": 69.75,
+  "end": 70.075
+ },
+ {
+  "word": "die",
+  "start": 70.098,
+  "end": 70.179
+ },
+ {
+  "word": "Gesichter.",
+  "start": 70.226,
+  "end": 70.875
+ },
+ {
+  "word": "Jansen.",
+  "start": 70.962,
+  "end": 71.555
+ },
+ {
+  "word": "Malik.",
+  "start": 71.666,
+  "end": 72.165
+ },
+ {
+  "word": "Die",
+  "start": 72.207,
+  "end": 72.346
+ },
+ {
+  "word": "Familie",
+  "start": 72.393,
+  "end": 72.938
+ },
+ {
+  "word": "aus",
+  "start": 73.0,
+  "end": 73.202
+ },
+ {
+  "word": "dem",
+  "start": 73.26,
+  "end": 73.387
+ },
+ {
+  "word": "vierten.",
+  "start": 73.457,
+  "end": 74.005
+ },
+ {
+  "word": "Frau",
+  "start": 74.107,
+  "end": 74.292
+ },
+ {
+  "word": "Brandt",
+  "start": 74.339,
+  "end": 74.606
+ },
+ {
+  "word": "nicht.",
+  "start": 74.687,
+  "end": 75.065
+ },
+ {
+  "word": "„Sie",
+  "start": 75.065,
+  "end": 75.33
+ },
+ {
+  "word": "wollte",
+  "start": 75.365,
+  "end": 75.632
+ },
+ {
+  "word": "nur",
+  "start": 75.679,
+  "end": 75.795
+ },
+ {
+  "word": "noch",
+  "start": 75.818,
+  "end": 75.957
+ },
+ {
+  "word": "ihr",
+  "start": 76.015,
+  "end": 76.12
+ },
+ {
+  "word": "Radio",
+  "start": 76.155,
+  "end": 76.596
+ },
+ {
+  "word": "holen“,",
+  "start": 76.642,
+  "end": 77.11
+ },
+ {
+  "word": "sagt",
+  "start": 77.156,
+  "end": 77.446
+ },
+ {
+  "word": "Jansen.",
+  "start": 77.504,
+  "end": 78.035
+ },
+ {
+  "word": "Du",
+  "start": 78.071,
+  "end": 78.199
+ },
+ {
+  "word": "rennst",
+  "start": 78.257,
+  "end": 78.512
+ },
+ {
+  "word": "an",
+  "start": 78.57,
+  "end": 78.629
+ },
+ {
+  "word": "der",
+  "start": 78.675,
+  "end": 78.756
+ },
+ {
+  "word": "Feuerwehr",
+  "start": 78.814,
+  "end": 79.267
+ },
+ {
+  "word": "vorbei.",
+  "start": 79.314,
+  "end": 79.875
+ },
+ {
+  "word": "Neun",
+  "start": 79.989,
+  "end": 80.268
+ },
+ {
+  "word": "Stockwerke.",
+  "start": 80.326,
+  "end": 81.115
+ },
+ {
+  "word": "Ihre",
+  "start": 81.184,
+  "end": 81.404
+ },
+ {
+  "word": "Tür",
+  "start": 81.463,
+  "end": 81.788
+ },
+ {
+  "word": "steht",
+  "start": 81.897,
+  "end": 82.164
+ },
+ {
+  "word": "offen.",
+  "start": 82.245,
+  "end": 82.725
+ },
+ {
+  "word": "Das",
+  "start": 82.782,
+  "end": 82.957
+ },
+ {
+  "word": "Radio",
+  "start": 83.026,
+  "end": 83.386
+ },
+ {
+  "word": "liegt",
+  "start": 83.433,
+  "end": 83.607
+ },
+ {
+  "word": "auf",
+  "start": 83.653,
+  "end": 83.746
+ },
+ {
+  "word": "dem",
+  "start": 83.792,
+  "end": 83.897
+ },
+ {
+  "word": "Boden.",
+  "start": 83.943,
+  "end": 84.431
+ },
+ {
+  "word": "Und",
+  "start": 84.756,
+  "end": 84.895
+ },
+ {
+  "word": "Frau",
+  "start": 84.953,
+  "end": 85.081
+ },
+ {
+  "word": "Brandt",
+  "start": 85.116,
+  "end": 85.429
+ },
+ {
+  "word": "ist",
+  "start": 85.45,
+  "end": 85.704
+ },
+ {
+  "word": "weg.",
+  "start": 85.762,
+  "end": 86.018
+ }
+]

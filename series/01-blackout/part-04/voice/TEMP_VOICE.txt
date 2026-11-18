@@ -1,0 +1,2 @@
+TEMP: voice.wav/words.json stammen aus einem Daniel-Timing-Take (take_tmpdaniel). Ersetzen, sobald take_1.mp3 (Stimme Gvd9RXquQXWjTYwBivjq) da ist:
+  python align_local.py take_1.mp3 1 && python tighten.py take_1.mp3 words_1.json voice && mv voice_words.json words.json
